@@ -1,8 +1,7 @@
 import json
 
-# This is a script that takes old data from DMR and adds in multiple choice formatting 
-# ie A) B) C) in front of answer choices. It does not do this for the answer key, I did 
-# that by hand like a chump
+# This is a script that takes old data from the DMR work and adds in multiple choice formatting 
+# ie A) B) C) in front of answer choices. It does not do this for the answer key, I did that by hand like a chump
 instruct = [json.loads(l) for l in open("../seed_tasks_earthquake_mc.jsonl","r")]
 
 with open("../seed_tasks_earthquake_mc.jsonl") as input:
