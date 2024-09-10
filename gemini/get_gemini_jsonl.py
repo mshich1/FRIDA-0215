@@ -4,7 +4,7 @@
 import google.generativeai as genai
 import os
 import json
-from ratelimit import limits
+from ratelimit import limits, sleep_and_retry
 
 MINUTE = 60
 
@@ -16,8 +16,9 @@ genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
-    system_instruction="Do not provide any explanations for your answer choices.")
+    system_instruction="Do not provide any explanations for your answer choices. Choose all correct answers.")
 
+@sleep_and_retry
 @limits(calls=15,period=MINUTE)    
 def get_ans(): 
     gemini_ans = []
