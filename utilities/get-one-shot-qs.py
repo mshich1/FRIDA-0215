@@ -1,10 +1,13 @@
 import json
 import random
 
+# This is a script I used to extract instructions from the og mc dataset to be 1-shot tests 
+# of the gemini, llama3 vanilla and the llama3 instruct models. 
+# The split files are earthquake_oneshots and seed_tasks_earthquake_mc_oneshot
 instruct = [json.loads(l) for l in open("../seed_tasks_earthquake_mc.jsonl")]
 
 with open("../earthquake_oneshots.jsonl","w") as output_1s:
-    with open("../seed_tasks_earthquake_mc_reduced.jsonl","w") as output_seeds:
+    with open("../seed_tasks_earthquake_mc_oneshot.jsonl","w") as output_seeds:
         curr_template = "biggest"
         counter_1s = 0
         counter_seedlines = 0
