@@ -1,0 +1,584 @@
+ D) helmet 
+
+D) counter 
+
+C) shelf 
+
+E) road 
+
+E) skyscraper 
+
+E) bed 
+
+D) shed 
+
+C) stairway 
+
+B) building 
+
+C) pail 
+
+It cannot 
+
+it can 
+
+it cannot 
+
+it cannot 
+
+A) It depends on the size of the mat and the drawer. 
+
+A) empty 
+                 
+A) lowered 
+
+B) with the camera unplugged 
+
+B) open 
+
+A) fueled 
+
+C) computer 
+
+D) hydrant 
+
+E) bench 
+
+A) shutters 
+
+B) lens 
+
+B) screen 
+
+B) truck 
+D) car 
+
+A) table  
+B) tv stand 
+C) desk
+D) shelf
+E) counter 
+
+B) stairway  
+E) ladder 
+
+B) headlight 
+D) lamp
+E) table lamp 
+
+A) barrel
+D) pail 
+
+A) book 
+E) newspaper 
+
+D) bench 
+E) swivel chair 
+
+A) car
+C) bicycle
+D) motorcycle 
+
+A) car 
+C) train track
+D) bridge 
+
+C) truck
+D) car 
+
+A) armchair
+D) cushion
+E) sofa 
+
+A) car
+B) motorcycle
+E) bicycle 
+
+B) computer 
+
+C) awning 
+D) roof
+E) ceiling 
+
+C) note
+E) sign 
+
+E) book 
+
+A) video 
+C) computer 
+
+D) boat 
+
+A) extinguisher 
+
+C) stepladder 
+D) stairway 
+E) stile 
+
+C) pail 
+
+D) A plug moves electricity from the outlet to a device, and an outlet provides electricity. 
+
+C) A pane is a piece of a window
+
+A) Pallet jacks move pallets in a warehouse, but trucks can move a wide variety of objects on roads. 
+B) Only trucks have motors. 
+C) Only pallet jacks can move pallets. 
+
+B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal. 
+C) A mop and a broom both use fibers for cleaning 
+
+B) A sconce only holds candles while a rim can hold a variety of objects. 
+D) Sconces are more common than rims in modern homes. 
+
+E) A door is used to seal an opening. 
+B) An opening is used to contain a door. 
+
+C) A bowl is for liquids and a plate is for solids. 
+E) A bowl can fit a lot more inside of it, whereas with a plate it can roll off. 
+
+B) A photograph is printed ink, while a painting is brushed on paint. 
+
+A) A monitor is usualy a big screen for displaying images and a dvd is a small disc that is inserted into a display to show images. 
+
+B) A wall is made of plaster and can crumble when pressure is applied, while a door is made of wood and can withstand breakins. 
+
+A) A barn is usually painted, while a greenhouse is usually see-through. 
+E) A barn is made of wood, while a greenhouse is made of glass. 
+
+You can 
+
+You can 
+
+You can 
+
+You can 
+
+You cannot. 
+
+It is 
+
+It is not 
+
+It is 
+
+It is 
+
+It is not 
+
+It is 
+
+A) laptop
+C) smart phone 
+
+B) pickup
+C) 18 wheeler 
+
+A) styrofoam
+B) cardboard
+D) crate
+E) carton 
+
+B) hazmat suit
+D) hard hat
+E) face mask 
+
+A) trowel
+D) scooper 
+
+A) barrel
+B) satchel
+C) tote
+D) suitcase 
+
+D) knob 
+E) wheel 
+
+B) lens 
+C) book 
+D) lamp 
+
+B) railing
+C) drawer 
+
+B) sink
+C) awning
+D) vase
+E) desk 
+
+A) jug
+B) plug
+E) coffee table 
+
+C) window 
+
+C) gas pump 
+
+D) drum 
+
+B) drums 
+
+C) water tank 
+
+E) truck 
+
+D) shovel 
+E) ball 
+
+A) ladder 
+D) shelf 
+E) shutters 
+
+C) barrier 
+
+A) traffic light 
+C) license plate 
+D) tube 
+
+A) water tank 
+
+A) 3
+B) 1
+C) 2
+D) 4 
+
+A) 3. Ensure the camera is powered and connected to its monitor.
+B) 1. Point the camera at the area you wish to scan. This may involve sticking the lense in a small opening to a confined space.
+C) 2. Observe the monitor for bright, human shaped areas. Those are people that need to be saved. 
+
+A) 4
+B) 1
+C) 5
+D) 2
+E) 3 
+
+A) 4
+B) 1
+C) 2
+D) 3 
+
+A) 3
+B) 2
+C) 4
+D) 1 
+
+E) thermal imaging camera 
+
+A) dump truck
+B) hand shovel 
+E) rake 
+
+A) hard hat
+D) respirator 
+
+A) text message 
+B) telephone
+D) flashlight
+E) air horn 
+
+D) crane
+C) dump truck 
+
+E) water source for hoses 
+
+A) breaks large pieces down for easier transport offsite	
+B) gets debris out of tight spaces	
+D) moves small pieces of debris by hand 
+
+C) breaks large pieces down for easier transport offsite 
+
+B) locates warm bodies trapped in debris 
+
+A) lifts large debris to access trapped victims 
+E) pulls victim out of the rubble 
+
+A) Historical buildings
+B) Memorials
+C) Cemeteries 
+
+A) Sofa 
+B) Chair
+C) Bed
+D) Floor 
+E) Bench
+F) Window seat 
+G) Car seat
+H) Boat 
+I) Airplane 
+J) Train 
+K) Bus
+L)  Motorcycle 
+M) Desk 
+N)  Swing 
+O) Hammock
+P)  Couch 
+Q)  Loveseat 
+R)  Recliner
+S)  Ottoman 
+T)  Floor pillow 
+U)  Pillows on the floor 
+V)  Armchair 
+W)  Rocking chair
+X)  Footstool 
+Y)  Poof 
+Z)  Beanbag chair 
+
+A) Bus stops
+B) Public restrooms
+C) Schools
+D) Stores
+E) Train stations
+F) Walls 
+G) Libraries
+H) Stadiums 
+I) Museums 
+
+A) Bus stops
+C) Schools
+D) Stores
+E) Train stations
+F) Walls
+G) Libraries
+H) Stadiums 
+I) Museums 
+
+A) Parks
+B) Bus stops
+C) Train stations 
+D) Airports 
+E) Waiting rooms 
+F) Libraries 
+G) Shopping malls 
+H) Hospitals 
+I) Schools 
+J) Churches 
+
+A) Garage
+B) Construction site
+C) Home
+D) Library 
+E) Fire station
+F) School
+
+A) Garage
+B) Construction site
+C) Home
+E) Fire station 
+
+A) Over a river
+B) Over a road
+C) Over a valley 
+D) Over a canal
+E) Over a railway 
+
+A) Hay bales
+B) Farm animals
+C) Tools
+D) Tractor 
+E) Grain
+F) Feed 
+G) Farm equipment 
+H)  Stables 
+I) Storage  
+J)  Bales of straw 
+K)  A  well 
+L)  A loft 
+M) A silo
+N) A water trough
+O) A windmill 
+P)  A  truck  
+
+**A) Hay bales** 
+**B) Farm animals** 
+**C) Tools** 
+**D) Tractor** 
+**E) Grain** 
+**F) Feed** 
+**G) Farm equipment** 
+**H)  Stables** 
+**I) Storage**  
+**J)  Bales of straw** 
+**K)  A  well** 
+**L)  A loft** 
+**M) A silo**
+**N) A water trough**
+**O) A windmill**
+**P)  A  truck** 
+
+A) Stove
+B) Refrigerator
+C) Sink
+D) Oven
+E) Countertop
+F) Cabinets
+G) Dishwasher
+H) Microwave
+I) Trash can
+J) Pots and pans 
+K) Utensils
+L) Dishes
+M) Cutting board
+N) Food
+O) Spices
+P) Cleaning supplies 
+
+A) Pallets 
+B) Forklifts 
+C) Shelving 
+D) Boxes 
+E)  Shipping Containers 
+F)  Loading Docks
+G)  Office Supplies 
+H)  Tools 
+I)  Packaging Materials 
+J)  Inventory 
+K)  Safety Equipment
+L)  Security Cameras 
+M)  Lighting 
+N)  Heating and Cooling Systems 
+O)  Computers and Software 
+P)  Telephones 
+Q)  Fire Suppression Systems
+
+A) Pallets
+B) Forklifts
+C) Shelving
+D) Boxes
+E) Shipping Containers
+F) Loading Docks
+G) Office Supplies
+H) Tools
+I) Packaging Materials
+J) Inventory
+K) Safety Equipment
+L) Security Cameras
+M) Lighting
+N) Heating and Cooling Systems
+O) Computers and Software
+P) Telephones
+Q) Fire Suppression Systems 
+
+A) Desks
+B) Chairs
+C) Computers
+D) Printers
+E) Phones
+F) Whiteboards 
+G) Conference Tables 
+H) Filing Cabinets
+I) Coffee Machines 
+J) Restrooms 
+
+A) Steering wheel
+B) Seats
+C) Dashboard
+D) Engine
+E) Tires
+F) Radio
+G) Trunk
+H) Windshield
+I) Headlights 
+J) Tail lights
+K) Mirrors
+L) Sunroof
+M) Glove compartment
+N) Cup holders
+O) Air conditioning
+P) Airbags
+Q) Seat belts
+R) Jack
+S) Spare tire 
+T) First-aid kit 
+U) Emergency kit 
+V)  Floor mats 
+W)  Car manual 
+X)  License plates  
+Y)  Antenna 
+Z)  Key 
+
+Please provide the instructions for using a fire hydrant so I can reorder them correctly. 
+
+Please provide the numbered steps for how to use a thermal imaging camera for detecting people. I need the steps to be able to reorder them correctly. 
+
+Please provide the numbered steps for how to use hydraulic lifts so I can reorder them correctly. 
+
+Please provide the steps for using an air horn so I can reorder them correctly. 
+
+Please provide the instructions so I can reorder them for you! 
+
+A) **Search and rescue dogs**
+B) **Thermal imaging cameras**
+C) **Acoustic listening devices** 
+D) **Life detection devices** 
+E) **Heavy lifting equipment** 
+
+A) Excavator
+B) Crane
+C) Forklift
+D) Backhoe 
+E) Front-end Loader
+F)  Dump Truck 
+
+A) Excavator
+B) Crane
+C) Forklift
+D) Backhoe 
+E) Front-end Loader
+F)  Dump Truck 
+
+A) Hard hats
+B) Eye protection
+C) Respirators
+D) Sturdy footwear
+E) Gloves
+
+A) Hard hats
+B) Eye protection
+C) Respirators
+D) Sturdy footwear
+E) Gloves 
+
+A) Whistles 
+B) Mirrors 
+C) Flashlights 
+D) Horns 
+E)  Flags 
+F)  Signal flares 
+G)  Smoke signals 
+H)  Radio 
+I)  Satellite phone
+
+**A) Whistles** 
+**B) Mirrors** 
+**C) Flashlights** 
+**D) Horns** 
+**E) Flags** 
+**F) Signal flares** 
+**G) Smoke signals** 
+**H) Radio** 
+**I) Satellite phone** 
+
+A) Excavators
+B) Bulldozers
+C) Front-end loaders 
+D) Dump trucks
+E) Concrete breakers
+F)  Backhoes
+G)  Cranes 
+H)  Hand tools (shovels, picks, etc.) 
+I)  Safety gear (helmets, gloves, boots) 
+J)  First aid kit 
+K)  Communication devices 
+L)  Lighting 
+M)  Water and food 
+N)  Emergency shelter materials
+O)  Generator
+A) They provide a source of water for firefighters. 
+
+A) A tool for moving debris 
+
+A) It cuts through concrete, allowing for the removal of large pieces. 
+
+A) It can identify the presence of heat sources, such as survivors, even through rubble. 
+

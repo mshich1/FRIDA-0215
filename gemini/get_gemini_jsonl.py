@@ -16,20 +16,21 @@ genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
-    system_instruction="Do not provide any explanations for your answer choices. Choose all correct answers.")
+    system_instruction="Do not provide any explanations for your answer choices. Only choose correct answers. \
+        There is usually only 1 correct answer, but sometimes 2 or 3 answers are correct. Write both the letter chosen and the associated answer. \
+        For example, if the question was \"True or False, clowns have red noses. A) True\tB) False\" respond \"A) True\".")
 
 @sleep_and_retry
-@limits(calls=15,period=MINUTE)    
-def get_ans(): 
-    gemini_ans = []
+@limits(calls=14,period=MINUTE)
+def check_lim():
+    return
+
+gemini_ans = []
+with open(file_out, "w") as results:
     for i in instruct:
         task = i["instruction"]
         choices = i["instances"][0]["input"]
-        instruction = task + "\n" + choices 
-        gemini_ans.append(model.generate_content(instruction))
-    return gemini_ans
-
-ans = get_ans()
-with open(file_out, "w") as results:
-    for i in ans:
-        results.write(f"{i}\n")    
+        instruction = task + "\n" + choices + "\n" + "Answer: "
+        check_lim() 
+        res = model.generate_content(instruction).text
+        results.write(f"{res}\n")   
