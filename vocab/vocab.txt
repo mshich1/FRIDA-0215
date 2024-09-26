@@ -1,0 +1,169 @@
+ladder
+stairway
+barrier
+column
+step
+computer
+laptop
+telephone
+curtains
+barrel
+box
+cabinet
+container
+crate
+map
+car
+truck
+doorway
+opening
+television
+extinguisher
+hydrant
+barn
+bicycle
+boat
+bridge
+floor
+motorcycle
+road
+robot
+vehicle
+document
+image
+note
+photograph
+picture
+video
+lamp
+light source
+window
+windshield
+door
+balcony
+building
+house
+camera
+counter
+desk
+table
+book
+sign
+wheel
+statue
+fence
+wall
+ceiling
+cone
+traffic light
+bench
+chair
+couch
+sofa
+bed
+apron
+armchair
+art
+awning
+bag
+ball
+basket
+bottle
+bowl
+broom
+bucket
+can
+cereal
+chalk
+chalkboard
+church
+clock
+clothes iron
+clothing
+coffee
+coffee table
+cup
+cushion
+drawer
+dress
+drum
+drums
+dvd
+dvd player
+faucet
+flashlight
+garbage can
+gas pump
+gazebo
+greenhouse
+grill
+handle
+hat
+headlight
+helmet
+jar
+jug
+knob
+lens
+license plate
+lighthouse
+luggage
+mat
+mirror
+monitor
+mop
+movie
+newspaper
+orange
+outlet
+pail
+painting
+pallet
+pallet jack
+palm tree
+pan
+pane
+partition
+pillow
+plaque
+plate
+plug
+poster
+pot
+rail
+railing
+rake
+rice cooker
+rim
+sawhorse
+sconce
+screen
+seat
+seat cushion
+separator
+shade
+shed
+shelf
+shirt
+shoe
+shovel
+shutters
+silo
+sink
+skyscraper
+speaker
+stepladder
+stile
+stool
+stuff
+suit
+suitcase
+swivel chair
+table lamp
+taillight
+tomato
+tube
+tv stand
+vase
+vcr
+water tank
