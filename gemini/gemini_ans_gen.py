@@ -1,22 +1,211 @@
 import google.generativeai as genai
 import os
 import json
+import time
+import random
+import re
+import string
+from functools import partial
+from multiprocessing import Pool
 from ratelimit import limits, sleep_and_retry
 
+import numpy as np
+import tqdm
+from rouge_score import rouge_scorer
+
+import fire
+
+# batch_selfinstruct_generate.py
+
+# run:
+# python -m gemini_ans_gen generate_instruction_following_data \
+#   --input_dir ./ \
+#   --output_dir ./ \
+#   --num_instructions_to_generate 1000 \
+#   --mod_name="gemini-1.5-flash" \
+
+
 MINUTE = 60
-
-file_in = input("Put in the relative directory and jsonl file name that you want to send to gemini: ")
-file_out = input("Write the name of the file you want the results written to: ")
-
-instruct = [json.loads(l) for l in open(file_in,"r")]
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-
-model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
-    system_instruction="""You will be creating multiple choice questions on a variety of topics related to
-    common sense and/or earthquake knowledge. Be creative in choosing the vocabulary and phrasing of these questions.""")
+NUM_PROMPT_INSTRUCTIONS = 5
 
 @sleep_and_retry
 @limits(calls=14,period=MINUTE)
 def check_lim():
     return
+
+def encode_prompt(prompt_instructions, prompt):
+    # Encode multiple prompt instructions into a single string.
+    prompt_plus_fewshot = prompt + "\n"
+
+    for idx, task_dict in enumerate(prompt_instructions):
+        (instruction, input, output) = task_dict["instruction"], task_dict["input"], task_dict["output"]
+        instruction = re.sub(r"\s+", " ", instruction).strip().rstrip(":")
+        input = "<noinput>" if input.lower() == "" else input
+        prompt_plus_fewshot += f"###\n"
+        prompt_plus_fewshot += f"{idx + 1}. Instruction: {instruction}\n"
+        prompt_plus_fewshot += f"{idx + 1}. Input:\n{input}\n"
+        prompt_plus_fewshot += f"{idx + 1}. Output:\n{output}\n"
+    prompt_plus_fewshot += f"###\n"
+    prompt_plus_fewshot += f"{idx + 2}. Instruction:"
+    return prompt_plus_fewshot
+
+def post_process_response(num_prompt_instructions, response):
+    if response is None:
+        return []
+    raw_instructions = f"{num_prompt_instructions+1}. Instruction:" + response["text"]
+    raw_instructions = re.split("###", raw_instructions)
+    instructions = []
+    for idx, inst in enumerate(raw_instructions):
+        # if the decoding stops due to length, the last example is likely truncated so we discard it
+        # if idx == len(raw_instructions) - 1 and response["finish_reason"] == "length":
+        #     continue
+        idx += num_prompt_instructions + 1
+        splitted_data = re.split(f"{idx}\.\s+(Instruction|Input|Output):", inst)
+        if len(splitted_data) != 7:
+            continue
+        else:
+            inst = splitted_data[2].strip()
+            input = splitted_data[4].strip()
+            input = "" if input.lower() == "<noinput>" else input
+            output = splitted_data[6].strip()
+        # filter out too short or too long instructions
+        if len(inst.split()) <= 3 or len(inst.split()) > 150:
+            continue
+        # filter based on keywords that are not suitable for language models.
+        blacklist = [
+            "image",
+            "images",
+            "graph",
+            "graphs",
+            "picture",
+            "pictures",
+            "file",
+            "files",
+            "map",
+            "maps",
+            "draw",
+            "plot",
+            "go to",
+            "video",
+            "audio",
+            "music",
+            "flowchart",
+            "diagram",
+        ]
+        blacklist += []
+        if any(find_word_in_string(word, inst) for word in blacklist):
+            continue
+        # We found that the model tends to add "write a program" to some existing instructions, which lead to a lot of such instructions.
+        # And it's a bit comfusing whether the model need to write a program or directly output the result.
+        # Here we filter them out.
+        # Note this is not a comprehensive filtering for all programming instructions.
+        if inst.startswith("Write a program"):
+            continue
+        # filter those starting with punctuation
+        if inst[0] in string.punctuation:
+            continue
+        # filter those starting with non-english character
+        if not inst[0].isascii():
+            continue
+        instructions.append({"instruction": inst, "input": input, "output": output})
+    return instructions
+
+
+def find_word_in_string(w, s):
+    return re.compile(r"\b({0})\b".format(w), flags=re.IGNORECASE).search(s)
+
+
+def generate_instruction_following_data(
+    output_dir="../gemini_results/",
+    input_dir="../seed_data/seed_tasks_earthquake_gen.jsonl",
+    category="biggest",
+    num_instructions_to_generate=1000,
+    mod_name="gemini-1.5-flash",
+    temperature=1.1,
+    num_cpus=16,
+):
+    # get the relevent seed instructions for each category
+    instruct = [json.loads(l) for l in open(input_dir,"r")]
+    seed_instructs = [{"instruction": t["instruction"], "input": t["instances"][0]["input"], "output": t["instances"][0]["output"]} for t in instruct if t["cat"] == category]
+    print(f"Loaded {len(seed_instructs)} human-written seed instructions")
+
+    os.makedirs(output_dir, exist_ok=True)
+    request_idx = 0
+    # load the LM-generated instructions
+    machine_instruction_data = []
+    if os.path.exists(os.path.join(output_dir, "regen.json")):
+        machine_instruction_data = json.load(os.path.join(output_dir, "regen.json"))
+        print(f"Loaded {len(machine_instruction_data)} machine-generated instructions")
+
+    # similarities = {}
+    scorer = rouge_scorer.RougeScorer(["rougeL"], use_stemmer=False)
+
+    # set up gemini chit chat
+    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+    model = genai.GenerativeModel(
+        model_name=mod_name,
+        system_instruction="""You will be creating multiple choice questions on a variety of topics related to
+        common sense and/or earthquake knowledge. Be creative in choosing the vocabulary and phrasing of these questions.""")
+    
+    progress_bar = tqdm.tqdm(total=num_instructions_to_generate)
+    if machine_instruction_data:
+        progress_bar.update(len(machine_instruction_data))
+
+    # tokenize instruction for ROUGE scoring
+    all_instructions = [d["instruction"] for d in seed_instructs] + [
+        d["instruction"] for d in machine_instruction_data
+    ]
+    all_instruction_tokens = [scorer._tokenizer.tokenize(inst) for inst in all_instructions]
+    
+    while len(machine_instruction_data) < num_instructions_to_generate:
+        request_idx += 1
+        prompt = encode_prompt(seed_instructs)
+
+        request_start = time.time()
+        check_lim()
+        results = model.generate_content(prompt)
+        request_duration = time.time() - request_start
+
+        process_start = time.time()
+        instruction_data = []
+        for result in results:
+            new_instructions = post_process_response(NUM_PROMPT_INSTRUCTIONS, result)
+            instruction_data += new_instructions
+
+        total = len(instruction_data)
+        keep = 0
+        for instruction_data_entry in instruction_data:
+            # computing similarity with the pre-tokenzied instructions
+            new_instruction_tokens = scorer._tokenizer.tokenize(instruction_data_entry["instruction"])
+            with Pool(num_cpus) as p:
+                rouge_scores = p.map(
+                    partial(rouge_scorer._score_lcs, new_instruction_tokens),
+                    all_instruction_tokens,
+                )
+            rouge_scores = [score.fmeasure for score in rouge_scores]
+            most_similar_instructions = {
+                all_instructions[i]: rouge_scores[i] for i in np.argsort(rouge_scores)[-10:][::-1]
+            }
+            if max(rouge_scores) > 0.7:
+                continue
+            else:
+                keep += 1
+            instruction_data_entry["most_similar_instructions"] = most_similar_instructions
+            instruction_data_entry["avg_similarity_score"] = float(np.mean(rouge_scores))
+            machine_instruction_data.append(instruction_data_entry)
+            all_instructions.append(instruction_data_entry["instruction"])
+            all_instruction_tokens.append(new_instruction_tokens)
+            progress_bar.update(1)
+        process_duration = time.time() - process_start
+        print(f"Request {request_idx} took {request_duration:.2f}s, processing took {process_duration:.2f}s")
+        print(f"Generated {total} instructions, kept {keep} instructions")
+        json.dump(machine_instruction_data, os.path.join(output_dir, "regen.json"))
+        
+
+
+def main(task, **kwargs):
+    globals()[task](**kwargs)
+
+
+if __name__ == "__main__":
+    fire.Fire(main)
