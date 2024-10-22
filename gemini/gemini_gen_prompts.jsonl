@@ -1,13 +1,13 @@
 {"cat":"biggest", "prompt":"Create 40 unique multiple choice questions about which objects take up the most space. These questions must be multiple choice and they must have 5 options with 1 correct answer. Choose lots of different objects that people interact with."}
-{"cat":"heaviest", "prompt":""}
-{"cat":"fits", "prompt":""}
-{"cat":"interact", "prompt":""}
-{"cat":"can_do", "prompt":""}
-{"cat":"can_do_size", "prompt":""}
-{"cat":"can_do_shape", "prompt":""}
-{"cat":"can_do_char", "prompt":""}
-{"cat":"can_do_goal", "prompt":""}
-{"cat":"difference", "prompt":""}
+{"cat":"heaviest", "prompt":"Create 40 unique multiple choice questions about which objects weigh the most. These questions must be multiple choice and they must have 5 options with 1 correct answer. Choose lots of different objects that people interact with."}
+{"cat":"fits", "prompt":"Create 40 unique multiple choice questions about which objects can fit into different types of containers. These questions must be multiple choice with 2 options and 1 correct answer. Choose lots of different objects and containers that people interact with."}
+{"cat":"interact", "prompt":"Create 40 unique multiple choice questions about how easy it is to use objects based on their possible states of being. These questions must be multiple choice and they must have 2 options with 1 correct answer. Choose lots of different objects that people interact with."}
+{"cat":"can_do", "prompt":"Create 40 unique multiple choice questions about which objects can do a given function. These questions must be multiple choice and they must have 5 options with 1 correct answer. Choose lots of different objects that people interact with."}
+{"cat":"can_do_size", "prompt":"Create 40 unique multiple choice questions about which objects can complete a given function and are a certain size. These questions must be multiple choice and they must have 5 options with 1 correct answer. Choose lots of different objects that people interact with."}
+{"cat":"can_do_shape", "prompt":"Create 40 unique multiple choice questions about which objects can complete a given function and are a certain shape. These questions must be multiple choice and they must have 5 options with 1 correct answer. Choose lots of different objects that people interact with."}
+{"cat":"can_do_char", "prompt":"Create 40 unique multiple choice questions about which objects can complete a given function and are a certain size. These questions must be multiple choice and they must have 5 options with 1 correct answer. Choose lots of different objects that people interact with."}
+{"cat":"can_do_goal", "prompt":"Create 40 unique multiple choice questions about which objects can complete a given function and have a special characteristic that other objects that can complete the function do not have. These questions must be multiple choice and they must have 5 options with 1 correct answer. Choose lots of different objects that people interact with."}
+{"cat":"difference", "prompt":"Create 40 unique multiple choice questions about the differences between 2 objects that are considered to be related. These questions must be multiple choice and they must have 5 options with 1 correct answer. The answers should be brief descriptions of potential differences between the two related objects."}
 {"cat":"diff_criteria", "prompt":""}
 {"cat":"us_as", "prompt":""}
 {"cat":"is_a", "prompt":""}
