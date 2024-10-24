@@ -18,7 +18,8 @@ model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
     system_instruction="Do not provide any explanations for your answer choices. Only choose correct answers. \
         There is usually only 1 correct answer, but sometimes 2 or 3 answers are correct. Write both the letter chosen and the associated answer. \
-        For example, if the question was \"True or False, clowns have red noses. A) True\tB) False\" respond \"A) True\".")
+        For example, if the question was \"True or False, clowns have red noses. A) True\tB) False\" respond \"A) True\". All answers should \
+            be given as json objects")
 
 @sleep_and_retry
 @limits(calls=14,period=MINUTE)

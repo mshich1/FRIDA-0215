@@ -18,11 +18,11 @@ import fire
 # batch_selfinstruct_generate.py
 
 # run:
-# python -m gemini_ans_gen generate_instruction_following_data \
-#   --input_dir ./ \
-#   --output_dir ./ \
-#   --num_instructions_to_generate 1000 \
-#   --mod_name="gemini-1.5-flash" \
+# python -m gemini_ans_gen generate_instruction_following_data --input_dir ../seed_data/seed_tasks_earthquake_gen.jsonl \
+#  --output_dir ../gemini_results/ \
+#  --num_instructions_to_generate 100 \
+#  --mod_name="gemini-1.5-flash" \
+#  --category="biggest"
 
 
 MINUTE = 60
@@ -39,38 +39,39 @@ def encode_prompt(prompt_instructions, prompt):
 
     for idx, task_dict in enumerate(prompt_instructions):
         (instruction, input, output) = task_dict["instruction"], task_dict["input"], task_dict["output"]
-        instruction = re.sub(r"\s+", " ", instruction).strip().rstrip(":")
-        input = "<noinput>" if input.lower() == "" else input
-        prompt_plus_fewshot += f"###\n"
-        prompt_plus_fewshot += f"{idx + 1}. Instruction: {instruction}\n"
-        prompt_plus_fewshot += f"{idx + 1}. Input:\n{input}\n"
-        prompt_plus_fewshot += f"{idx + 1}. Output:\n{output}\n"
-    prompt_plus_fewshot += f"###\n"
-    prompt_plus_fewshot += f"{idx + 2}. Instruction:"
+
+    #     instruction = re.sub(r"\s+", " ", instruction).strip().rstrip(":")
+    #     input = "<noinput>" if input.lower() == "" else input
+    #     prompt_plus_fewshot += f"###\n"
+    #     prompt_plus_fewshot += f"{idx + 1}. Instruction: {instruction}\n"
+    #     prompt_plus_fewshot += f"{idx + 1}. Input:\n{input}\n"
+    #     prompt_plus_fewshot += f"{idx + 1}. Output:\n{output}\n"
+    # prompt_plus_fewshot += f"###\n"
+        prompt_plus_fewshot += f"{{\"instruction\":{instruction},\"input\":{input},\"output\":{output}}}"
+        prompt_plus_fewshot += "\n"
     return prompt_plus_fewshot
 
 def post_process_response(num_prompt_instructions, response):
     if response is None:
         return []
-    raw_instructions = f"{num_prompt_instructions+1}. Instruction:" + response["text"]
-    raw_instructions = re.split("###", raw_instructions)
+    resp_split = response.text.split("\n")
+    resp_split = resp_split[1:-1]
+    print(resp_split)
+    raw_instructions = [json.loads(l) for l in resp_split]
+    # raw_instructions = re.split("###", raw_instructions)
     instructions = []
-    for idx, inst in enumerate(raw_instructions):
+    for i in raw_instructions:
         # if the decoding stops due to length, the last example is likely truncated so we discard it
         # if idx == len(raw_instructions) - 1 and response["finish_reason"] == "length":
         #     continue
-        idx += num_prompt_instructions + 1
-        splitted_data = re.split(f"{idx}\.\s+(Instruction|Input|Output):", inst)
-        if len(splitted_data) != 7:
-            continue
-        else:
-            inst = splitted_data[2].strip()
-            input = splitted_data[4].strip()
-            input = "" if input.lower() == "<noinput>" else input
-            output = splitted_data[6].strip()
-        # filter out too short or too long instructions
-        if len(inst.split()) <= 3 or len(inst.split()) > 150:
-            continue
+        # idx += num_prompt_instructions + 1
+        # splitted_data = re.split(f"{idx}\.\s+(Instruction|Input|Output):", inst)
+        # if len(splitted_data) != 7:
+        #     continue
+        # else:
+        inst = i["instruction"]
+        input = i["input"]
+        output = i["output"]
         # filter based on keywords that are not suitable for language models.
         blacklist = [
             "image",
@@ -119,10 +120,10 @@ def generate_instruction_following_data(
     output_dir="../gemini_results/",
     input_dir="../seed_data/seed_tasks_earthquake_gen.jsonl",
     category="biggest",
-    num_instructions_to_generate=1000,
+    num_instructions_to_generate=100,
     mod_name="gemini-1.5-flash",
     temperature=1.1,
-    num_cpus=16,
+    num_cpus=1,
 ):
     # get the relevent seed instructions for each category
     instruct = [json.loads(l) for l in open(input_dir,"r")]
@@ -134,7 +135,7 @@ def generate_instruction_following_data(
     # load the LM-generated instructions
     machine_instruction_data = []
     if os.path.exists(os.path.join(output_dir, "regen.json")):
-        machine_instruction_data = json.load(os.path.join(output_dir, "regen.json"))
+        machine_instruction_data = json.load(open(os.path.join(output_dir, "regen.json")))
         print(f"Loaded {len(machine_instruction_data)} machine-generated instructions")
 
     # similarities = {}
@@ -145,7 +146,8 @@ def generate_instruction_following_data(
     model = genai.GenerativeModel(
         model_name=mod_name,
         system_instruction="""You will be creating multiple choice questions on a variety of topics related to
-        common sense and/or earthquake knowledge. Be creative in choosing the vocabulary and phrasing of these questions.""")
+        common sense and/or earthquake knowledge. Be creative in choosing the vocabulary and phrasing of these questions.
+        All responses must be given as json objects with the following format: \{\"instruction\":\"example instruction\", \"input\":\"A) this\tB) is\tC) an\tD) example\t E) question\",\"output\":\"E) Question\"\}""")
     
     progress_bar = tqdm.tqdm(total=num_instructions_to_generate)
     if machine_instruction_data:
@@ -159,7 +161,9 @@ def generate_instruction_following_data(
     
     while len(machine_instruction_data) < num_instructions_to_generate:
         request_idx += 1
-        prompt = encode_prompt(seed_instructs)
+        prompt_descs = [json.loads(l) for l in open("./gemini_gen_prompts.jsonl","r")]
+        prompt_desc = [p for p in prompt_descs if p["cat"] == category][0]["prompt"]
+        prompt = encode_prompt(seed_instructs, prompt_desc)
 
         request_start = time.time()
         check_lim()
@@ -168,15 +172,17 @@ def generate_instruction_following_data(
 
         process_start = time.time()
         instruction_data = []
-        for result in results:
-            new_instructions = post_process_response(NUM_PROMPT_INSTRUCTIONS, result)
-            instruction_data += new_instructions
+        new_instructions = post_process_response(NUM_PROMPT_INSTRUCTIONS, results)
+        instruction_data += new_instructions
 
         total = len(instruction_data)
         keep = 0
         for instruction_data_entry in instruction_data:
             # computing similarity with the pre-tokenzied instructions
-            new_instruction_tokens = scorer._tokenizer.tokenize(instruction_data_entry["instruction"])
+            instr_temp = instruction_data_entry["instruction"]
+            input_temp = instruction_data_entry["input"]
+            to_tokenize = f"{instr_temp} {input_temp}"
+            new_instruction_tokens = scorer._tokenizer.tokenize(to_tokenize)
             with Pool(num_cpus) as p:
                 rouge_scores = p.map(
                     partial(rouge_scorer._score_lcs, new_instruction_tokens),
@@ -186,7 +192,7 @@ def generate_instruction_following_data(
             most_similar_instructions = {
                 all_instructions[i]: rouge_scores[i] for i in np.argsort(rouge_scores)[-10:][::-1]
             }
-            if max(rouge_scores) > 0.7:
+            if max(rouge_scores) > 0.8:
                 continue
             else:
                 keep += 1
@@ -199,7 +205,8 @@ def generate_instruction_following_data(
         process_duration = time.time() - process_start
         print(f"Request {request_idx} took {request_duration:.2f}s, processing took {process_duration:.2f}s")
         print(f"Generated {total} instructions, kept {keep} instructions")
-        json.dump(machine_instruction_data, os.path.join(output_dir, "regen.json"))
+        out = open(os.path.join(output_dir, "regen.json"),"w")
+        json.dump(machine_instruction_data, out)
         
 
 
