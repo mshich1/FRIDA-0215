@@ -134,8 +134,8 @@ def generate_instruction_following_data(
     request_idx = 0
     # load the LM-generated instructions
     machine_instruction_data = []
-    if os.path.exists(os.path.join(output_dir, "regen.json")):
-        machine_instruction_data = json.load(open(os.path.join(output_dir, "regen.json")))
+    if os.path.exists(os.path.join(output_dir, f"{category}.json")):
+        machine_instruction_data = json.load(open(os.path.join(output_dir, f"{category}.json")))
         print(f"Loaded {len(machine_instruction_data)} machine-generated instructions")
 
     # similarities = {}
@@ -205,7 +205,7 @@ def generate_instruction_following_data(
         process_duration = time.time() - process_start
         print(f"Request {request_idx} took {request_duration:.2f}s, processing took {process_duration:.2f}s")
         print(f"Generated {total} instructions, kept {keep} instructions")
-        out = open(os.path.join(output_dir, "regen.json"),"w")
+        out = open(os.path.join(output_dir, f"{category}.json"),"w")
         json.dump(machine_instruction_data, out)
         
 
