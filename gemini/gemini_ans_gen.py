@@ -40,13 +40,6 @@ def encode_prompt(prompt_instructions, prompt):
     for idx, task_dict in enumerate(prompt_instructions):
         (instruction, input, output) = task_dict["instruction"], task_dict["input"], task_dict["output"]
 
-    #     instruction = re.sub(r"\s+", " ", instruction).strip().rstrip(":")
-    #     input = "<noinput>" if input.lower() == "" else input
-    #     prompt_plus_fewshot += f"###\n"
-    #     prompt_plus_fewshot += f"{idx + 1}. Instruction: {instruction}\n"
-    #     prompt_plus_fewshot += f"{idx + 1}. Input:\n{input}\n"
-    #     prompt_plus_fewshot += f"{idx + 1}. Output:\n{output}\n"
-    # prompt_plus_fewshot += f"###\n"
         prompt_plus_fewshot += f"{{\"instruction\":{instruction},\"input\":{input},\"output\":{output}}}"
         prompt_plus_fewshot += "\n"
     return prompt_plus_fewshot
