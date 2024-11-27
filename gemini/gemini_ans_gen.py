@@ -23,7 +23,7 @@ CATEGORY = ["biggest","heaviest","fits","interact","can_do","can_do_size","can_d
 # run:
 # python -m gemini_ans_gen generate_instruction_following_data --input_dir ../seed_data/seed_tasks_earthquake_gen.jsonl \
 #  --output_dir ../gemini_results/ \
-#  --num_instructions_to_generate 5 \
+#  --num_instructions_to_generate 1000 \
 #  --mod_name="gemini-1.5-flash" 
 
 
@@ -194,9 +194,9 @@ def generate_instruction_following_data(
                 most_similar_instructions = {
                     all_instructions[i]: rouge_scores[i] for i in np.argsort(rouge_scores)[-10:][::-1]
                 }
-                if  max_score > 0.8 and cat not in ['use_as','is_a','often_use','know_use']:
+                if  max_score > 0.8 and cat not in ['use_as','is_a','often_use','know_use', 'fits']:
                     continue
-                elif max_score > 0.9 and cat in ['use_as','is_a']:
+                elif max_score > 0.9 and cat in ['use_as','is_a', 'fits']:
                     continue
                 elif max_score > 0.97 and cat in ['often_use','know_use']:
                     continue
