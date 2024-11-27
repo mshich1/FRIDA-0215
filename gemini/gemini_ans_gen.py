@@ -157,6 +157,8 @@ def generate_instruction_following_data(
         ]
         all_instruction_tokens = [scorer._tokenizer.tokenize(inst) for inst in all_instructions]
         
+        if cat == 'fits':
+            num_instructions_to_generate = 980
         while len(machine_instruction_data) < num_instructions_to_generate:
             request_idx += 1
             prompt_descs = [json.loads(l) for l in open("./gemini_gen_prompts.jsonl","r")]
@@ -196,9 +198,7 @@ def generate_instruction_following_data(
                 }
                 if  max_score > 0.8 and cat not in ['use_as','is_a','often_use','know_use', 'fits']:
                     continue
-                elif max_score > 0.9 and cat in ['use_as','is_a', 'fits']:
-                    continue
-                elif max_score > 0.97 and cat in ['often_use','know_use']:
+                elif max_score > 0.97 and cat in ['use_as','is_a', 'fits','often_use','know_use']:
                     continue
                 else:
                     keep += 1
