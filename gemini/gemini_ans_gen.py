@@ -16,16 +16,15 @@ from rouge_score import rouge_scorer
 import fire
 
 CATEGORY = ["biggest","heaviest","fits","interact","can_do","can_do_size","can_do_shape","can_do_char","can_do_goal",\
-    "difference","diff_criteria", "use_as", "is_a","types_of","injury","danger","damage_to_object","explain_use",\
-        "equip_used","equip_in_task","obj_loc","objs_in_loc","secondary_use","often_use","know_use","earthquake","instruct","follow-up"]
+    "difference","diff_criteria", "use_as", "is_a","types_of","injury","danger","damage_to_obj","explain_use",\
+        "equip_used","equip_in_task","obj_loc","objs_in_loc","secondary_use","often_use","know_use","earthquake","instruct","followup"]
 # batch_selfinstruct_generate.py
 
 # run:
 # python -m gemini_ans_gen generate_instruction_following_data --input_dir ../seed_data/seed_tasks_earthquake_gen.jsonl \
 #  --output_dir ../gemini_results/ \
-#  --num_instructions_to_generate 100 \
-#  --mod_name="gemini-1.5-flash" \
-#  --category="biggest"
+#  --num_instructions_to_generate 5 \
+#  --mod_name="gemini-1.5-flash" 
 
 
 MINUTE = 60
@@ -51,9 +50,11 @@ def post_process_response(num_prompt_instructions, response):
     if response is None:
         return []
     resp_split = response.text.split("\n")
+    for r in resp_split:
+        if r == '':
+            resp_split.remove('')
     resp_split = resp_split[1:-1]
-    print(resp_split)
-    raw_instructions = [json.loads(l) for l in resp_split]
+    raw_instructions = [json.loads(l, strict = False) for l in resp_split]
     # raw_instructions = re.split("###", raw_instructions)
     instructions = []
     for i in raw_instructions:
@@ -121,9 +122,10 @@ def generate_instruction_following_data(
     num_cpus=1,
 ):
     for cat in CATEGORY:
+        print(f"***CATEGORY IS {cat}***")
         # get the relevent seed instructions for each category
         instruct = [json.loads(l) for l in open(input_dir,"r")]
-        seed_instructs = [{"instruction": t["instruction"], "input": t["instances"][0]["input"], "output": t["instances"][0]["output"]} for t in instruct if t["cat"] == category]
+        seed_instructs = [{"instruction": t["instruction"], "input": t["instances"][0]["input"], "output": t["instances"][0]["output"]} for t in instruct if t["cat"] == cat]
         print(f"Loaded {len(seed_instructs)} human-written seed instructions")
 
         os.makedirs(output_dir, exist_ok=True)
@@ -143,7 +145,7 @@ def generate_instruction_following_data(
             model_name=mod_name,
             system_instruction="""You will be creating multiple choice questions on a variety of topics related to
             common sense and/or earthquake knowledge. Be creative in choosing the vocabulary and phrasing of these questions.
-            All responses must be given as json objects with the following format: \{\"instruction\":\"example instruction\", \"input\":\"A) this\tB) is\tC) an\tD) example\t E) question\",\"output\":\"E) Question\"\}""")
+            All responses must be given as json objects with the following format: \{\"instruction\":\"example instruction\", \"input\":\"A) this\tB) is\tC) an\tD) example\t E) question",\"output\":\"E) Question\"\}""")
         
         progress_bar = tqdm.tqdm(total=num_instructions_to_generate)
         if machine_instruction_data:
@@ -168,7 +170,10 @@ def generate_instruction_following_data(
 
             process_start = time.time()
             instruction_data = []
-            new_instructions = post_process_response(NUM_PROMPT_INSTRUCTIONS, results)
+            try:
+                new_instructions = post_process_response(NUM_PROMPT_INSTRUCTIONS, results)
+            except:
+                continue
             instruction_data += new_instructions
 
             total = len(instruction_data)
@@ -185,10 +190,15 @@ def generate_instruction_following_data(
                         all_instruction_tokens,
                     )
                 rouge_scores = [score.fmeasure for score in rouge_scores]
+                max_score = max(rouge_scores)
                 most_similar_instructions = {
                     all_instructions[i]: rouge_scores[i] for i in np.argsort(rouge_scores)[-10:][::-1]
                 }
-                if max(rouge_scores) > 0.8:
+                if  max_score > 0.8 and cat not in ['use_as','is_a','often_use','know_use']:
+                    continue
+                elif max_score > 0.9 and cat in ['use_as','is_a']:
+                    continue
+                elif max_score > 0.97 and cat in ['often_use','know_use']:
                     continue
                 else:
                     keep += 1
