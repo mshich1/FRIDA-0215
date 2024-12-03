@@ -17,7 +17,7 @@ import fire
 
 CATEGORY = ["biggest","heaviest","fits","interact","can_do","can_do_size","can_do_shape","can_do_char","can_do_goal",\
     "difference","diff_criteria", "use_as", "is_a","types_of","injury","danger","damage_to_obj","explain_use",\
-        "equip_used","equip_in_task","obj_loc","objs_in_loc","secondary_use","often_use","know_use","earthquake","instruct","followup"]
+        "equip_used","equip_in_task","obj_loc","objs_in_loc","secondary_use","earthquake","instruct","followup"]
 # batch_selfinstruct_generate.py
 
 # run:
@@ -198,7 +198,7 @@ def generate_instruction_following_data(
                 }
                 if  max_score > 0.8 and cat not in ['use_as','is_a','often_use','know_use', 'fits']:
                     continue
-                elif max_score > 0.97 and cat in ['use_as','is_a', 'fits','often_use','know_use']:
+                elif max_score > 0.99 and cat in ['use_as','is_a', 'fits','often_use','know_use']:
                     continue
                 else:
                     keep += 1
