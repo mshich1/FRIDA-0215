@@ -7,11 +7,11 @@ is_a_dif = ["difference.json", "diff_criteria.json", "use_as.json","is_a.json", 
 risky = ["injury.json","danger.json", "damage_to_obj.json"]
 equip = ["explain_use.json", "equip_used.json", "equip_in_task.json"]
 obj_facts = ["obj_loc.json","objs_in_loc.json", "secondary_use.json"]
-earthquake = ["earthquake.json"]
+quake = ["earthquake.json"]
 instr = ["instruct.json", "followup.json"]
 
 catos = {"rel_size": rel_size, "can_do_it": can_do_it, "is_a_dif": is_a_dif, "risky": risky, "equip": equip,\
-          "obj_facts": obj_facts, "earthquake": earthquake, "instr": instr}
+          "obj_facts": obj_facts, "quake": quake, "instr": instr}
 
 out_dir = "../gemini_results/"
 
@@ -27,7 +27,7 @@ if ALL:
     json.dump(go_out, out)
 else:
     for key, val in catos.items():
-        if key != "can_do_it":
+        if key != "quake":
             continue
         go_out = []
         for v in val:
