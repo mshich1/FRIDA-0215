@@ -24,13 +24,11 @@ for a in adapter_model_names:
             query = [{"role":"system", "content": "The following is a multiple choice question about object properties and earthquakes. There is only one correct answer. Your answer should repeat the correct answer exactly with no explanation."},{"role": "user", "content": f"{ev['instruction']} {ev['instances'][0]['input']}"}]
             chat = tokenized.apply_chat_template(query, tokenize=False, add_generation_prompt=True)
             tokenized_chat = tokenized.encode(chat, return_tensors="pt").to("cuda")
-            output = model.generate(tokenized_chat, max_new_tokens=128)
+            attention_mask = tokenized_chat["attention_mask"]
+            output = model.generate(tokenized_chat, max_new_tokens=128,  attention_mask=attention_mask, pad_token_id=tokenized.eos_token_id)
             ans = tokenized.decode(output[0])
             ans_matched = re.search("<\|start_header_id\|>assistant<\|end_header_id\|>\s*(.*)<\|eot_id\|>", ans)
-            # [len(chat):]
             ans_spot.write(ans_matched.group(1))
             ans_spot.write("\n")
-        # f"[{ev["instruction"]} {ev["instances"][0]["input"]}]"
-        # gold_ans = f"{ev["instances"][0]["output"]}"
 
 
