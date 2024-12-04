@@ -4,6 +4,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import json
 import os
 import re
+import tqdm
 
 base_model_name = "meta-llama/Meta-Llama-3.1-8B-Instruct" #path/to/your/model/or/name/on/hub"
 adapter_model_path = "../../"
@@ -19,7 +20,7 @@ for a in adapter_model_names:
     model = PeftModel.from_pretrained(model, os.path.join(adapter_model_path, a)).to("cuda")
     
     with open(f"../llama_results/{a}.txt","w") as ans_spot:
-        for ev in eval_qs:
+        for ev in tqdm(eval_qs):
             query = [{"role":"system", "content": "The following is a multiple choice question about object properties and earthquakes. There is only one correct answer. Your answer should repeat the correct answer exactly with no explanation."},{"role": "user", "content": f"{ev['instruction']} {ev['instances'][0]['input']}"}]
             chat = tokenized.apply_chat_template(query, tokenize=False, add_generation_prompt=True)
             tokenized_chat = tokenized.encode(chat, return_tensors="pt").to("cuda")
