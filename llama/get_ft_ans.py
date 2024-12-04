@@ -17,7 +17,7 @@ for a in adapter_model_names:
     
     with open(f"../llama_results/{a}.txt","w") as ans_spot:
         for ev in eval_qs:
-            query = [{"role": "user", "content": f"{ev['instruction']} {ev['input']}"}]
+            query = [{"role": "user", "content": f"{ev['instruction']} {ev['instances'][0]['input']}"}]
             chat = tokenized.apply_chat_template(query, tokenize=False, add_generation_prompt=True)
             tokenized_chat = tokenized.encode(chat, return_tensors="pt").to("cuda")
             output = model.generate(tokenized_chat, max_new_tokens=128)
