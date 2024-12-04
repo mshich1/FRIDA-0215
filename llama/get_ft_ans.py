@@ -21,7 +21,8 @@ for a in adapter_model_names:
             chat = tokenized.apply_chat_template(query, tokenize=False, add_generation_prompt=True)
             tokenized_chat = tokenized.encode(chat, return_tensors="pt").to("cuda")
             output = model.generate(tokenized_chat, max_new_tokens=128)
-            ans = tokenized.decode(output[0])[len(chat):]
+            ans = tokenized.decode(output[0])
+            # [len(chat):]
             ans_spot.write(ans)
             ans_spot.write("\n")
         # f"[{ev["instruction"]} {ev["instances"][0]["input"]}]"

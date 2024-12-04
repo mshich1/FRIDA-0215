@@ -1,250 +1,201 @@
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Choose the biggest of a given set of objects in terms of your own common sense A) book	B) pan	C) document
+D) grill	E) motorcycle<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 E) motorcycle<|eot_id|>
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Choose the biggest of a given set of objects in terms of your own common sense A) shovel	B) balcony	C) house
+D) chalkboard	E) traffic light<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 C) house<|eot_id|>
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
-B) monitor<|eot_id|>
-end_header_id|>
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Choose the biggest of a given set of objects in terms of your own common sense A) pail	B) monitor	C) partition
+D) table lamp	E) ball<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+C) partition<|eot_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Choose the biggest of a given set of objects in terms of your own common sense A) bicycle	B) chalk	C) poster
+D) jar	E) taillight<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 C) poster<|eot_id|>
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which of the following are used to see through? A) gazebo	B) document	C) windshield
+D) shoe	E) bag<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 C) windshield<|eot_id|>
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which of these can be used for shelter? A) television	B) note	C) cereal
+D) house	E) orange<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 D) house<|eot_id|>
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which of the following is used for storing objects? A) wall	B) light source	C) handle
+D) pane	E) drawer<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 E) drawer<|eot_id|>
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which of these can you occupy? A) vehicle	B) windshield	C) plaque
+D) vcr	E) montior<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 A) vehicle	B) windshield	C) plaque	D) vcr	E) montior
-A) vehicle is the correct answer. It can be occupied by a driver or passengers.<|eot_id|>
-end_header_id|>
+A) vehicle<|eot_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
-E) container
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
 
-All of the above can hold liquids, but a container is the most general and common option. A box, cabinet, or crate might be used for dry goods or other items, while a barrel is typically used for liquids like oil or water. A container can be any vessel that holds liquids.<|eot_id|>
-end_header_id|>
+<|eot_id|><|start_header_id|>user<|end_header_id|>
 
-C) boat
+Which of these examples holds various types of liquids for a long period of time? A) box	B) cabinet	C) crate
+D) barrel	E) container<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
-A) car	B) bicycle	C) boat	D) truck	E) motorcycle
-Most of these can travel across water, but a boat is specifically designed for this purpose. A) car	B) bicycle	C) boat	D) truck	E) motorcycle
-The best answer is C.<|eot_id|>
-end_header_id|>
+E) container<|eot_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which of these can travel across water? A) car	B) bicycle	C) boat
+D) truck	E) motorcycle<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+C) boat<|eot_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which of these connects two different floors of a house that can also be carpeted? A) stile	B) step	C) ladder
+D) stairway	E) stepladder<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 D) stairway
 
-A) stile is a type of building material
-B) step is a part of a staircase
-C) ladder can be used to connect floors but is not a common feature of a house
-E) stepladder is a portable device to reach high places
+A) stile is a type of wall
+B) step is a single step
+C) ladder is a portable structure
+D) stairway is a series of steps
+E) stepladder is a portable ladder
 
-A stairway is the most likely to be a permanent connection between floors in a house.<|eot_id|>
-end_header_id|>
+A stairway is a series of steps that connect two different floors of a house, and it can be carpeted.<|eot_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
-B) basket
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
 
-The other options can be carried, but they may not fit easily over the shoulder. A basket, however, is specifically designed for carrying items and often has a strap for easy transport.<|eot_id|>
-end_header_id|>
+<|eot_id|><|start_header_id|>user<|end_header_id|>
 
-E) bicycle<|eot_id|>
-end_header_id|>
+Which of these can hold items and is carried over the shoulder easily by a strap? A) can	B) basket	C) bucket
+D) bottle	E) bag<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+E) bag
+
+These objects can be carried over the shoulder easily by a strap: a bag, a basket, a bucket. However, a bag is the most straightforward option. A) can, B) basket, C) bucket, D) bottle, E) bag.<|eot_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me which of these are for going places and can only fit one person. A) car	B) motorcycle	C) boat
+D) truck	E) bicycle<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+E) bicycle
+
+Bicycle is the only option that can fit one person. A) car, B) motorcycle, C) boat, and D) truck can all carry more than one person.<|eot_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What should I wear if I want to bake some bread? A) suit	B) shirt	C) hat
+D) shoe	E) apron<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 E) apron<|eot_id|>
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What can be used to light the front of a car? A) taillight	B) lamp	C) table lamp
+D) pane	E) headlight<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 E) headlight<|eot_id|>
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which of these seats can spin around in place? A) armchair	B) couch	C) chair
+D) stool	E) swivel chair<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 E) swivel chair<|eot_id|>
-end_header_id|>
+<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which of these objects can I put my feet up on? A) pallet	B) coffee table	C) shelf
+D) counter	E) tv stand<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 A) pallet	B) coffee table	C) shelf	D) counter	E) tv stand
-A) pallet is the best answer. A pallet is sturdy enough to put your feet up on. The others are not designed for that.<|eot_id|>
-end_header_id|>
-
-C) pail
-
-A pail is a container used to carry liquids, like water or paint. Luggage and suitcases are for carrying solid items. A basket can be used to carry various items, but it's not the best for liquids. A bag can also be used to carry liquids, but a pail is specifically designed for it.<|eot_id|>
-end_header_id|>
-
-C) hydrant<|eot_id|>
-end_header_id|>
-
-D) book
-
-A book is typically a rectangular object that you can read from.<|eot_id|>
-end_header_id|>
-
-A) crate	B) table lamp	C) separator	D) plug	E) lamp
-A) crate	B) table lamp	C) separator	D) plug	E) lamp
-
-A) crate is the correct answer. A crate is a container that can hold objects. A) crate.<|eot_id|>
-end_header_id|>
-
-B) dress<|eot_id|>
-end_header_id|>
-
-C) taillight
-
-A) suit can be worn, but a statue is larger than a suit
-B) box can be worn, but a statue is larger than a box
-C) taillight can be worn, but a statue is larger than a taillight
-D) sink is not something you can wear, and a statue is larger than a sink
-E) sawhorse is not something you can wear, and a statue is larger than a sawhorse<|eot_id|>
-end_header_id|>
-
-B) ladder is often the biggest.<|eot_id|>
-end_header_id|>
-
-E) cereal<|eot_id|>
-end_header_id|>
-
-D) greenhouse<|eot_id|>
-end_header_id|>
-
-B) barrier	C) movie	D) shirt	E) light source	A) opening
-
-A) opening	B) barrier	C) movie	D) shirt	E) light source
-A) opening is the correct answer. A) A) opening can damage a car. B) A barrier can damage a car. C) A movie is not an object that can damage a car. D) A shirt is not an object that can damage a car. E) A light source is not an object that can damage a car. A) A) opening is the correct answer.<|eot_id|>
-end_header_id|>
-
-D) jug
-
-A jug can be filled with a liquid and potentially overflow, causing damage to the silo. A) vehicle	B) shade	C) orange	E) video can also be a problem if it contains a hazardous material, but a) vehicle is the most likely to damage a silo.<|eot_id|>
-end_header_id|>
-
-C) car
-B) note
-D) flashlight
-E) mop
-A) basket<|eot_id|>
-end_header_id|>
-
-E) rake. A) document	B) suit	C) clothing	D) box	E) rake -> E) rake is the correct answer because a rake can be used to scratch or damage the glass of a greenhouse. A) document	B) suit	C) clothing	D) box	E) rake.<|eot_id|>
-end_header_id|>
-
-A) ladder	B) D) E)<|eot_id|>
-end_header_id|>
-
-B) ceiling
-
-The ceiling is the heaviest and most likely to cause harm if it falls. It can crush objects or people underneath it. The other options are much lighter and less likely to cause damage. A) newspaper can be easily stepped on. C) broom can be placed on a shelf. D) pail can be held in one hand. E) cone is a small object.<|eot_id|>
-end_header_id|>
-
-C) lighthouse
-
-A lighthouse is a tall structure with a powerful light on top, making it a hazard to anyone who gets too close. A) telephone, B) hydrant, D) coffee table, and E) license plate are all objects that could cause minor inconvenience or injury, but a lighthouse is the most hazardous.<|eot_id|>
-end_header_id|>
-
-A) column	B) lamp	C) plaque	D) bowl	E) mop
-A) column<|eot_id|>
-end_header_id|>
-
-E) water tank. A collapsed water tank could cause flooding, drowning, or other water-related hazards.<|eot_id|>
-end_header_id|>
-
-D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
-
-A coat is typically used to keep a person warm in cold weather, while an apron is used to protect clothing while cooking or baking. The other options do not accurately describe the differences between the two items. A) is a statement of equality, B) and C) are incorrect because coats can be used outside and aprons can be used in the kitchen, and E) is also incorrect because they are not mutually exclusive.<|eot_id|>
-end_header_id|>
-
-A) Curtains are able to open from side to side while shutters are able to open up or down	B) Curtains can only be opened from the bottom	C) Curtains and shutters have no differences in the way they're used	D) Shutters are always meant to stay open	E) Shutters are only able to be pulled open
-
-A) Curtains are able to open from side to side while shutters are able to open up or down) A) Curtains are able to open from side to side while shutters are able to open up or down	B) Curtains can only be opened from the bottom	C
-end_header_id|>
-
-B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals<|eot_id|>
-end_header_id|>
-
-D) A truck is driven on land while a boat is driven on water<|eot_id|>
-end_header_id|>
-
-C) A book is made of many pieces of paper
-
-A) A sign can be made of paper, plastic, metal, or other materials, so it is not exclusive to paper.
-B) A sign can be smaller than a book, or vice versa.
-D) A sign is usually easier to read than a book, as it is a single message or image.
-E) There are significant differences between a sign and a book. A sign is a single display of information, whereas a book is a collection of pages bound together.<|eot_id|>
-end_header_id|>
-
-A) Only a broom can sweep while a mop only mops	B) A mop can only clean dry	C) A broom can only clean the walls	D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side
-
-B) A mop can only clean dry
-B) A) Only a broom can sweep while a mop only mops	B) A mop can only clean dry	C) A broom can only clean the walls	D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side
-Generally speaking, a)
-end_header_id|>
-
-C) A television is used to play videos and a computer is used for many different tasks
-
-A television is used primarily for entertainment, such as watching movies and TV shows. A computer, on the other hand, is used for a wide range of tasks, including browsing the internet, checking email, working, and playing games.<|eot_id|>
-end_header_id|>
-
-B) A taillinght illuminates the back while a headlight illuminates the front<|eot_id|>
-end_header_id|>
-
-B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.<|eot_id|>
-end_header_id|>
-
-B) tilting
-
-Reason: A tilting building or swaying motion is often a sign that an earthquake is happening or about to happen. The other options are not necessarily warning signs. Loud noises (A) can be caused by many things, sirens (C) are often used for emergency alerts but are not exclusive to earthquakes, general location (D) does not provide a clear warning, and fluctuating water levels (E) can be caused by various factors.<|eot_id|>
-end_header_id|>
-
-C) backup power
-
-Backup power, such as a portable generator or batteries, can provide a reliable source of energy during an extended power outage. A) Flashlight can provide temporary light, but is not a long-term solution. B) Non-perishable food is a good item to have, but not directly related to power. D) Basement can be a safe place to be during a storm, but it is not a supply. E) Sandbags are used to prevent flooding, not power outages.<|eot_id|>
-end_header_id|>
-
-B) pancaking
-
-Explanation: A) Drop off is not a type of building collapse. C) Cracked walls can be a result of an earthquake but are not a type of collapse. D) Overturn is a type of building collapse. E) Car pile is not a type of building collapse. B) Pancaking is a type of building collapse where one building falls on top of another, often due to a weak foundation or structural failure.<|eot_id|>
-end_header_id|>
-
-A) Wide area assessment
-
-Explanation: The first step in a search and rescue mission is to conduct a wide area assessment to determine the extent of the damage and identify areas of highest priority. This helps the rescue team to focus their efforts on the most critical areas and allocate resources effectively. Once the area has been assessed, the team can then proceed to the next step, which is to set up a worksite triage.<|eot_id|>
-nd_header_id|>
-
-E) unstable surfaces
-
-A) animal droppings
-B) cars
-C) fires
-D) tornadoes
-E) unstable surfaces
-
-F) loose rocks
-G) sharp objects
-H) fallen trees
-I) sharp glass
-J) sharp metal
-
-E) unstable surfaces
-B) cars
-D) tornadoes
-F) loose rocks
-G) sharp objects
-H) fallen trees
-I) sharp glass
-J) sharp metal
-A) animal droppings
-C) fires
-D) tornadoes
-
-The final answer is E) unstable surfaces.<|eot_id|>
-end_header_id|>
-
-D) protect the lungs
-
-Respirators are designed to protect the lungs by filtering out airborne contaminants, including dust, smoke, and chemicals. They are an essential piece of personal protective equipment (PPE) for first responders, such as firefighters, emergency medical technicians (EMTs), and hazardous materials (hazmat) responders.<|eot_id|>
-end_header_id|>
-
-C) powers hydraulic lifts for lifting rubble
-
-Hydraulic pumps are often used in rescue operations to power hydraulic lifts, which can be used to lift debris, rubble, or other heavy objects to free trapped individuals. This is a crucial step in search and rescue operations. The other options do not directly relate to the role of hydraulic pumps in rescuing trapped individuals. A) provides air to breathe, B) powers air horn for signalling, D) powers shovels for digging, and E) finds individuals trapped in rubble are all secondary or unrelated to the primary function of hydraulic pumps in rescue operations.<|eot_id|>
+A) pallet is the best answer. It is often used as a makeshift footrest.<|eot_id|>
