@@ -23,7 +23,7 @@ for a in adapter_model_names:
         for ev in tqdm(eval_qs):
             query = [{"role":"system", "content": "The following is a multiple choice question about object properties and earthquakes. There is only one correct answer. Your answer should repeat the correct answer exactly with no explanation."},{"role": "user", "content": f"{ev['instruction']} {ev['instances'][0]['input']}"}]
             chat = tokenized.apply_chat_template(query, tokenize=False, add_generation_prompt=True)
-            tokenized_chat = tokenized.encode(chat, return_tensors="pt")
+            tokenized_chat = tokenized.encode(chat, return_tensors="pt", padding=True)
             attention_mask = tokenized_chat["attention_mask"]
             tokenized_chat = tokenized_chat.to("cuda")
             output = model.generate(tokenized_chat, max_new_tokens=128,  attention_mask=attention_mask, pad_token_id=tokenized.eos_token_id)
