@@ -4,7 +4,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import json
 import os
 import re
-import tqdm
+from tqdm import tqdm
 
 base_model_name = "meta-llama/Meta-Llama-3.1-8B-Instruct" #path/to/your/model/or/name/on/hub"
 adapter_model_path = "../../"
@@ -13,7 +13,7 @@ adapter_model_names = ["rel_size","can_do_it","is_a_dif","risky","equip","obj_fa
 tokenized = AutoTokenizer.from_pretrained(base_model_name)
 tokenized.pad_token = tokenized.eos_token
 
-eval_qs = [json.loads(l) for l in open("../seed_data/seed_tasks_eval2.jsonl")]
+eval_qs = [json.loads(l) for l in open("../seed_data/seed_tasks_eval.jsonl")]
 for a in adapter_model_names:
     print(f"***Currently testing Model {a}***")
     model = AutoModelForCausalLM.from_pretrained(base_model_name)
