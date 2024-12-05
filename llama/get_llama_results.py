@@ -8,7 +8,7 @@ model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 file_in = "../seed_data/seed_tasks_eval.jsonl"
 file_out = "../llama_results/llama.txt"
 
-pipe = transformers.pipeline("text-generation", model=model_id, model_kwargs={"torch_dtype": torch.bfloat16}, max_new_tokens=200)
+pipe = transformers.pipeline("text-generation", model=model_id, model_kwargs={"torch_dtype": torch.bfloat16}, max_new_tokens=200, device = 0)
 
 instruct = [json.loads(l) for l in open(file_in,"r")]
 with(open(file_out, "w")) as outie:
