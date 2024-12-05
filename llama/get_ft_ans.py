@@ -27,7 +27,8 @@ for a in adapter_model_names:
             output = model.generate(tokenized_chat, max_new_tokens=128, pad_token_id=tokenized.eos_token_id)
             ans = tokenized.decode(output[0])
             print(f"Answer is \n{ans}")
-            ans_matched = re.search("<\|start_header_id\|>assistant<\|end_header_id\|>\s*(.*)<\|eot_id\|>", ans)
+            ans_matched = re.search("<\|start_header_id\|>assistant<\|end_header_id\|>([\s\S])*<\|eot_id\|>", ans)
+            ans_matched = ' '.join(ans_matched.split('\n'))
             ans_spot.write(ans_matched.group(1))
             ans_spot.write("\n")
 
