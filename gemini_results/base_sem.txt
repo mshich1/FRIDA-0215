@@ -1,0 +1,22 @@
+***MODEL IS ../gemini_results/gemini.txt***
+overall average sem score: 0.9333248727023602
+rel_size average sem score: 0.9222528897225857
+can_do_it average sem score: 0.9904919692448207
+is_a_dif average sem score: 0.9146503020416606
+risky average sem score: 1.0000000248352687
+equip average sem score: 0.753258449335893
+obj_facts average sem score: 0.9812851995229721
+quake average sem score: 0.8575677275657654
+instr average sem score: 0.9679419586532995
+
+***MODEL IS ../llama_results/llama.txt***
+overall average sem score: 0.8932971919576327
+rel_size average sem score: 0.870579719543457
+can_do_it average sem score: 0.9138049965813047
+is_a_dif average sem score: 0.8951790603724393
+risky average sem score: 0.8535454670588175
+equip average sem score: 0.8444624493519465
+obj_facts average sem score: 0.9285286019245783
+quake average sem score: 0.9949791669845581
+instr average sem score: 0.9022493174201563
+
