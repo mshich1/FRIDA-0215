@@ -1,6 +1,6 @@
 import json
 import os
-from semscore import EmbeddingModelWrapper
+from semscore.semscore import EmbeddingModelWrapper
 from statistics import mean
 
 eval_qs = [json.loads(l) for l in open("../seed_data/seed_tasks_eval.jsonl")]
