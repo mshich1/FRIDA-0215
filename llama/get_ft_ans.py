@@ -8,9 +8,10 @@ from tqdm import tqdm
 
 base_model_name = "meta-llama/Meta-Llama-3.1-8B-Instruct" #path/to/your/model/or/name/on/hub"
 adapter_model_path = "../../"
-adapter_model_names = ["rel_size","can_do_it","is_a_dif","risky","equip","obj_facts","quake","instr","all"]
+adapter_model_names = ["can_do_it","is_a_dif","risky","equip","obj_facts","quake","instr","all"]
 
 tokenized = AutoTokenizer.from_pretrained(base_model_name)
+tokenized.pad_token = tokenized.eos_token
 
 eval_qs = [json.loads(l) for l in open("../seed_data/seed_tasks_eval.jsonl")]
 for a in adapter_model_names:
@@ -25,6 +26,7 @@ for a in adapter_model_names:
             tokenized_chat = tokenized.encode(chat, return_tensors="pt", padding=True).to("cuda")
             output = model.generate(tokenized_chat, max_new_tokens=128, pad_token_id=tokenized.eos_token_id)
             ans = tokenized.decode(output[0])
+            print(f"Answer is \n{ans}")
             ans_matched = re.search("<\|start_header_id\|>assistant<\|end_header_id\|>\s*(.*)<\|eot_id\|>", ans)
             ans_spot.write(ans_matched.group(1))
             ans_spot.write("\n")
