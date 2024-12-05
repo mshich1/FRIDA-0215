@@ -1,0 +1,120 @@
+  E) motorcycle
+  C) house
+  B) monitor
+  C) poster (in terms of size)
+  C) windshield
+  D) house
+  E) drawer
+  A) vehicle
+  D) barrel
+  C) boat
+  D) stairway
+  E) bag
+  E) apron
+  E) headlight
+  E) swivel chair
+  A) pallet
+  C) pail
+  E) pail
+  D) book
+  A) crate
+  C) awning
+  A) suit
+  D) painting
+  E) cereal
+  D) greenhouse
+  B) barrier
+  A) vehicle
+  C) car
+  D) box (a large box could be used as a projectile)
+  B) ceiling
+  D) coffee table
+  A) column
+  E) water tank
+  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
+  A) Curtains are able to open from side to side while shutters are able to open up or down
+  B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
+  D) A truck is driven on land while a boat is driven on water
+  C) A book is made of many pieces of paper
+  D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side	A) Only a broom can sweep while a mop only mops	B) A mop can only clean dry	C) A broom can only clean the walls
+  C) A television is used to play videos and a computer is used for many different tasks
+  B) A taillinght illuminates the back while a headlight illuminates the front
+  B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
+  B) tilting
+  B) non-perishable food
+  B) pancaking
+  A) Wide area assessment
+  E) unstable surfaces
+  D) protect the lungs
+  C) powers hydraulic lifts for lifting rubble
+  B) They transport it away from the scene to dispose of it
+  E) Blow debris out of the way
+  A) axe	B) pickaxe	C) hydraulic lift D) hard hat	E) hammer B) pickaxe
+  A) hose
+  C) carbon dioxide detector
+  A) crow bar
+  A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
+  A) If possible, use a helicopter to get an aerial view of the effected area.
+  A) Wait for others to fill the truck bed.
+  A) drive the shovel into the dirt.
+  it cannot (it's too large)
+  it cannot
+  it can (in a small cup) it cannot (in a large cup) it can (in a very small cup) it cannot (in a large cup) it can (in a tiny cup) it cannot (in a large cup) it can (in a small cup) it cannot (in a large cup) it can (in a tiny cup) it cannot (in a large cup) it can (in a small cup) it cannot (in a large cup) it can (in a tiny cup) it cannot (in a large cup) it can (in a small cup) it cannot (in a large cup
+  it cannot (in a standard drawer) it can (in a specialized drawer) it can (in a very large drawer) it can (in a small drawer) it cannot (in a standard drawer) it can (in a large drawer) it can (in a specialized drawer) it can (in a very large drawer) it can (in a small drawer) it cannot (in a standard drawer) A) it can B) it cannot C) it can D) it cannot E) it can F) it cannot G) it can H) it cannot I) it can J) it cannot K) it cannot L)
+  A) to what page should I open it?
+  B) Is the orange supposed to be peeled or sliced?
+  D) What container should I pump the gas into?
+  E) Should I zoom in on the flower?
+  B) How tall is the fence?
+  C) How heavy is the log?
+  E) Where are you throwing it from?
+  B) how heavy is the suitcase?
+  C) can someone hold it steady while I climb?
+  D) boat
+  C) rail
+  D) church
+  C) boat
+  E) pallet
+  D) rake
+  A) book
+  E) hydrant
+  A) open the book
+  C) saw the wood
+  B) drive a car
+  D) look at the cup
+  D) hold on to the suitcase
+  C) turn the lamp on
+  E) ride a bicycle
+  A) travel to the barn
+  D) play with the ball	E) travel to the barn	B) exit through the opening	A) go back to the building	C) move forward to the door
+  E) turn on the television
+  B) close
+  A) on	B) off	B) off is incorrect, but A) on is correct. B) off is correct. A) on is correct. B) off is correct. A) on is correct. B) off is correct. B) off is correct. A) on is correct. B) off is correct. A) on is correct. B) off is correct. B) off is correct. A) on is correct. B) off is correct. B) off is correct. A) on is correct. B) off is correct. B) off is correct. A) on is correct. B
+  B) with the camera unplugged
+  B) open
+  It is not.
+  It is not.
+  It is.
+  It is.
+  It is not.
+  D) no idea
+  A) attached to a vehicle
+  C) in the bathroom
+  E) at the airport
+  C) on a desk
+  C) basket
+  A) barn
+  B) barrel
+  E) plate
+  C) rake
+  C) curtains
+  D) chair
+  A) bowl
+  A) grill	B) bowl	D) donkey	E) book	C) bicycle	Bowl and book are not typical cooking surfaces. A) grill	B) bowl	C) bicycle is not correct, but B) bowl is a type of cooking surface. D) donkey and E) book are not correct. A) grill is a type of cooking surface. B) bowl is a type of cooking surface. C) bicycle is not a cooking surface. D) donkey is not a cooking surface. E) book is not a cooking surface. A) grill	B) bowl	D) donkey	E) book	C) bicycle	B)
+  B) tomato	C) plate	D) sink	E) curtains	A) coffee cup	F) picture	G) pillow	H) lamp	I) chair	J) book	K) television	L) radio	M) fan	N) rug	O) pillowcase	P) vase	Q) rug	R) bookshelf	S) lampshade	T) television	U) radio	V) fan	W) picture	X) coffee cup	Y) plate	Z) sink	AA) curtains	BB) tomato	CC) plate	DD) sink	EE) curtains	FF) picture	GG) pillow	HH) lamp	II) chair	JJ) book	KK) television	LL) radio
+  D) truck	E) headlight	B) mirror	C) wheel	A) silo	B) mirror	C) wheel	E) headlight	D) truck	B) mirror	A) silo	B) mirror	C) wheel	E) headlight	D) truck	B) mirror	A) silo	B) mirror	C) wheel	D) truck	E) headlight	B) mirror	A) silo	B) mirror	C) wheel	D) truck	E) headlight	A) silo	B) mirror	C) wheel	D) truck	E) headlight	B) mirror	A) silo	B) mirror	C) wheel	D) truck	E) headlight	B
+  C) desk	E) pencil	B) hat	A) dvd player	D) chair
+  you can't (photograph) you can (picture) A) you can B) you can't C) you can't D) you can E) you can't F) you can't G) you can't H) you can't I) you can't J) you can't K) you can't L) you can't M) you can't N) you can't O) you can't P) you can't Q) you can't R) you can't S) you can't T) you can't U) you can't V) you can't W) you can't X) you
+  you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a basket) you cannot (bottle is not a
+  you can (in a pinch) (in a pinch) (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch) you cannot (in a pinch
+  you cannot
