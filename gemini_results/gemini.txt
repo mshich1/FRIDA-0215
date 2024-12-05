@@ -54,10 +54,10 @@ A) hose
 D) radio
 A) crow bar
 B) Put the hard hat on your head
-step B
+B) divide the effected area into sectors
 B) open the tailgate
 A) step A
-A) it cannot
+it cannot
 A) it cannot
 A) it can
 A) it cannot
@@ -104,7 +104,7 @@ E) at the airport
 C) on a desk
 C) basket
 A) barn
-B) barrel
+A) chair
 E) plate
 B) bed
 E) palm tree
@@ -115,6 +115,6 @@ B) tomato
 D) truck
 C) desk
 A) you can
-A) you cannot
+A) you can
 A) you can
 A) you cannot
