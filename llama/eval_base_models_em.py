@@ -1,7 +1,6 @@
 import json
 import os
 import evaluate
-import numpy as np
 
 eval_qs = [json.loads(l) for l in open("../seed_data/seed_tasks_eval.jsonl")]
 eval_ans = [i["instances"][0]["output"] for i in eval_qs]

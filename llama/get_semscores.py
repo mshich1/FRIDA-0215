@@ -65,7 +65,41 @@ with open("../llama_results/em.txt","w") as outie:
                 continue
         em = EmbeddingModelWrapper()
         all_sem = em.get_similarities(em.get_embeddings(mod_results),em.get_embeddings(eval_ans))
+        accs = {}
+        for k, v in cat_results.items():
+            accs[k] = em.compute(em.get_embeddings(v),em.get_embeddings(cat_eval[k]))
+        outie.write(f"***MODEL IS {a}***\n")
+        outie.write(f"overall average sem score: {all_sem}\n")
+        for k,v in accs.items():
+            outie.write(f"{k} average sem score: {v}\n")
+        outie.write("\n")
 
+with open("../gemini_results/base_em.txt","w") as outie:
+    for a in ["../gemini_results/gemini.txt","../llama_results/llama.txt"]:
+        cat_results = {"rel_size":[],"can_do_it":[], "is_a_dif": [], "risky":[], "equip":[], "obj_facts":[], "quake":[], "instr":[]}
+        mod_results = [l.strip() for l in open(a)]
+        # print(f"mod results: {mod_results}")
+        for l, m in zip(eval_qs, mod_results):
+            if l["cat"] in cat_map["rel_size"]:
+                cat_results["rel_size"].append(m)
+            elif l["cat"] in cat_map["can_do_it"]:
+                cat_results["can_do_it"].append(m)
+            elif l["cat"] in cat_map["is_a_dif"]:
+                cat_results["is_a_dif"].append(m)
+            elif l["cat"] in cat_map["risky"]:
+                cat_results["risky"].append(m)
+            elif l["cat"] in cat_map["equip"]:
+                cat_results["equip"].append(m)
+            elif l["cat"] in cat_map["obj_facts"]:
+                cat_results["obj_facts"].append(m)
+            elif l["cat"] in cat_map["quake"]:
+                cat_results["quake"].append(m)
+            elif l["cat"] in cat_map["instr"]:
+                cat_results["instr"].append(m)
+            else:
+                continue
+        em = EmbeddingModelWrapper()
+        all_sem = em.get_similarities(em.get_embeddings(mod_results),em.get_embeddings(eval_ans))
         accs = {}
         for k, v in cat_results.items():
             accs[k] = em.compute(em.get_embeddings(v),em.get_embeddings(cat_eval[k]))
