@@ -1,0 +1,120 @@
+  D) motorcycle
+  C) house
+  B) monitor
+  D) jar	E) taillight	A) bicycle	B) poster	C) jar	D) jar	E) taillight	A) bicycle	B) poster	C) jar	D) jar	E) taillight	A) bicycle	B) poster	C) jar	D) jar	E) taillight	A) bicycle	B) poster	C) jar	D) jar	E) taillight	A) bicycle	B) poster	C) jar	D) jar	E) taillight	A) bicycle	B) poster	C) jar	D) jar	E) taillight	A) bicycle	B) poster	C) jar	D) jar	E) taillight	A
+  C) windshield (windshield wipers)
+  D) house
+  E) drawer
+  A) vehicle
+  D) barrel
+  C) boat
+  D) stairway
+  A) can	B) basket	C) bucket	D) bottle	E) bag	B) basket
+  E) apron
+  E) headlight
+  E) swivel chair
+  A) pallet	C) shelf	D) counter	E) tv stand	B) coffee table
+  C) pail
+  C) hydrant
+  D) book
+  A) crate	C) separator	D) plug	E) lamp	B) table lamp	A) crate	C) separator	D) plug	E) lamp	A) crate	B) table lamp	C) separator	D) plug	E) lamp	A) crate	B) table lamp	C) separator	D) plug	E) lamp	A) crate	B) table lamp	C) separator	D) plug	E) lamp	A) crate	B) table lamp	C) separator	D) plug	E) lamp	A) crate	B) table lamp	C) separator	D) plug	E) lamp	A) crate	B) table lamp	C) separator	D) plug	E) lamp	A) crate	B
+  B) dress
+  A) suit
+  D) painting
+  E) cereal
+  D) greenhouse
+  B) barrier
+  A) vehicle
+  C) car
+  D) box (a heavy box dropped on a greenhouse could break the glass)
+  B) ceiling (assuming it's a heavy concrete ceiling)
+  D) coffee table
+  A) column
+  E) water tank
+  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
+  A) Curtains are able to open from side to side while shutters are able to open up or down
+  B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
+  D) A truck is driven on land while a boat is driven on water
+  C) A book is made of many pieces of paper
+  A) Only a broom can sweep while a mop only mops	B) A mop can only clean dry	C) A broom can only clean the walls	D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side	A) Only a broom can sweep while a mop only mops
+  C) A television is used to play videos and a computer is used for many different tasks
+  B) A taillinght illuminates the back while a headlight illuminates the front
+  B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
+  B) tilting	C) sirens	D) general location	E) weather	A) loud noises	B) tilting	C) sirens	D) general location	E) weather	A) loud noises	B) tilting	C) sirens	D) general location	E) weather	A) loud noises	B) tilting	C) sirens	D) general location	E) weather	A) loud noises	B) tilting	C) sirens	D) general location	E) weather	A) loud noises	B) tilting	C) sirens	D) general location	E) weather	A) loud noises	B) tilting	C) sirens	D) general location	E)
+  B) non-perishable food A) folding chair D) basement E) sand bags A) folding chair D) basement E) sand bags B) non-perishable food A) folding chair D) basement E) sand bags B) non-perishable food A) folding chair D) basement E) sand bags B) non-perishable food D) basement E) sand bags B) non-perishable food D) basement E) sand bags B) non-perishable food D) basement E)
+  B) pancaking
+  A) Wide area assessment B) Worksite triage
+  E) unstable surfaces
+  D) protect the lungs
+  C) powers hydraulic lifts for lifting rubble
+  B) They transport it away from the scene to dispose of it
+  A) Provide a vantage point to identify heavily damaged areas	B) Move large vehicles to disaster area	C) Blow away debris	D) Warn victims about aftershocks	E) Blow debris out of the way	A) Provide a vantage point to identify heavily damaged areas	B) Move large vehicles to disaster area	C) Blow away debris	D) Warn victims about aftershocks	E) Blow debris out of the way	B) Move large vehicles to disaster area
+  B) pickaxe
+  A) hose
+  C) carbon dioxide detector
+  A) crow bar	D) B) thermal imaging camera	E) C) metal cutter	C) D) B) thermal imaging camera	E) A) crow bar	F) B) thermal imaging camera	G) C) metal cutter	H) A) crow bar	I) A) crow bar	J) B) thermal imaging camera	K) A) crow bar	L) A) crow bar	M) A) crow bar	N) A) crow bar	O) A) crow bar	P) A) crow bar	Q) A) crow bar	R) A) crow bar	S) A) crow bar	T) A) crow bar	U) A)
+  B) Put the hard hat on your head. A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
+  B) divide the effected area into sectors. A) If possible, use a helicopter to get an aerial view of the effected area. B) divide the effected area into sectors. A) If possible, use a helicopter to get an aerial view of the effected area. B) divide the effected area into sectors. A) If possible, use a helicopter to get an aerial view of the effected area. B) divide the effected area into sectors. A) If possible, use a helicopter to get an aerial view of the effected area. B) divide the effected area into sectors. A) If possible, use a helicopter to get an
+  A) Wait for others to fill the truck bed. B) open the tailgate. A) Wait for others to fill the truck bed. B) open the tailgate. A) Wait for others to fill the truck bed. B) open the tailgate. A) Wait for others to fill the truck bed. B) open the tailgate. A) Wait for others to fill the truck bed. B) open the tailgate. A) Wait for others to fill the truck bed. B) open the tailgate. A) Wait for others to fill the truck bed. B) open the tailgate. A)
+  A) drive the shovel into the dirt.
+  it can Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer:
+  it can Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer: it cannot Answer: it can Answer:
+  it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer: it can Answer:
+  it cannot A) it can B) it cannot C) it depends D) it may B) it cannot E) it might D) it could E) it should F) it will G) it should H) it could I) it might J) it will K) it should L) it could M) it may N) it cannot O) it can P) it should Q) it could R) it might S) it will T) it should U) it could V) it may W) it cannot X) it can Y) it should Z) it could A) it can B) it cannot C)
+  A) to what page should I open it?
+  B) Is the orange supposed to be peeled or sliced?
+  D) What container should I pump the gas into?
+  E) Should I zoom in on the flower?
+  B) How tall is the fence?
+  C) How heavy is the log?
+  E) Where are you throwing it from?
+  A) the one on the right or left?
+  C) can someone hold it steady while I climb?
+  D) boat
+  A) truck
+  D) church
+  D) sink	E) door	A) partition	B) awning	C) boat	D) sink	E) door	A) partition	B) awning	C) boat	D) sink	E) door	A) partition	B) awning	C) boat	D) sink	E) door	A) partition	B) awning	C) boat	D) sink	E) door	A) partition	B) awning	C) boat	D) sink	E) door	A) partition	B) awning	C) boat	D) sink	E) door	A) partition	B) awning	C) boat	D) sink	E) door	A) partition	B) awning	C) boat
+  E) pallet
+  D) rake
+  A) book
+  E) hydrant
+  A) open the book
+  C) saw the wood
+  D) ascend the ladder
+  C) move toward the newspaper
+  D) hold on to the suitcase	E) carry the groceries	A) pick up the cone	B) put the trash in the bag	C) read the newspaper	D) hold on to the suitcase	E) carry the groceries	A) pick up the cone	B) put the trash in the bag	C) read the newspaper	D) hold on to the suitcase	E) carry the groceries	A) pick up the cone	B) put the trash in the bag	C) read the newspaper	D) hold on to the suitcase	E) carry the groceries	A) pick up the cone	B) put the trash in the bag	C) read the newspaper	D) hold on
+  C) turn the lamp on
+  A) close the door
+  B) locate the rock
+  D) play with the ball
+  E) turn on the television
+  A) open	B) close	C) open	D) closed	E) closed	B) open	B) closed	A) open	D) closed	E) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A) open	B) closed	A)
+  A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A)
+  B) with the camera unplugged
+  B) open
+  It is not.
+  It is not.
+  It is.
+  It is.
+  It is not.
+  A) very well
+  A) attached to a vehicle	B) on top of a bicycle	C) in the kitchen	D) in a fish tank	E) under a desk A) attached to a vehicle	B) on top of a bicycle	C) in the kitchen	D) in a fish tank	E) under a desk A) attached to a vehicle	B) on top of a bicycle	C) in the kitchen	D) in a fish tank	E) under a desk A) attached to a vehicle	B) on top of a bicycle	C) in the kitchen	D) in a fish tank	E) under a desk A) attached to a vehicle	B) on top of a
+  C) in the bathroom
+  E) at the airport
+  C) on a desk
+  C) basket
+  A) barn	B) bench	C) picture	D) cereal	E) coffee	A) barn	B) bench	C) picture	D) cereal	E) coffee	A) barn	B) bench	C) picture	D) cereal	E) coffee	A) barn	B) bench	C) picture	D) cereal	E) coffee	A) barn	B) bench	C) picture	D) cereal	E) coffee	A) barn	B) bench	C) picture	D) cereal	E) coffee	A) barn	B) bench	C) picture	D) cereal	E) coffee	A) barn	B) bench	C) picture	D) cereal	E) coffee	A) barn	B) bench	C)
+  B) barrel	C) headlight	D) shoe	E) statue	A)chair
+  E) plate
+  C) rake
+  C) curtains
+  D) chair
+  A) bowl
+  A) grill	C) bicycle	D) book	B) donkey	E) book
+  B) tomato	C) plate	D) sink	E) curtains	A) coffee cup
+  D) truck	E) headlight	A) mirror	B) silo	C) wheel	D) truck	E) headlight	A) mirror	B) silo	C) wheel	D) truck	E) headlight	A) mirror	B) silo	C) wheel	D) truck	E) headlight	A) mirror	B) silo	C) wheel	D) truck	E) headlight	A) mirror	B) silo	C) wheel	D) truck	E) headlight	A) mirror	B) silo	C) wheel	D) truck	E) headlight	A) mirror	B) silo	C) wheel	D) truck	E) headlight	A)
+  C) desk	E) pencil	B) hat	D) chair	A) dvd player
+  you can A) you can B) you cannot C) both A and B D) neither A nor B E) it depends on the picture's type} Answer: A) you can B) you cannot C) both A and B D) neither A nor B E) it depends on the picture's type} Answer: A) you can B) you cannot C) both A and B D) neither A nor B E) it depends on the picture's type} Answer: A) you can B) you cannot C) both A and B D) neither A nor B E) it depends on the picture's type}
+  you can Answer: you can B) you cannot A) it depends C) maybe D) possibly E) probably B) you cannot Answer: you can B) you cannot A) it depends C) maybe D) possibly E) probably B) you cannot Answer: you can B) you cannot A) it depends C) maybe D) possibly E) probably B) you cannot Answer: you can B) you cannot A) it depends C) maybe D) possibly E) probably B) you cannot Answer: you can B) you cannot A) it depends C) maybe D) possibly E) probably B) you cannot Answer
+  you can Answer 2: you can Answer 1: you can Answer 3: you can Answer 4: you can Answer 5: you can Answer 6: you can Answer 7: you can Answer 8: you can Answer 9: you can Answer 10: you can Answer 11: you can Answer 12: you can Answer 13: you can Answer 14: you can Answer 15: you can Answer 16: you can Answer 17: you can Answer 18: you can Answer 19: you can Answer 20: you can Answer 21: you can
+  you cannot A) you can B) you cannot C) it depends D) maybe E) possibly K) possibly not A) you can B) you cannot C) it depends D) maybe E) possibly K) possibly not A) you can B) you cannot C) it depends D) maybe E) possibly K) possibly not B) you cannot C) it depends D) maybe E) possibly K) possibly not C) it depends D) maybe E) possibly K) possibly not D) maybe E) possibly K) possibly not E) possibly K) possibly not K) possibly not E) possibly K) possibly not

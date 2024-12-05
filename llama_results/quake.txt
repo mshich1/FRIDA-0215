@@ -1,44 +1,44 @@
   E) motorcycle
   C) house
-  B) monitor
-  D) jar
+  A) pail
+  C) poster
   C) windshield
   D) house
   E) drawer
   A) vehicle
-  D) pitcher
+  D) barrel
   C) boat
   D) stairway
   E) bag
   E) apron
   E) headlight
   E) swivel chair
-  B) coffee table
-  C) pail
-  C) hydrant
+  A) pallet
+  E) bag
+  E) pail
   D) book
   A) crate
   A) speaker
-  A) suit
-  B) ladder
+  C) taillight
+  A) shutters
   E) cereal
   D) greenhouse
-  B) barrier
-  D) jug
-  C) car
-  D) box
+  A) opening
+  A) vehicle
+  A) basket
+  E) rake
   B) ceiling
-  B) hydrant
+  D) coffee table
   A) column
   E) water tank
-  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking.
+  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
   A) Curtains are able to open from side to side while shutters are able to open up or down
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
-  D) A truck is driven on land while a boat is driven on water.
+  D) A truck is driven on land while a boat is driven on water
   C) A book is made of many pieces of paper
-  B) A mop can only clean dry.
-  C) A television is used to play videos and a computer is used for many different tasks.
-  B) A taillinght illuminates the back while a headlight illuminates the front
+  D) There's no difference between a broom and mop
+  C) A television is used to play videos and a computer is used for many different tasks
+  B) A taillight illuminates the back while a headlight illuminates the front
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
   B) tilting
   B) non-perishable food
@@ -49,18 +49,18 @@
   C) powers hydraulic lifts for lifting rubble
   B) They transport it away from the scene to dispose of it
   A) Provide a vantage point to identify heavily damaged areas
-  B) pickaxe
+  A) axe
   A) hose
   C) carbon dioxide detector
   A) crow bar
-  B) Put the hard hat on your head.
+  A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
   B) divide the effected area into sectors.
   B) open the tailgate.
   A) drive the shovel into the dirt.
-  it can.
-  it can fit in a barrel.
-  it can fit in a cup.
-  it can fit in a drawer.
+  it can
+  it cannot
+  it can
+  it can
   A) to what page should I open it?
   B) Is the orange supposed to be peeled or sliced?
   D) What container should I pump the gas into?
@@ -71,50 +71,50 @@
   B) how heavy is the suitcase?
   C) can someone hold it steady while I climb?
   D) boat
-  C) rail
-  D) church
-  C) boat
-  E) pallet
+  D) table
+  E) barrier
+  D) sink
+  A) opening
   D) rake
-  C) apron
-  E) hydrant
+  A) book
+  A) shade
   A) open the book
   C) saw the wood
   D) ascend the ladder
-  E) write on the note
+  C) move toward the newspaper
   D) hold on to the suitcase
-  C) turn the lamp on
+  A) enter the doorway
   A) close the door
-  B) locate the rock
-  E) travel to the barn
-  E) turn on the television
+  A) travel to the barn
+  D) play with the ball
+  D) turn on the television
   A) open
   A) on
   A) with the camera plugged in
   B) open
   It is not.
+  It is not.
   It is.
   It is.
-  It is.
-  It is.
+  It is not.
   A) very well
   A) attached to a vehicle
   C) in the bathroom
   E) at the airport
   C) on a desk
   C) basket
-  A) barn
-  B) barrel
+  D) cereal
+  D) shoe
   E) plate
   C) rake
-  C) curtains
-  D) chair
+  A) door
+  C) tv stand
   A) bowl
   A) grill
-  B) tomato
-  C) wheel
-  C) desk
-  you can use it.
-  you can use a bottle as a basket.
-  you can.
-  you cannot.
+  B) tomato E) curtains
+  D) truck E) headlight
+  C) desk D) pencil
+  You can.
+  you cannot
+  you can
+  you cannot
