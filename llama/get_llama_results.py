@@ -1,17 +1,18 @@
 import transformers
 import torch
 import json
+from tqdm import tqdm
 
 model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
 file_in = input("Put in the relative directory and jsonl file name that you want to send to llama3: ")
 file_out = input("Write the name of the file you want the results written to: ")
 
-pipe = transformers.pipeline("text-generation", model=model_id, model_kwargs={"torch_dtype": torch.bfloat16}).to("cuda")
+pipe = transformers.pipeline("text-generation", model=model_id, model_kwargs={"torch_dtype": torch.bfloat16})
 
 instruct = [json.loads(l) for l in open(file_in,"r")]
 with(open(file_out, "w")) as outie:
-    for i in instruct:
+    for i in tqdm(instruct):
         task = i["instruction"]
         choices = i["instances"][0]["input"]
         instruction = task + "\n" + choices + "\n" + "Answer: "
