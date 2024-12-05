@@ -67,7 +67,7 @@ with open("../llama_results/em.txt","w") as outie:
         all_sem = em.get_similarities(em.get_embeddings(mod_results),em.get_embeddings(eval_ans))
         accs = {}
         for k, v in cat_results.items():
-            accs[k] = em.compute(em.get_embeddings(v),em.get_embeddings(cat_eval[k]))
+            accs[k] = em.get_similarities(em.get_embeddings(v),em.get_embeddings(cat_eval[k]))
         outie.write(f"***MODEL IS {a}***\n")
         outie.write(f"overall average sem score: {all_sem}\n")
         for k,v in accs.items():
@@ -102,7 +102,7 @@ with open("../gemini_results/base_em.txt","w") as outie:
         all_sem = em.get_similarities(em.get_embeddings(mod_results),em.get_embeddings(eval_ans))
         accs = {}
         for k, v in cat_results.items():
-            accs[k] = em.compute(em.get_embeddings(v),em.get_embeddings(cat_eval[k]))
+            accs[k] = em.get_similarities(em.get_embeddings(v),em.get_embeddings(cat_eval[k]))
         outie.write(f"***MODEL IS {a}***\n")
         outie.write(f"overall average sem score: {all_sem}\n")
         for k,v in accs.items():

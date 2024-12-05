@@ -22,6 +22,7 @@ class EmbeddingModelWrapper():
         tokenizer = AutoTokenizer.from_pretrained(
              model_path,
         )
+        tokenizer.pad_token = tokenizer.eos_token
         return model, tokenizer
 
     def emb_mean_pooling(self, model_output, attention_mask):

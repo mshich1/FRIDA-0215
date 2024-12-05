@@ -1,1 +1,1 @@
-from semscore.semscore import semscore
+from semscore import semscore
