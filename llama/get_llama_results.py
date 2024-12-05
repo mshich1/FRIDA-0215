@@ -1,6 +1,7 @@
 import transformers
 import torch
 import json
+import re
 from tqdm import tqdm
 
 model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
@@ -15,8 +16,12 @@ with(open(file_out, "w")) as outie:
     for i in tqdm(instruct):
         task = i["instruction"]
         choices = i["instances"][0]["input"]
-        instruction = task + "\n" + choices + "\n" + "Answer: "
-        res = pipe(instruction)[0]["generated_text"]
-        res = ' '.join(res.split("\n"))
-        outie.write(f"{res}\n")
+        query = [{"role":"system", "content": "The following is a multiple choice question about object properties and earthquakes. There is only one correct answer. Your answer should repeat the correct answer exactly with no explanation."},{"role": "user", "content": f"{i['instruction']} {i['instances'][0]['input']}"}]
+        res = pipe(query)[0]["generated_text"]
+        ans_matched = re.search("<\|start_header_id\|>assistant<\|end_header_id\|>([\s\S]*)<\|eot_id\|>", res)
+        if ans_matched is None:
+            ans_matched = re.search("<\|start_header_id\|>assistant<\|end_header_id\|>([\s\S]*)", res)
+        to_go = ans_matched.group(1)
+        to_go = ' '.join(to_go.split("\n"))
+        outie.write(f"{to_go}\n")
         
