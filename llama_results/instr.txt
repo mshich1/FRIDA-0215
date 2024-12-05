@@ -1,32 +1,32 @@
   A) book.
   A) shovel
-  A) pail
-  A) bicycle
+  A) pail.
+  B) chalk.
   C) windshield.
   D) house.
   E) drawer.
-  A) vehicle.
+  A) vehicle
   D) pitcher.
   C) boat.
   A) stile.
-  E) bag.
+  A) can.
   E) apron.
   E) headlight.
   E) swivel chair.
   A) pallet.
-  C) pail
-  E) pail
+  C) pail.
+  E) pail.
   D) book.
-  A) crate
-  A) speaker
+  A) crate.
+  A) speaker.
   A) suit.
   A) shutters.
   E) cereal.
   A) knob.
   A) opening.
   A) vehicle.
-  C) car.
-  E) rake.
+  A) basket.
+  D) box.
   A) newspaper.
   A) telephone.
   A) column.
@@ -40,7 +40,7 @@
   C) A television is used to play videos and a computer is used for many different tasks.
   B) A taillight illuminates the back while a headlight illuminates the front.
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
-  B) tilting.
+  A) loud noises.
   B) non-perishable food.
   B) pancaking.
   A) Wide area assessment
@@ -53,19 +53,19 @@
   A) hose.
   C) carbon dioxide detector.
   A) crow bar.
-  A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
+  B) Put the hard hat on your head.
   A) If possible, use a helicopter to get an aerial view of the effected area.
-  B) open the tailgate.
+  A) Wait for others to fill the truck bed.
   A) drive the shovel into the dirt.
-  It can.
+  It cannot.
   It cannot.
   It can.
   It cannot.
   A) to what page should I open it?
-  A) Is the bag too small?
+  B) Is the orange supposed to be peeled or sliced?
   D) What container should I pump the gas into?
   E) Should I zoom in on the flower?
-  B) How tall is the fence?
+  A) Should I use a rope?
   C) How heavy is the log?
   E) Where are you throwing it from?
   A) the one on the right or left?
@@ -73,47 +73,47 @@
   A) speaker.
   A) truck.
   A) drawer
-  A) partition
-  A) opening
+  A) partition.
+  A) opening.
   A) orange.
   A) book.
   A) shade.
   A) open the book.
   C) saw the wood
   A) write on the note.
-  D) Write on the note.
+  D) write on the note.
   A) pick up the cone.
-  C) turn the lamp on.
+  A) enter the doorway.
   E) ride a bicycle.
   A) travel to the barn
   D) play with the ball.
   A) water the plant.
-  B) close.
+  B) close
   A) on
-  B) with the camera unplugged.
+  A) with the camera plugged in.
   B) open.
   It is not.
-  It is not.
   It is.
   It is.
+  It is.
   It is not.
-  A) very well.
+  B) well.
   A) attached to a vehicle.
   C) in the bathroom.
-  E) at the airport.
-  C) on a desk
-  C) basket
+  E) at the airport
+  C) on a desk.
+  C) basket.
   A) barn.
   A) chair.
   E) plate.
-  A) video.
+  C) rake.
   A) door.
   D) chair.
   A) bowl.
-  A) grill B) bowl
-  B) tomato C) plate
-  D) truck E) headlight C) wheel
-  C) desk E) pencil
+  A) grill.
+  B) tomato.
+  D) truck.
+  C) desk.
   You can.
   You cannot.
   You can.

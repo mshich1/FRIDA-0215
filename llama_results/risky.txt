@@ -1,6 +1,6 @@
   E) motorcycle
   C) house
-  C) partition
+  A) pail
   D) jar
   C) windshield
   D) house
@@ -13,12 +13,12 @@
   E) apron
   E) headlight
   E) swivel chair
-  A) pallet
+  B) coffee table
   C) pail
   E) pail
   D) book
   A) crate
-  C) awning
+  B) dress
   C) taillight
   B) ladder
   E) cereal
@@ -26,19 +26,19 @@
   B) barrier
   D) jug
   C) car
-  D) box
+  E) rake
   B) ceiling
   D) coffee table
   A) column
   E) water tank
   D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking.
-  A) Curtains are able to open from side to side while shutters are able to open up or down
+  A) Curtains are able to open from side to side while shutters are able to open up or down.
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals.
   D) A truck is driven on land while a boat is driven on water.
   C) A book is made of many pieces of paper
   A) Only a broom can sweep while a mop only mops
   C) A television is used to play videos and a computer is used for many different tasks.
-  B) A taillinght illuminates the back while a headlight illuminates the front
+  B) A taillight illuminates the back while a headlight illuminates the front.
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
   B) tilting
   B) non-perishable food
@@ -48,7 +48,7 @@
   D) protect the lungs
   C) powers hydraulic lifts for lifting rubble
   B) They transport it away from the scene to dispose of it.
-  A) Provide a vantage point to identify heavily damaged areas
+  A) Provide a vantage point to identify heavily damaged areas.
   B) pickaxe
   A) hose
   C) carbon dioxide detector
@@ -57,35 +57,35 @@
   B) divide the effected area into sectors.
   B) open the tailgate.
   A) drive the shovel into the dirt.
-  it can.
-  it cannot.
-  it can
+  It can.
   It cannot.
+  it can
+  it cannot.
   A) to what page should I open it?
-  B) Is the orange supposed to be peeled or sliced?
+  C) should I get a knife first?
   D) What container should I pump the gas into?
   E) Should I zoom in on the flower?
   B) How tall is the fence?
   C) How heavy is the log?
   E) Where are you throwing it from?
   A) the one on the right or left?
-  C) can someone hold it steady while I climb?
+  B) is the office not safe to be in?
   D) boat
   A) truck
   D) church
-  C) boat
+  D) sink
   E) pallet
   D) rake
-  A) book
+  D) image
   E) hydrant
   A) open the book
   C) saw the wood
   D) ascend the ladder
-  E) write on the note
+  B) water the plant
   D) hold on to the suitcase
   C) turn the lamp on
-  E) ride a bicycle
-  C) climb the ladder
+  A) close the door
+  D) barricade the door
   D) play with the ball
   E) turn on the television
   A) open
@@ -97,23 +97,23 @@
   It is.
   It is.
   It is not.
-  D) no idea
+  A) very well
   A) attached to a vehicle
   C) in the bathroom
   E) at the airport
   C) on a desk
   C) basket
   A) barn
-  C) headlight
-  D) plate
+  B) barrel
+  C) pallet jack
   C) rake
   C) curtains
   D) chair
   A) bowl
-  A) grill	B) bowl	C) bicycle	D) donkey	E) book A) grill	B) bowl	C) bicycle	D) donkey	E) book A) grill	B) bowl	C) bicycle	D) donkey	E) book A) grill	B) bowl	C) bicycle	D) donkey	E) book A) grill	B) bowl	C) bicycle	D) donkey	E) book A) grill	B) bowl	C) bicycle	D) donkey	E) book A) grill	B) bowl	C) bicycle	D) donkey	E) book A) grill	B) bowl	C) bicycle
+  A) grill
   B) tomato
   D) truck
-  E) pencil
+  C) desk
   You can.
   You cannot.
   You can.

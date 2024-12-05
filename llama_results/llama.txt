@@ -1,42 +1,42 @@
-A
-A
-A
+D) grill
+C) house
+D) table lamp
 A
 C) windshield
-D) house.
-E) drawer
+D) house
+D) drawer
 A) vehicle
 D) pitcher
 C) boat
-A) stile
+A) stile.
 A bag.
 E) apron
 E) headlight
 E) swivel chair
-A) pallet
+A) pallet.
 C) pail
 E) pail
 D) book
 A) crate
-B) dress
+A) speaker
 A) suit
 A) shutters
 E) cereal
 C) map
 A) opening
 A
+C) car
 A
-A) document
 B) ceiling
-A) telephone
-A) column.
+D) coffee table
+A column.
 E) water tank
-D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
-A) Curtains are able to open from side to side while shutters are able to open up or down.
-B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
+D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking.
+A) Curtains are able to open from side to side while shutters are able to open up or down
+A
 D) A truck is driven on land while a boat is driven on water.
 C) A book is made of many pieces of paper
-A
+A) Only a broom can sweep while a mop only mops
 C) A television is used to play videos and a computer is used for many different tasks
 B) A taillight illuminates the back while a headlight illuminates the front
 B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
@@ -47,41 +47,41 @@ step A
 E) unstable surfaces
 D) protect the lungs
 C) powers hydraulic lifts for lifting rubble
-B) They transport it away from the scene to dispose of it
-A) Provide a vantage point to identify heavily damaged areas
+B) They transport it away from the scene to dispose of it.
+A) Provide a vantage point to identify heavily damaged areas.
 A) axe
 A) hose
 C) carbon dioxide detector
-A) crow bar
-B) Put the hard hat on your head.
+B) thermal imaging camera
+Step B
 step B
+Step A
 step A
-step A
-it cannot
+it can
 It cannot.
-it cannot
+it can
 it cannot
 A) to what page should I open it?
-B) Is the orange supposed to be peeled or sliced?
+A) is the bag too small?
 D) What container should I pump the gas into?
 E) Should I zoom in on the flower?
 A) should I use a rope?
 C) How heavy is the log?
 E) Where are you throwing it from?
 A) the one on the right or left?
-A) are the obstacles able to be navigated around?
-D) boat
+C) can someone hold it steady while I climb?
 A
 A
-C) boat
+D) church
+A) partition
 E) pallet
-D) rake
-C) apron
-A shade.
+A rake.
+A book.
+E) hydrant
 A) open the book
 C) saw the wood
 D) ascend the ladder
-A) cook on the grill
+D) look at the cup
 A) pick up the cone
 C) turn the lamp on
 A) close the door
@@ -95,7 +95,7 @@ B) open
 It is not.
 It is not.
 It is.
-It is not
+It is.
 It is not.
 A) very well
 A) attached to a vehicle
@@ -103,18 +103,18 @@ C) in the bathroom
 E) at the airport
 C) on a desk
 C) basket
-A) barn
-A) chair
+A
+A)chair
 E) plate
 C) rake
 C) curtains
 A) windshield
 A
-I think there may be some confusion.  The question doesn't seem to be about cooking surfaces, but rather about object properties and earthquakes.  However, if we're looking for a list of different types of cooking surfaces, the correct answer would be:  A) grill
-I can't help with that. I can help with a multiple choice question about object properties and earthquakes if you would like.
-There is no list provided, so I'll assume you want me to answer the question based on the options given.  The correct answer is not related to the question about vehicles. However, I can tell you that the options A) silo, B) mirror, C) wheel, D) truck, and E) headlight are not types of vehicles.   However, if we are choosing the type of vehicle from the list, then the correct answer is D) truck.
-I think there's been a mistake. The question is about object properties and earthquakes, but the options don't seem to relate to that topic. However, based on the options provided, I'll choose the ones that are types of writing surfaces.   A) dvd player  B) hat  C) desk  D) chair  E) pencil   The correct answer is: E) pencil
-You can.
+A) grill
+B) tomato
+C) wheel
+C) desk
+You cannot.
 You cannot.
 You cannot.
 You cannot.

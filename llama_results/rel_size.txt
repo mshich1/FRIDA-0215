@@ -6,21 +6,21 @@
   D) house
   E) drawer
   A) vehicle
-  D) pitcher
+  D) barrel
   C) boat
   D) stairway
   E) bag
   E) apron
   E) headlight
   E) swivel chair
-  B) coffee table
+  A) pallet
   C) pail
   C) hydrant
   D) book
   A) crate
-  A) speaker
+  B) dress
   A) suit
-  B) ladder
+  E) railing
   E) cereal
   D) greenhouse
   B) barrier
@@ -28,17 +28,17 @@
   C) car
   D) box
   B) ceiling
-  B) hydrant
+  C) lighthouse
   A) column
   E) water tank
   D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking.
   A) Curtains are able to open from side to side while shutters are able to open up or down
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
   D) A truck is driven on land while a boat is driven on water.
-  C) A book is made of many pieces of paper
-  B) A mop can only clean dry.
-  C) A television is used to play videos and a computer is used for many different tasks.
-  B) A taillinght illuminates the back while a headlight illuminates the front
+  B) A book is always bigger than a sign
+  D) There's no difference between a broom and mop
+  B) Only a television has a screen
+  B) A taillight illuminates the back while a headlight illuminates the front.
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
   B) tilting
   B) non-perishable food
@@ -48,19 +48,19 @@
   D) protect the lungs
   C) powers hydraulic lifts for lifting rubble
   B) They transport it away from the scene to dispose of it
-  A) Provide a vantage point to identify heavily damaged areas
+  B) Move large vehicles to disaster area
   B) pickaxe
   A) hose
   C) carbon dioxide detector
   A) crow bar
-  B) Put the hard hat on your head.
+  A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
   B) divide the effected area into sectors.
   B) open the tailgate.
   A) drive the shovel into the dirt.
+  it can fit.
+  it can fit inside a barrel.
   it can.
-  it can fit in a barrel.
-  it can fit in a cup.
-  it can fit in a drawer.
+  it can fit inside.
   A) to what page should I open it?
   B) Is the orange supposed to be peeled or sliced?
   D) What container should I pump the gas into?
@@ -68,15 +68,15 @@
   B) How tall is the fence?
   C) How heavy is the log?
   E) Where are you throwing it from?
-  B) how heavy is the suitcase?
+  A) the one on the right or left?
   C) can someone hold it steady while I climb?
   D) boat
   C) rail
-  D) church
+  E) church
   C) boat
   E) pallet
   D) rake
-  C) apron
+  A) book
   E) hydrant
   A) open the book
   C) saw the wood
@@ -84,9 +84,9 @@
   E) write on the note
   D) hold on to the suitcase
   C) turn the lamp on
-  A) close the door
-  B) locate the rock
-  E) travel to the barn
+  E) ride a bicycle
+  C) climb the ladder
+  D) play with the ball
   E) turn on the television
   A) open
   A) on
@@ -96,7 +96,7 @@
   It is.
   It is.
   It is.
-  It is.
+  It is not.
   A) very well
   A) attached to a vehicle
   C) in the bathroom
@@ -112,9 +112,9 @@
   A) bowl
   A) grill
   B) tomato
-  C) wheel
+  A) silo
   C) desk
-  you can use it.
+  you can.
   you can use a bottle as a basket.
   you can.
   you cannot.

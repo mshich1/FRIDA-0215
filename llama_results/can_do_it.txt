@@ -1,6 +1,6 @@
   E) motorcycle
   C) house
-  B) monitor
+  C) partition
   D) jar
   C) windshield
   D) house
@@ -19,7 +19,7 @@
   D) book
   A) crate
   B) dress
-  C) taillight
+  A) suit
   D) painting
   E) cereal
   D) greenhouse
@@ -47,21 +47,21 @@
   E) unstable surfaces
   D) protect the lungs
   C) powers hydraulic lifts for lifting rubble
-  B) They transport it away from the scene to dispose of it.
+  B) They transport it away from the scene to dispose of it
   A) Provide a vantage point to identify heavily damaged areas
   B) pickaxe
   A) hose
   C) carbon dioxide detector
-  A) crow bar
-  A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
-  B) divide the effected area into sectors.
-  B) open the tailgate.
+  A) crow bar	B) thermal imaging camera	C) bolt cutter	D) fire extinguisher	E) first aid kit	F) tarpaulin	G) safety gloves	H) hard hat	I) rope	J) shovel	K) shovel handle	L) fire hydrant	M) cement mixer	N) jackhammer	O) sledgehammer	P) hammer	Q) chisel	R) screwdriver	S) saw	T) axe	U) chainsaw	V) bolt cutters	W) bolt cutters	X) bolt cutter	Y) bolt cutters	Z) bolt cutter	A) bolt cutters	B) bolt cutter	C) bolt cutter	D) bolt cutters	E
+  B) Put the hard hat on your head.
+  A) If possible, use a helicopter to get an aerial view of the effected area.
+  A) Wait for others to fill the truck bed.
   A) drive the shovel into the dirt.
+  it can
   it cannot.
-  it cannot
   it can
-  it can
-  A) to what page should I open it?
+  it can't typically. (This is because doors are much larger than drawers.)
+  B) should I point with my finger?
   B) Is the orange supposed to be peeled or sliced?
   D) What container should I pump the gas into?
   E) Should I zoom in on the flower?
@@ -71,25 +71,25 @@
   B) how heavy is the suitcase?
   C) can someone hold it steady while I climb?
   D) boat
-  A) truck	B) table lamp	C) rail	D) table	E) lamp A) truck
+  D) table
   D) church
   D) sink
-  B) telephone
+  A) opening D) clothing E) pallet D) clothing A) opening E) pallet A) opening E) pallet A) opening E) pallet A) opening E) pallet E) pallet A) opening E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet E) pallet 
   D) rake
   A) book
-  B) hat
+  A) shade
   A) open the book
   C) saw the wood
   D) ascend the ladder
-  D) look at the cup E) write on the note D) look at the cup is not correct. E) write on the note is not correct. A) cook on the grill is not correct. B) water the plant is not correct. D) look at the cup is not correct. E) write on the note is not correct. B) water the plant is not correct. B) water the plant is not correct. B) water the plant is not correct. B) water the plant is not correct. B) water the plant is not correct. B) water the plant is not correct. B
+  D) look at the cup
   D) hold on to the suitcase
   C) turn the lamp on
   E) ride a bicycle
-  C) climb the ladder
-  E) travel to the barn
+  A) travel to the barn
+  D) play with the ball
   E) turn on the television
-  A) open	B) close A) open
-  A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A) on	B) off A)
+  A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A) open	B) close A)
+  A) on	B) off
   B) with the camera unplugged
   B) open
   It is not.
@@ -110,11 +110,11 @@
   C) curtains
   D) chair
   A) bowl
-  A) grill	B) bowl	C) bicycle	D) donkey	E) book A) grill	B) bowl	C) bicycle	D) donkey	E) book B) bowl E) book A) grill B) bowl A) grill B) bowl B) bowl A) grill B) bowl B) bowl A) grill B) bowl A) grill B) bowl B) bowl A) grill B) bowl B) bowl A) grill B) bowl A) grill B) bowl B) bowl A)
-  B) tomato C) plate D) sink E) curtains A) coffee cup
-  D) truck	E) headlight	A) silo	B) mirror	C) wheel	D) truck	E) headlight	A) silo	B) mirror	C) wheel	D) truck	E) headlight	D) truck	E) headlight	A) silo	B) mirror	C) wheel	D) truck	E) headlight	D) truck	E) headlight	A) silo	B) mirror	C) wheel	D) truck	E) headlight	A) silo	B) mirror	C) wheel	D) truck	E) headlight	D) truck	E) headlight	A) silo	B) mirror	C) wheel	D) truck	E)
-  C) desk	D) pencil	E) notebook E) paper D) chalkboard A) whiteboard B) blackboard C) typewriter D) keyboard E) tablet A) notepad B) journal C) calendar D) folder E) envelope A) typewriter B) printer C) scanner D) photocopier E) shredder A) chalk B) marker C) pen D) pencil E) crayon A) keyboard B) mouse C) monitor D) speaker E) headset 
+  A) grill
+  B) tomato
+  D) truck
+  C) desk
   you can
-  you cannot
+  you can't typically use a bottle as a basket.
   You can.
   you cannot

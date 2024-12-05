@@ -1,6 +1,6 @@
   E) motorcycle
   C) house
-  A) pail
+  C) partition
   C) poster
   C) windshield
   D) house
@@ -13,27 +13,27 @@
   E) apron
   E) headlight
   E) swivel chair
-  A) pallet
+  B) coffee table
   E) bag
   E) pail
   D) book
   A) crate
-  A) speaker
-  C) taillight
+  C) awning
+  A) suit
   A) shutters
-  E) cereal
+  D) floor
   D) greenhouse
   A) opening
-  A) vehicle
+  D) jug
   A) basket
   E) rake
-  B) ceiling
+  A) newspaper
   D) coffee table
   A) column
   E) water tank
   D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
   A) Curtains are able to open from side to side while shutters are able to open up or down
-  B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
+  D) There are no differences between a hydrant and an extinguisher
   D) A truck is driven on land while a boat is driven on water
   C) A book is made of many pieces of paper
   D) There's no difference between a broom and mop
@@ -52,7 +52,7 @@
   A) axe
   A) hose
   C) carbon dioxide detector
-  A) crow bar
+  B) thermal imaging camera
   A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
   B) divide the effected area into sectors.
   B) open the tailgate.
@@ -60,7 +60,7 @@
   it can
   it cannot
   it can
-  it can
+  it cannot
   A) to what page should I open it?
   B) Is the orange supposed to be peeled or sliced?
   D) What container should I pump the gas into?
@@ -72,49 +72,49 @@
   C) can someone hold it steady while I climb?
   D) boat
   D) table
-  E) barrier
-  D) sink
-  A) opening
+  C) road
+  C) boat
+  E) pallet
   D) rake
   A) book
   A) shade
   A) open the book
   C) saw the wood
-  D) ascend the ladder
-  C) move toward the newspaper
+  A) write on the note
+  D) write on the note
   D) hold on to the suitcase
-  A) enter the doorway
+  C) turn the lamp on
   A) close the door
   A) travel to the barn
   D) play with the ball
-  D) turn on the television
+  E) turn on the television
   A) open
   A) on
   A) with the camera plugged in
-  B) open
+  A) closed
   It is not.
   It is not.
   It is.
   It is.
   It is not.
-  A) very well
+  D) no idea
   A) attached to a vehicle
   C) in the bathroom
   E) at the airport
   C) on a desk
   C) basket
   D) cereal
-  D) shoe
-  E) plate
+  C) headlight
+  C) pallet jack
   C) rake
-  A) door
-  C) tv stand
+  C) curtains
+  D) chair
   A) bowl
   A) grill
-  B) tomato E) curtains
-  D) truck E) headlight
-  C) desk D) pencil
+  A) coffee cup
+  A) silo
+  C) desk
   You can.
-  you cannot
+  You cannot.
   you can
-  you cannot
+  You cannot.
