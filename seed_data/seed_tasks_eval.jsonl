@@ -110,10 +110,10 @@
 {"id": "eval_task_109", "cat": "secondary_use", "instruction": "Hey, which of the following can be used as a rope?", "instances": [{"input": "A) door\tB) drums\tC) curtains\nD) dvd player\tE) palm tree", "output": "C) curtains"}]}
 {"id": "eval_task_110", "cat": "secondary_use", "instruction": "Hey, which of the following can be used as a step?", "instances": [{"input": "A) windshield\tB) shed\tC) tv stand\nD) chair\tE) speaker", "output": "D) chair"}]}
 {"id": "eval_task_111", "cat": "secondary_use", "instruction": "Hey, which of the following can be used as a plate?", "instances": [{"input": "A) bowl\tB) cereal\tC) clothing\nD) suit\tE) bottle'", "output": "A) bowl"}]}
-{"id": "eval_task_112", "cat": "types_of", "instruction": "Choose the different types of cooking surfaces from the list.", "instances": [{"input": "A) grill\tB) bowl\tC) bicycle\nD) donkey\tE) book", "output": "A) grill"}]}
-{"id": "eval_task_113", "cat": "types_of", "instruction": "Choose the different types of food from the list.", "instances": [{"input": "A) coffee cup\tB) tomato\tC) plate\nD) sink\tE) curtains", "output": "B) tomato"}]}
-{"id": "eval_task_114", "cat": "types_of", "instruction": "Choose the different types of vehicles from the list.", "instances": [{"input": "A) silo\tB) mirror\tC) wheel\nD) truck\tE) headlight", "output": "D) truck"}]}
-{"id": "eval_task_115", "cat": "types_of", "instruction": "Choose the different types of writing surfaces from the list.", "instances": [{"input": "A) dvd player\tB) hat\tC) desk\nD) chair\tE) pencil", "output": "C) desk"}]}
+{"id": "eval_task_112", "cat": "types_of", "instruction": "Choose the cooking surface from the list.", "instances": [{"input": "A) grill\tB) bowl\tC) bicycle\nD) donkey\tE) book", "output": "A) grill"}]}
+{"id": "eval_task_113", "cat": "types_of", "instruction": "Choose the  food from the list.", "instances": [{"input": "A) coffee cup\tB) tomato\tC) plate\nD) sink\tE) curtains", "output": "B) tomato"}]}
+{"id": "eval_task_114", "cat": "types_of", "instruction": "Choose the vehicle from the list.", "instances": [{"input": "A) silo\tB) mirror\tC) wheel\nD) truck\tE) headlight", "output": "D) truck"}]}
+{"id": "eval_task_115", "cat": "types_of", "instruction": "Choose the writing surface from the list.", "instances": [{"input": "A) dvd player\tB) hat\tC) desk\nD) chair\tE) pencil", "output": "C) desk"}]}
 {"id": "eval_task_116", "cat": "use_as", "instruction": "Can you use a picture as an photograph? Answer either \"you can\" or \"you cannot\".", "instances": [{"input": "", "output": "you can"}]}
 {"id": "eval_task_117", "cat": "use_as", "instruction": "Can you use a bottle as a basket? Answer either \"you can\" or \"you cannot\".", "instances": [{"input": "", "output": "you cannot"}]}
 {"id": "eval_task_118", "cat": "use_as", "instruction": "Can you use a table as a desk? Answer either \"you can\" or \"you cannot\".", "instances": [{"input": "", "output": "you can"}]}

@@ -10,13 +10,13 @@ quake accuracy: {'exact_match': 0.6}
 instr accuracy: {'exact_match': 0.5789473684210527}
 
 ***MODEL IS ../llama_results/llama.txt***
-overall accuracy: {'exact_match': 0.0}
-rel_size accuracy: {'exact_match': 0.0}
-can_do_it accuracy: {'exact_match': 0.0}
-is_a_dif accuracy: {'exact_match': 0.0}
-risky accuracy: {'exact_match': 0.0}
-equip accuracy: {'exact_match': 0.0}
-obj_facts accuracy: {'exact_match': 0.0}
-quake accuracy: {'exact_match': 0.0}
-instr accuracy: {'exact_match': 0.0}
+overall accuracy: {'exact_match': 0.44166666666666665}
+rel_size accuracy: {'exact_match': 0.375}
+can_do_it accuracy: {'exact_match': 0.6190476190476191}
+is_a_dif accuracy: {'exact_match': 0.22727272727272727}
+risky accuracy: {'exact_match': 0.3333333333333333}
+equip accuracy: {'exact_match': 0.5}
+obj_facts accuracy: {'exact_match': 0.75}
+quake accuracy: {'exact_match': 0.8}
+instr accuracy: {'exact_match': 0.3157894736842105}
 
