@@ -63,7 +63,7 @@ with open("../llama_results/em.txt","w") as outie:
                 cat_results["instr"].append(m)
             else:
                 continue
-        em = EmbeddingModelWrapper()
+        em = EmbeddingModelWrapper(model_path="meta-llama/Meta-Llama-3.1-8B-Instruct")
         all_sem = em.get_similarities(em.get_embeddings(mod_results),em.get_embeddings(eval_ans))
         accs = {}
         for k, v in cat_results.items():
@@ -98,7 +98,7 @@ with open("../gemini_results/base_em.txt","w") as outie:
                 cat_results["instr"].append(m)
             else:
                 continue
-        em = EmbeddingModelWrapper()
+        em = EmbeddingModelWrapper(model_path="meta-llama/Meta-Llama-3.1-8B-Instruct")
         all_sem = em.get_similarities(em.get_embeddings(mod_results),em.get_embeddings(eval_ans))
         accs = {}
         for k, v in cat_results.items():
