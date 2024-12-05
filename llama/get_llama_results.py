@@ -5,8 +5,8 @@ from tqdm import tqdm
 
 model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
-file_in = input("Put in the relative directory and jsonl file name that you want to send to llama3: ")
-file_out = input("Write the name of the file you want the results written to: ")
+file_in = "../seed_data/seed_tasks_eval.jsonl"
+file_out = "../llama_results/llama.txt"
 
 pipe = transformers.pipeline("text-generation", model=model_id, model_kwargs={"torch_dtype": torch.bfloat16})
 
