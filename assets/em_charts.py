@@ -16,10 +16,6 @@ with open("../llama_results/em.txt") as l_in, open("../gemini_results/base_em.tx
         num = float(cat_nums.group(2))
         ems[cat].append(num)
     
-    del ems["overall"]
-    del ems["rel_size"]
-    del ems["can_do_it"]
-    del ems["is_a_dif"]
     x_axis_labels = ["size\nmodel","can do\nmodel","dif and\nhypernym model","object risk\nmodel",\
                      "equipment\nmodel","object facts\nmodel","quake\nmodel","instruction id\nmodel",\
                      "all synth\ndata model", "gemini", "llama3.1\ninstruct"]
