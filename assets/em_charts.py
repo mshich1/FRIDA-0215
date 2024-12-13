@@ -9,7 +9,7 @@ with open("../llama_results/em.txt") as l_in, open("../gemini_results/base_em.tx
     ems = {"overall":[], "rel_size":[],"can_do_it": [], "is_a_dif":[],"risky":[],\
            "equip":[], "obj_facts":[], "quake":[], "instr": []}
     for p in scores:
-        cat_nums = re.match("([a-zA-Z_]+) accuracy: {\'exact_match\': (0\.\d+|1.0)}", p)
+        cat_nums = re.match("([a-zA-Z_]+) accuracy: {\'exact_match\': (0\.\d+|1\.0)}", p)
         if cat_nums is None:
             continue
         cat = cat_nums.group(1)
@@ -24,13 +24,46 @@ with open("../llama_results/em.txt") as l_in, open("../gemini_results/base_em.tx
     # Disaster knowledge - 2nd to last index, value = 2.566666666666667,
     for k,v in ems.items():
         winning_scores = v
-        print(v)
-        print(len(v))
         width = 0.25
-        plt.bar(x, winning_scores, width, color='cornflowerblue')
-        plt.xticks(x, x_axis_labels)
-        plt.xlabel("Model")
-        plt.ylabel("Exact Match")
-        plt.ylim(0,1)
-        plt.title(f"LM's Exact Match score for {k} data")
-        plt.show()
+
+        # Figure Size
+        fig, ax = plt.subplots(figsize =(16, 9))
+
+        # Horizontal Bar Plot
+        ax.barh(x_axis_labels, winning_scores)
+
+        # Remove axes splines
+        for s in ['top', 'bottom', 'left', 'right']:
+            ax.spines[s].set_visible(False)
+
+        # Remove x, y Ticks
+        ax.xaxis.set_ticks_position('none')
+        ax.yaxis.set_ticks_position('none')
+
+        # Add padding between axes and labels
+        ax.xaxis.set_tick_params(pad = 5)
+        ax.yaxis.set_tick_params(pad = 10)
+
+        # Add x, y gridlines
+        ax.grid(visible = True, color ='grey',
+                linestyle ='-.', linewidth = 0.5,
+                alpha = 0.2)
+
+        # Show top values 
+        ax.invert_yaxis()
+
+        # Add annotation to bars
+        for i in ax.patches:
+            plt.text(i.get_width()+0.05, i.get_y()+0.5, 
+                    str(round((i.get_width()), 2)),
+                    fontsize = 10, fontweight ='bold',
+                    color ='grey')
+
+        # Add Plot Title
+        ax.set_title(f'Exact Match Scoring of Ablated FRIDA Models',
+                    loc ='left', )
+
+        # Show Plot
+        if k == 'overall':
+            plt.show()
+
