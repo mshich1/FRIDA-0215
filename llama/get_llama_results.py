@@ -7,7 +7,7 @@ from tqdm import tqdm
 model_id = "meta-llama/Llama-3.2-1B-Instruct"
 
 file_in = "../seed_data/seed_tasks_eval.jsonl"
-file_out = "../llama_results/llama_sm.txt"
+file_out = "../llama_results/llama_md.txt"
 
 pipe = transformers.pipeline("text-generation", model=model_id, model_kwargs={"torch_dtype": torch.bfloat16}, max_new_tokens=200, device = 0)
 
