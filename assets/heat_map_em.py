@@ -5,6 +5,7 @@ import re
 with open("../llama_results/em.txt") as l_in, open("../gemini_results/base_em.txt") as b_in:
     scores_l = [l for l in l_in]
     scores_b = [b for b in b_in]
+    print(scores_b)
     scores = scores_l + scores_b
     ems = {"overall":[], "rel_size":[],"can_do_it": [], "is_a_dif":[],"risky":[],\
            "equip":[], "obj_facts":[], "quake":[], "instr": []}
@@ -16,11 +17,11 @@ with open("../llama_results/em.txt") as l_in, open("../gemini_results/base_em.tx
         num = float(cat_nums.group(2))
         ems[cat].append(num)
     
-    x_axis_labels = ["size model","can do model","dif and hypernym model","object risk model",\
-                     "equipment model","object facts model","quake model","instruction id model",\
-                     "all synth data model", "gemini", "llama3.1 8B instruct"]
-    y_axis_labels = ["size templates", "can do templates", "dif and hypernym templates", "object risk templates",\
-                     "equipment templates", "object facts templates", "quake templates", "instruction id templates", "all templates"]
+    x_axis_labels = ["aFRIDA 8B: relative size","aFRIDA 8B: object function","aFRIDA 8B: differences","aFRIDA 8B: objects causing harm",\
+                     "aFRIDA 8B: specialized equipment","aFRIDA 8B: non-functional object facts","aFRIDA 8B: earthquake","aFRIDA 8B: instruction understanding",\
+                     "FRIDA 8B", "LLaMa 3.1 8B instruct"]
+    y_axis_labels = ["relative size templates", "object function templates", "differences templates", "objects causing harm templates",\
+                     "specialized equipment templates", "non-functional object facts templates", "earthquake templates", "instruction understanding templates", "all evaluation data"]
     x = np.arange(len(x_axis_labels))
     y = np.arange(len(y_axis_labels))
 
@@ -33,6 +34,7 @@ with open("../llama_results/em.txt") as l_in, open("../gemini_results/base_em.tx
                        np.array(ems["quake"]),
                        np.array(ems["instr"]),
                        np.array(ems["overall"])])
+    plt.rcParams.update({'font.size': 11})
     
     fig, ax = plt.subplots()
     im = ax.imshow(results)

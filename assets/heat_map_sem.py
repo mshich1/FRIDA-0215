@@ -16,11 +16,11 @@ with open("../llama_results/sem.txt") as l_in, open("../gemini_results/base_sem.
         num = float(cat_nums.group(2))
         ems[cat].append(num)
     
-    x_axis_labels = ["size model","can do model","dif and hypernym model","object risk model",\
-                     "equipment model","object facts model","quake model","instruction id model",\
-                     "all synth data model", "gemini", "llama3.1 8B instruct"]
-    y_axis_labels = ["size templates", "can do templates", "dif and hypernym templates", "object risk templates",\
-                     "equipment templates", "object facts templates", "quake templates", "instruction id templates", "all templates"]
+    x_axis_labels = ["aFRIDA 8B: relative size","aFRIDA 8B: object function","aFRIDA 8B: differences","aFRIDA 8B: objects causing harm",\
+                     "aFRIDA 8B: specialized equipment","aFRIDA 8B: non-functional object facts","aFRIDA 8B: earthquake","aFRIDA 8B: instruction understanding",\
+                     "FRIDA 8B", "LLaMa 3.1 8B instruct"]
+    y_axis_labels = ["relative size templates", "object function templates", "differences templates", "objects causing harm templates",\
+                     "specialized equipment templates", "non-functional object facts templates", "earthquake templates", "instruction understanding templates", "all evaluation data"]
 
     results = np.array([np.array(ems["rel_size"]),
                        np.array(ems["can_do_it"]),
@@ -34,7 +34,7 @@ with open("../llama_results/sem.txt") as l_in, open("../gemini_results/base_sem.
     
     fig, ax = plt.subplots()
     im = ax.imshow(results)
-
+    plt.rcParams.update({'font.size': 12})
     # Show all ticks and label them with the respective list entries
     ax.set_xticks(np.arange(len(x_axis_labels)), labels=x_axis_labels)
     ax.set_yticks(np.arange(len(y_axis_labels)), labels=y_axis_labels)
