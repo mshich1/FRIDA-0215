@@ -6,10 +6,10 @@ import os
 import re
 from tqdm import tqdm
 
-base_model_name = "meta-llama/Meta-Llama-3.1-8B-Instruct" #path/to/your/model/or/name/on/hub"
+base_model_name = "meta-llama/Meta-Llama-3.2-1B-Instruct" #path/to/your/model/or/name/on/hub"
 adapter_model_path = "../../"
 adapter_model_names = ["rel_size","can_do_it","is_a_dif","risky","equip","obj_facts","quake","instr","all"]
-
+adapter_suffix = "_sm"
 tokenized = AutoTokenizer.from_pretrained(base_model_name)
 tokenized.pad_token = tokenized.eos_token
 
@@ -17,7 +17,7 @@ eval_qs = [json.loads(l) for l in open("../seed_data/seed_tasks_eval.jsonl")]
 for a in adapter_model_names:
     print(f"***Currently testing Model {a}***")
     model = AutoModelForCausalLM.from_pretrained(base_model_name)
-    model = PeftModel.from_pretrained(model, os.path.join(adapter_model_path, a)).to("cuda")
+    model = PeftModel.from_pretrained(model, os.path.join(adapter_model_path, f"{a}{adapter_suffix}")).to("cuda")
     
     with open(f"../llama_results/{a}.txt","w") as ans_spot:
         for ev in tqdm(eval_qs):
