@@ -38,11 +38,11 @@ for l in eval_qs:
     else:
         continue
 
-with open("../llama_results/em_sm.txt","w") as outie:
+with open("../llama_results/em_md.txt","w") as outie:
     for a in adapter_results_names:
         cat_results = {"rel_size":[],"can_do_it":[], "is_a_dif": [], "risky":[], "equip":[], "obj_facts":[], "quake":[], "instr":[]}
         path = os.path.join(adapter_result_path, a)
-        mod_results = [l.strip() for l in open(f"{path}_sm.txt")]
+        mod_results = [l.strip() for l in open(f"{path}_md.txt")]
         # print(f"mod results: {mod_results}")
         for l, m in zip(eval_qs, mod_results):
             if l["cat"] in cat_map["rel_size"]:
