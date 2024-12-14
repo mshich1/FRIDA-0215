@@ -19,7 +19,7 @@ for a in adapter_model_names:
     model = AutoModelForCausalLM.from_pretrained(base_model_name)
     model = PeftModel.from_pretrained(model, os.path.join(adapter_model_path, f"{a}{adapter_suffix}")).to("cuda")
     
-    with open(f"../llama_results/{a}.txt","w") as ans_spot:
+    with open(f"../llama_results/{a}{adapter_suffix}.txt","w") as ans_spot:
         for ev in tqdm(eval_qs):
             query = [{"role":"system", "content": "The following is a multiple choice question about object properties and earthquakes. There is only one correct answer. Your answer should repeat the correct answer exactly with no explanation."},{"role": "user", "content": f"{ev['instruction']} {ev['instances'][0]['input']}"}]
             chat = tokenized.apply_chat_template(query, tokenize=False, add_generation_prompt=True)
