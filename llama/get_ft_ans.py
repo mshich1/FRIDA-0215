@@ -6,7 +6,7 @@ import os
 import re
 from tqdm import tqdm
 
-base_model_name = "meta-llama/Meta-Llama-3.2-1B-Instruct" #path/to/your/model/or/name/on/hub"
+base_model_name = "meta-llama/Llama-3.2-1B-Instruct" #path/to/your/model/or/name/on/hub"
 adapter_model_path = "../../"
 adapter_model_names = ["rel_size","can_do_it","is_a_dif","risky","equip","obj_facts","quake","instr","all"]
 adapter_suffix = "_sm"

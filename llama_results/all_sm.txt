@@ -1,0 +1,120 @@
+  D) grill
+  C) house
+  A) pail
+  A) bicycle
+  C) windshield	D) document	E) bag	A) gazebo	B) windshield	C) windshield	D) document	E) bag	A) gazebo	D) document	E) bag	A) gazebo	D) document	E) bag	A) gazebo	D) document	E) gazebo	D) document	A) gazebo	E) bag	A) gazebo	D) document	E) bag	A) gazebo	D) document	E) bag	A) gazebo	D) document	E) bag	A) gazebo	D) document	E) gazebo	A) gazebo	D) document	E) bag	A) gazebo	D) document	E) gazebo
+  D) house	A) television	B) note	C) cereal	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E) orange	D) house	E)
+  C) handle
+  A) vehicle
+  A) box	B) cabinet	C) crate	D) barrel	E) pitcher	D) bucket	A) barrel	B) barrel	D) bucket	E) barrel	A) bucket	D) barrel	B) barrel	A) bucket	E) bucket	D) barrel	A) bucket	E) bucket	D) bucket	A) bucket	E) barrel	B) bucket	D) bucket	A) bucket	E) bucket	D) bucket	A) bucket	E) bucket	D) bucket	A) bucket	E) bucket	D) bucket	A) bucket	E) bucket	D) bucket	A) bucket	E) bucket	D) bucket	A) bucket	E) bucket	D) bucket	A) bucket	E)
+  C) boat
+  E) stepladder
+  E) bag	A) can	B) basket	C) bucket	D) bottle	E) bag	A) can	B) basket	C) bucket	D) bottle	E) bag	A) can	B) basket	C) bucket	D) bottle	E) bag	A) can	B) bucket	C) bottle	E) bag	A) basket	C) bucket	D) bottle	E) bag	A) can	B) basket	C) bucket	D) bottle	E) bag	A) can	B) bucket	C) bottle	E) bag	A) basket	C) bucket	D) bottle	E) bag	A) can	B) bucket	C) bottle	E) bag	A) basket	C)
+  E) apron
+  E) headlight
+  E) swivel chair
+  A) pallet	B) coffee table	C) shelf	D) counter	E) tv stand	D) table	E) chair	D) stool	E) bench	A) table	E) chair	E) stool	E) bench	D) table	E) chair	E) bench	D) table	E) stool	D) chair	E) bench	D) table	E) stool	D) bench	E) table	E) stool	D) chair	E) bench	D) table	E) stool	D) table	E) chair	D) stool	E) table	E) bench	D) table	E) chair	E) stool	D) table	E) bench	D) table	E) chair	D) stool
+  A) luggage	B) basket	C) pail	D) suitcase	E) bag	D) bag	E) bag	D) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E) bag	E
+  C) hydrant
+  A) window	B) water tank	C) barrel	D) book	E) pallet
+  A) crate	B) table lamp	C) separator	D) plug	E) lamp	D) separator (note: table lamp is not typically square, and separator is not typically used for containing things)
+  C) awning
+  C) taillight
+  A) shutters
+  E) cereal
+  D) greenhouse	A) knob	B) clock	C) map	E) bottle	D) book	E) coin	A) button	A) key	B) pen	A) stamp	A) paperclip	A) rubber band	A) button	A) coin	A) key	A) book	A) map	A) clock	B) bottle	A) green bean	A) bottle cap	A) button	A) coin	A) key	A) paperclip	A) rubber band	A) button	A) button	A) coin	A) key	A) paperclip	A) button	A) button	A) coin	A) button	A) button	A) coin	A) button	A) coin	A
+  A) opening	D) shirt	E) light source	B) barrier	C) movie	C) light source	D) barrier	E) light source	C) light source	E) barrier	D) light source	C) barrier	E) light source	D) barrier	E) light source	C) barrier	E) light source	D) barrier	E) light source	C) light source	E) barrier	D) light source	C) barrier	E) light source	D) barrier	E) light source	C) barrier	E) light source	D) barrier	E) light source	C) barrier	E) light source	D) barrier	E) light source	C) barrier	E) light source	D)
+  D) jug	E) video	A) vehicle	B) shade	C) orange	D) jug	E) video	C) orange	D) jug	E) video	C) orange	D) jug	E) video	C) orange	D) jug	E) video	A) vehicle	B) shade	C) orange	D) jug	E) video	A) vehicle	B) shade	C) orange	D) jug	E) video	A) vehicle	B) shade	C) orange	D) jug	E) video	A) vehicle	B) shade	C) orange	D) jug	E) video	A) vehicle	B) shade	C) orange	D) jug	E) video	A) vehicle	B)
+  C) car	D) flashlight	E) mop	A) basket	B) note	E) boat	D) pillow	C) note	E) pillow	D) pillow	E) pillow	A) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E) pillow	D) pillow	E)
+  A) document	B) suit	C) clothing	D) box	E) rake	D) book	E) tool	D) plant	E) toy	E) machine tool	E) building block	E) brick	E) tree branch	E) car	E) bicycle	E) bird feather	E) leaf	D) flower	E) grain of sand	E) stone	E) piece of paper	E) piece of metal	E) piece of wood	E) piece of cloth	E) piece of glass	E) piece of rubber band	E) piece of rubber sheet	E) piece of plastic sheet	E) piece of cardboard	E) piece of paper towel	E) piece of fabric towel	E)
+  A) newspaper	B) ceiling	C) broom	D) pail	E) cone	D) bucket of water	E) bucket of water	A) bucket of water	B) bucket of water	E) bucket of water	A) bucket of water	E) bucket of water	A) bucket of water	E) bucket of water	A) bucket of water	E) bucket of water	A) bucket of water	E) bucket of water	A) bucket of water	E) bucket of water	A) bucket of water	E) bucket of water	A) bucket of water	E) bucket of water	A) bucket of water	E) bucket of water	A) bucket of water	E
+  C) lighthouse	A) telephone	B) hydrant	C) lighthouse	E) license plate	D) coffee table	E) license plate	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E) coffee table	D) coffee table	E
+  A) column
+  A) sawhorse	D) counter	E) water tank	B) couch	C) stool	A) sawhorse	D) stool	E) counter	A) sawhorse	D) stool	E) water tank	B) stool	E) counter	A) stool	E) water tank	B) sawhorse	D) stool	E) counter	A) stool	E) water tank	B) stool	E) counter	A) stool	E) counter	B) sawhorse	D) stool	E) counter	A) stool	E) sawhorse	B) stool	E) counter	A) stool	E) sawhorse	B) stool	E) counter	A) stool	E) sawhorse	B) stool	E)
+  A) A coat and an apron have no differences	B) A coat can only be used in the kitchen	C) An apron can only be worn outside	D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking	E) A coat and an apron can only be worn together
+  A) Curtains are able to open from side to side while shutters are able to open up or down	C) Curtains can only be opened from the bottom	E) Shutters are only able to be pulled open	D) Shutters are always meant to stay open	B) Curtains can only be opened from the bottom	A) Curtains are able to open from side to side while shutters are able to open up or down	B) Shutters are always meant to stay open	C) Curtains can only be opened from the bottom	E) Shutters are only able to be pulled open	A) Curtains are able to open from
+  D) There are no differences between a hydrant and an extinguisher	E) Only extinguishers can be used by firefighters	B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals	C) An extinguisher can only be used for big fires	A) An extinguisher can only be used for fires with water	B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals	C) Anyone can easily use a hydrant to put out a fire	A) An extinguisher can only be used for big fires	B) A hydrant puts out fires with water while an extinguisher
+  A) A truck and a boat have no differences.
+  B) A book is always bigger than a sign	C) A book is made of many pieces of paper	D) A sign takes longer to read than a book	E) There's no difference between a sign and a book	A) Only a sign is made of paper	B) A book is always bigger than a sign	C) A book is made of many pieces of paper	D) A sign takes longer to read than a book	E) There's no difference between a sign and a book	A) Only a sign is made of paper	B) A book is always bigger than a sign	C) A book is made of many pieces of paper	D
+  B) A mop can only clean the walls	D) There's no difference between a broom and mop	E) Only a mop can only clean from side-to-side	C) A broom can only clean the walls	A) Only a mop can only clean the walls	B) A mop can only clean the walls	C) A broom can only clean from side-to-side	D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side	A) Only a broom can only clean the walls	B) A mop can only clean the walls	C) A broom can only clean from side-to
+  C) A television is used to play videos and a computer is used for many different tasks
+  B) A taillinght illuminates the back while a headlight illuminates the front	C) Both a headlight and a taillight are only used on bicycles	D) Headlights are not as bright as taillights	E) A taillight is not as necessary as a headlight
+  B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
+  A) loud noises	B) tilting	C) sirens	D) general location	E) weather	D) general location (D) general location is incorrect. The correct answer is C) sirens. Sirens are often used to warn people of an impending earthquake.
+  E) sand bags
+  E) car pile	D) erosion	B) cracked walls	C) dropped building	A) drop off	C) cracked walls	D) erosion	A) dropped building	C) cracked walls	D) erosion	A) dropped building	C) cracked walls	D) erosion	A) dropped building	C) cracked walls	A) dropped building	C) erosion	A) cracked walls	D) dropped building	C) cracked walls	A) dropped building	C) erosion	A) cracked walls	D) dropped building	C) cracked walls	A) dropped building	C) erosion	A) dropped building	C) cracked walls	A) dropped building	C) cracked walls	A) dropped building	C) erosion	A) dropped building
+  B) Worksite triage
+  D) tornadoes
+  D) protect the lungs
+  C) powers hydraulic lifts for lifting rubble
+  C) They lift it up for workers on high levels to reach them
+  C) Blow away debris
+  C) hydraulic lift
+  A) hose	B) helmet	C) mask	D) axe	E) air horn	S) bucket	D) shovel	E) rope	D) ladder	E) bucket	E) shovel	E) bucket	E) shovel	E) bucket	E) shovel	E) bucket	E) shovel	E) bucket	E) shovel	E) bucket	E) bucket	E) bucket	E) bucket	E) shovel	E) bucket	E) bucket	E) bucket	E) bucket	E) shovel	E) bucket	E) bucket	E) bucket	E) bucket	E) bucket	E) bucket	E) bucket	E) bucket	E) bucket	E) bucket	E) bucket	E) bucket	E) bucket	E
+  C) carbon dioxide detector	A) concrete saw	B) megaphone	E) gloves	D) radio	There is no B) megaphone in the options. A concrete saw is needed for cutting through concrete to rescue trapped individuals.
+  A) crow bar	D) thermal imaging camera	E) excavator	B) bulldozer	E) jackhammer	E) wrecking ball	C) backhoe	D) crane	E) bulldozer	B) jackhammer	E) wrecking ball	E) backhoe	D) jackhammer	E) bulldozer	E) excavator	B) thermal imaging camera	E) bulldozer	E) jackhammer	E) wrecking ball	D) jackhammer	E) excavator	B) jackhammer	E) wrecking ball	E) backhoe	D) bulldozer	E) jackhammer	E) thermal imaging camera	B) jackhammer	E) wrecking ball
+  B) Put the hard hat on your head.
+  A) If possible, use a helicopter to get an aerial view of the affected area. B) divide the affected area into sectors.
+  B) open the tailgate.
+  A) drive the shovel into the dirt. B) use the handle to lever the shovel contents up.
+  it can
+  it cannot
+  it can
+  it can
+  A) to what page should I open it.
+  A) is the bag too small. B) Is the orange supposed to be peeled or sliced? E) how tall is the fence? C) should I get a bucket of water first? D) should I put sheets on the bed first? A) is the bag too small? B) Is the orange supposed to be peeled or sliced? E) how tall is the fence? C) should I get a bucket of water first? D) should I put sheets on the bed first? A) is the bag too small? B) Is the orange supposed to be peeled or sliced? E) how tall is the fence?
+  D) What container should I pump the gas into?A) a bucket of water	B) should I get a ladder first?C) should I get a bucket of water first?E) should I use both hands to climb?B) does the truck see me without its lights on?C) should I get a bucket of water first?A) should I get a ladder first?E) should I use both hands to climb?B) should I get a bucket of water first?C) should I get a bucket of water first?A) should I get a ladder first?B) should I get a bucket of
+  A) what language is this?B) is the cup supposed to be filled with something?E) Should I zoom in on the flower?C) should I write with a pen?D) is the alley lit?A) is the cup supposed to be filled with something?B) is the cup supposed to be filled with something?A) should I write with a pen?D) is the alley lit?C) should I write with a pen?B) is the alley lit?C) should I write with a pen?D) is the alley lit?B) is the alley lit?C) should I
+  A) should I use a rope?B) How tall is the fence?C) is there an obstacle in front of the armchair?D) should I use my body to barricade the door?E) does the truck see me without its lights on?
+  C) How heavy is the log?
+  A) where is the mirror B) does the gas come out fast? C) does the vehicle need to be driven? E) where is the ball from? D) is the ladder secured to something?
+  B) how heavy is the suitcase?
+  A) are the obstacles able to be navigated around	B) is the office not safe to be in	E) is the bag too small	D) should I break it with an object	C) can someone hold it steady while I climb?	A) are the obstacles able to be navigated around.	B) is the office not safe to be in.	E) is the bag too small.	A) should I break it with an object.	B) is the office not safe to be in.	E) is the bag too small.	A) are the obstacles able to be navigated around.	B) should I break it with an
+  D) boat
+  C) rail
+  C) road
+  C) boat
+  A) opening	D) clothing	E) pallet	B) telephone	C) chalk	D) chalk	E) chalk	C) chalk	E) chalk	D) chalk	E) chalk	E) chalk	D) chalk	E) chalk	E) chalk	D) chalk	E) chalk	E) chalk	D) chalk	E) chalk	E) chalk	D) chalk	E) chalk	E) chalk	D) chalk	E) chalk	E) chalk	D) chalk	E) chalk	E) chalk	D) chalk	E) chalk	E) chalk	D) chalk	E) chalk	D) chalk	E) chalk	D) chalk	E) chalk	D) chalk	E) chalk	D) chalk	E)
+  B) rice cooker	D) rake	E) knob	A) orange	B) rice cooker	D) rake	E) knob	A) seat cushion	E) rake	D) seat cushion	A) seat cushion	E) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D) seat cushion	A) seat cushion	D)
+  C) apron	D) note	E) pillow	B) curtain	A) book	D) note	E) pillow	A) curtain	B) book	D) pillow	A) curtain	B) book	D) pillow	A) book	D) curtain	B) note	E) pillow	A) book	D) curtain	B) book	A) pillow	D) curtain	B) book	A) book	D) pillow	A) curtain	B) book	D) note	E) pillow	A) book	D) curtain	B) pillow	A) book	D) pillow	A) curtain	B) book	D) pillow	A) book	D) curtain	B) pillow	A) book	D) note	E
+  A) shade	B) hat	C) shirt	E) hydrant	D) map	E) hydrant	D) map	E) hydrant	D) map	E) hydrant	D) map	E) hydrant	D) map	E) hydrant	D) map	E) hydrant	D) map	E) hydrant	D) hydrant	E) hydrant	D) hydrant	E) hydrant	D) hydrant	E) hydrant	D) hydrant	E) hydrant	D) hydrant	E) hydrant	D) hydrant	E) hydrant	D) hydrant	E) hydrant	D) hydrant	E) hydrant	D)
+  B) enter the doorway
+  C) saw the wood
+  D) ascend the ladder
+  C) move toward the newspaper
+  D) hold on to the suitcase
+  C) turn the lamp on
+  E) ride a bicycle
+  C) climb the ladder
+  A) go back to the building
+  C) enter the doorway
+  A) open	B) close
+  A) on
+  B) with the camera unplugged
+  A) closed	B) open
+  It is a note (Note: a note is a written message, and it is not a video).
+  It is a shoe.
+  It is a suitcase.
+  It is a light source.
+  It is a light source.
+  A) very well
+  A) attached to a vehicle
+  C) in the bathroom
+  E) at the airport
+  C) on a desk
+  A) shutters
+  A) barn
+  A) chair
+  A) pail	B) luggage	C) pallet jack	E) plate	D) bridge	E) plate	D) bridge	E) plate	D) bridge	E) plate	D) plate	E) plate	D) bridge	E) plate	D) plate	E) plate	D) plate	E) plate	D) bridge	E) plate	D) plate	E) plate	D) bridge	E) plate	D) plate	E) plate	D) plate	E) plate	D) plate	E) plate	D) plate	E) plate	D) plate	E) plate	D) plate	E) plate	D) plate	E) plate	D) plate	E) plate	D) plate	E) plate
+  C) rake	D) bottle	E) faucet	A) video	B) bed	C) rake	D) faucet	E) rake	D) bed	A) rake	D) faucet	B) bed	E) rake	D) faucet	A) rake	E) rake	D) bed	A) rake	D) faucet	B) bed	E) rake	D) rake	E) bed	A) rake	D) faucet	B) rake	E) bed	A) rake	D) rake	E) bed	A) rake	D) rake	E) bed	A) rake	D) rake	E) bed	A) rake	D) rake	E) bed	A) rake	D) rake	E) bed	A)
+  A) door	B) drums	C) curtains	E) palm tree	D) dvd player (D) is not a suitable substitute for a rope.
+  C) tv stand
+  B) cereal
+  A) grill
+  A) coffee cup
+  D) truck
+  C) desk
+  you can
+  you cannot
+  you can
+  you can

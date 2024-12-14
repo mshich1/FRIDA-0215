@@ -1,0 +1,120 @@
+  E) motorcycle
+  C) house
+  E) ball
+  E) taillight
+  A) gazebo
+  D) house
+  E) drawer
+  A) vehicle
+  C) crate
+  C) boat
+  E) stepladder
+  E) bag
+  E) apron
+  A) taillight
+  E) swivel chair
+  B) coffee table
+  E) bag
+  C) hydrant
+  C) barrel
+  B) table lamp
+  A) speaker
+  C) taillight
+  E) railing
+  C) bicycle
+  C) map
+  E) light source
+  B) shade
+  C) car
+  C) clothing
+  C) broom
+  C) lighthouse
+  C) plaque
+  E) water tank
+  A) A coat and an apron have no differences	B) A coat can only be used in the kitchen	C) An apron can only be worn outside	E) A coat and an apron can only be worn together	D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
+  B) Curtains can only be opened from the bottom
+  E) Only extinguishers can be used by firefighters
+  E) A boat and truck can drive on the same terrain.
+  E) There's no difference between a sign and a book
+  A) Only a broom can sweep while a mop only mops
+  D) A computer is bigger than a television
+  A) A taillight illuminates the back while a headlight illuminates the front
+  E) A mop and a broom are interchangable.
+  C) sirens
+  E) sand bags
+  B) pancaking
+  A) Wide area assessment
+  E) unstable surfaces
+  B) protect the torso
+  E) finds individuals trapped in rubble
+  C) They lift it up for workers on high levels to reach
+  E) Blow debris out of the way
+  C) hydraulic lift
+  B) helmet
+  C) carbon dioxide detector
+  B) thermal imaging camera
+  B) Put the hard hat on your head.
+  B) divide the effected area into sectors.
+  B) open the tailgate
+  B) use the handle to lever the shovel contents up.
+  it can
+  it can
+  it can
+  it can
+  B) should I point with my finger.
+  B) Is the orange supposed to be peeled or sliced?
+  B) does the truck see me without its lights on.
+  B) is the cup supposed to be filled with something.
+  B) How tall is the fence.
+  E) is the doorway to the bedroom or the kitchen.
+  E) Where are you throwing it from?
+  B) how heavy is the suitcase.
+  A) are the obstacles able to be navigated around	B) is the office not safe to be in	C) can someone hold it steady while I climb	D) should I break it with an object	E) is the bag too small
+  D) boat
+  C) rail
+  E) barrier
+  C) boat
+  B) telephone
+  B) rice cooker
+  C) apron
+  B) hat
+  B) enter the doorway
+  B) plug in the outlet
+  B) drive a car
+  B) water the plant
+  B) put the trash in the bag
+  C) turn the lamp on
+  E) ride a bicycle
+  B) locate the rock
+  B) exit through the opening
+  E) turn on the television
+  A) open
+  A) on
+  A) with the camera plugged in
+  A) closed
+  It is.
+  It is.
+  It is.
+  It is.
+  It is.
+  A) very well	B) well	C) somewhat well	D) not well	E) no idea
+  C) in the kitchen
+  C) in the bathroom
+  E) at the airport
+  C) on a desk
+  B) bicycle
+  A) barn
+  B) barrel
+  B) luggage
+  C) rake
+  C) curtains
+  C) tv stand
+  B) cereal
+  B) bowl
+  C) plate
+  B) mirror
+  C) desk
+  you can
+  you can
+  you can
+  you can
