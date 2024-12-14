@@ -1,0 +1,99 @@
+***MODEL IS rel_size***
+overall accuracy: {'exact_match': 0.5416666666666666}
+rel_size accuracy: {'exact_match': 0.625}
+can_do_it accuracy: {'exact_match': 0.42857142857142855}
+is_a_dif accuracy: {'exact_match': 0.6363636363636364}
+risky accuracy: {'exact_match': 0.75}
+equip accuracy: {'exact_match': 0.4166666666666667}
+obj_facts accuracy: {'exact_match': 0.6666666666666666}
+quake accuracy: {'exact_match': 0.6}
+instr accuracy: {'exact_match': 0.3684210526315789}
+
+***MODEL IS can_do_it***
+overall accuracy: {'exact_match': 0.43333333333333335}
+rel_size accuracy: {'exact_match': 0.625}
+can_do_it accuracy: {'exact_match': 0.47619047619047616}
+is_a_dif accuracy: {'exact_match': 0.5454545454545454}
+risky accuracy: {'exact_match': 0.3333333333333333}
+equip accuracy: {'exact_match': 0.25}
+obj_facts accuracy: {'exact_match': 0.5}
+quake accuracy: {'exact_match': 0.2}
+instr accuracy: {'exact_match': 0.3157894736842105}
+
+***MODEL IS is_a_dif***
+overall accuracy: {'exact_match': 0.44166666666666665}
+rel_size accuracy: {'exact_match': 0.375}
+can_do_it accuracy: {'exact_match': 0.47619047619047616}
+is_a_dif accuracy: {'exact_match': 0.5454545454545454}
+risky accuracy: {'exact_match': 0.3333333333333333}
+equip accuracy: {'exact_match': 0.25}
+obj_facts accuracy: {'exact_match': 0.75}
+quake accuracy: {'exact_match': 0.4}
+instr accuracy: {'exact_match': 0.3684210526315789}
+
+***MODEL IS risky***
+overall accuracy: {'exact_match': 0.4666666666666667}
+rel_size accuracy: {'exact_match': 0.625}
+can_do_it accuracy: {'exact_match': 0.5238095238095238}
+is_a_dif accuracy: {'exact_match': 0.5}
+risky accuracy: {'exact_match': 0.3333333333333333}
+equip accuracy: {'exact_match': 0.4166666666666667}
+obj_facts accuracy: {'exact_match': 0.5833333333333334}
+quake accuracy: {'exact_match': 0.0}
+instr accuracy: {'exact_match': 0.42105263157894735}
+
+***MODEL IS equip***
+overall accuracy: {'exact_match': 0.375}
+rel_size accuracy: {'exact_match': 0.375}
+can_do_it accuracy: {'exact_match': 0.7142857142857143}
+is_a_dif accuracy: {'exact_match': 0.09090909090909091}
+risky accuracy: {'exact_match': 0.3333333333333333}
+equip accuracy: {'exact_match': 0.25}
+obj_facts accuracy: {'exact_match': 0.75}
+quake accuracy: {'exact_match': 0.0}
+instr accuracy: {'exact_match': 0.3157894736842105}
+
+***MODEL IS obj_facts***
+overall accuracy: {'exact_match': 0.48333333333333334}
+rel_size accuracy: {'exact_match': 0.75}
+can_do_it accuracy: {'exact_match': 0.47619047619047616}
+is_a_dif accuracy: {'exact_match': 0.5909090909090909}
+risky accuracy: {'exact_match': 0.4166666666666667}
+equip accuracy: {'exact_match': 0.3333333333333333}
+obj_facts accuracy: {'exact_match': 0.5833333333333334}
+quake accuracy: {'exact_match': 0.4}
+instr accuracy: {'exact_match': 0.2631578947368421}
+
+***MODEL IS quake***
+overall accuracy: {'exact_match': 0.3416666666666667}
+rel_size accuracy: {'exact_match': 0.4375}
+can_do_it accuracy: {'exact_match': 0.38095238095238093}
+is_a_dif accuracy: {'exact_match': 0.36363636363636365}
+risky accuracy: {'exact_match': 0.3333333333333333}
+equip accuracy: {'exact_match': 0.25}
+obj_facts accuracy: {'exact_match': 0.4166666666666667}
+quake accuracy: {'exact_match': 0.2}
+instr accuracy: {'exact_match': 0.2631578947368421}
+
+***MODEL IS instr***
+overall accuracy: {'exact_match': 0.4}
+rel_size accuracy: {'exact_match': 0.25}
+can_do_it accuracy: {'exact_match': 0.38095238095238093}
+is_a_dif accuracy: {'exact_match': 0.45454545454545453}
+risky accuracy: {'exact_match': 0.3333333333333333}
+equip accuracy: {'exact_match': 0.3333333333333333}
+obj_facts accuracy: {'exact_match': 0.5833333333333334}
+quake accuracy: {'exact_match': 0.6}
+instr accuracy: {'exact_match': 0.42105263157894735}
+
+***MODEL IS all***
+overall accuracy: {'exact_match': 0.5416666666666666}
+rel_size accuracy: {'exact_match': 0.5625}
+can_do_it accuracy: {'exact_match': 0.7142857142857143}
+is_a_dif accuracy: {'exact_match': 0.5454545454545454}
+risky accuracy: {'exact_match': 0.6666666666666666}
+equip accuracy: {'exact_match': 0.5}
+obj_facts accuracy: {'exact_match': 0.5833333333333334}
+quake accuracy: {'exact_match': 0.6}
+instr accuracy: {'exact_match': 0.2631578947368421}
+

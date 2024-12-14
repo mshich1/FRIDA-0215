@@ -1,0 +1,99 @@
+***MODEL IS rel_size***
+overall average sem score: 0.9307540692389011
+rel_size average sem score: 0.8963852375745773
+can_do_it average sem score: 0.9616733193397522
+is_a_dif average sem score: 0.947541285644878
+risky average sem score: 0.9602693170309067
+equip average sem score: 0.7682962790131569
+obj_facts average sem score: 0.9673515309890112
+quake average sem score: 0.9316284775733947
+instr average sem score: 0.9743609867597881
+
+***MODEL IS can_do_it***
+overall average sem score: 0.9371763101158043
+rel_size average sem score: 0.8865090012550354
+can_do_it average sem score: 0.9892233695302691
+is_a_dif average sem score: 0.9730214910073713
+risky average sem score: 0.9348695526520411
+equip average sem score: 0.7550040806333224
+obj_facts average sem score: 0.9673515309890112
+quake average sem score: 0.9316284775733947
+instr average sem score: 0.9764213091448734
+
+***MODEL IS is_a_dif***
+overall average sem score: 0.9224702340861162
+rel_size average sem score: 0.9364681839942932
+can_do_it average sem score: 0.943734449999673
+is_a_dif average sem score: 0.9451485845175657
+risky average sem score: 0.9458986967802048
+equip average sem score: 0.7676264954109987
+obj_facts average sem score: 0.9353580673535665
+quake average sem score: 0.9316284775733947
+instr average sem score: 0.9405913133370248
+
+***MODEL IS risky***
+overall average sem score: 0.9309613558153311
+rel_size average sem score: 0.9182072021067142
+can_do_it average sem score: 0.9700760812986464
+is_a_dif average sem score: 0.9638984474268827
+risky average sem score: 0.944224014878273
+equip average sem score: 0.7843860710660616
+obj_facts average sem score: 0.9484729121128718
+quake average sem score: 0.9316284775733947
+instr average sem score: 0.9409619161957189
+
+***MODEL IS equip***
+overall average sem score: 0.9145317676166693
+rel_size average sem score: 0.9247209951281548
+can_do_it average sem score: 0.9355492506708417
+is_a_dif average sem score: 0.9605501131577925
+risky average sem score: 0.893255223830541
+equip average sem score: 0.767418134957552
+obj_facts average sem score: 0.9673515309890112
+quake average sem score: 0.849469518661499
+instr average sem score: 0.9263539126044825
+
+***MODEL IS obj_facts***
+overall average sem score: 0.9217621212204298
+rel_size average sem score: 0.8905664198100567
+can_do_it average sem score: 0.9552775763330006
+is_a_dif average sem score: 0.9442339593713934
+risky average sem score: 0.9302366276582082
+equip average sem score: 0.7592146868507067
+obj_facts average sem score: 0.9712222814559937
+quake average sem score: 0.9316284775733947
+instr average sem score: 0.9535420536994934
+
+***MODEL IS quake***
+overall average sem score: 0.9225049945215384
+rel_size average sem score: 0.951811920851469
+can_do_it average sem score: 0.9530905882517496
+is_a_dif average sem score: 0.9394161348993127
+risky average sem score: 0.8848909437656403
+equip average sem score: 0.761499868084987
+obj_facts average sem score: 0.9315371811389923
+quake average sem score: 0.9316284775733947
+instr average sem score: 0.9669148639628762
+
+***MODEL IS instr***
+overall average sem score: 0.8949199371039868
+rel_size average sem score: 0.8294797092676163
+can_do_it average sem score: 0.9133916326931545
+is_a_dif average sem score: 0.9597945592620156
+risky average sem score: 0.8458205461502075
+equip average sem score: 0.7512428797781467
+obj_facts average sem score: 0.9506131857633591
+quake average sem score: 0.8754700064659119
+instr average sem score: 0.9418455456432543
+
+***MODEL IS all***
+overall average sem score: 0.866489197096477
+rel_size average sem score: 0.7126861289143562
+can_do_it average sem score: 0.9478689006396702
+is_a_dif average sem score: 0.888501072471792
+risky average sem score: 0.9575783709685007
+equip average sem score: 0.7396527702609698
+obj_facts average sem score: 0.8436371609568596
+quake average sem score: 0.7916839480400085
+instr average sem score: 0.956072515562961
+

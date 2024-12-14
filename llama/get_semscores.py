@@ -38,7 +38,7 @@ for l in eval_qs:
     else:
         continue
 
-with open("../llama_results/sem_sm.txt","w") as outie:
+with open("../llama_results/sem_md.txt","w") as outie:
     for a in adapter_results_names:
         cat_results = {"rel_size":[],"can_do_it":[], "is_a_dif": [], "risky":[], "equip":[], "obj_facts":[], "quake":[], "instr":[]}
         path = os.path.join(adapter_result_path, a)
@@ -63,7 +63,7 @@ with open("../llama_results/sem_sm.txt","w") as outie:
                 cat_results["instr"].append(m)
             else:
                 continue
-        em = EmbeddingModelWrapper(model_path="meta-llama/Llama-3.2-1B-Instruct")
+        em = EmbeddingModelWrapper(model_path="meta-llama/Llama-3.2-3B-Instruct")
         all_sem = mean(em.get_similarities(em.get_embeddings(mod_results),em.get_embeddings(eval_ans)))
         accs = {}
         for k, v in cat_results.items():
