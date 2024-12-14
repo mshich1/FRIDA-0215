@@ -5,8 +5,8 @@ import evaluate
 eval_qs = [json.loads(l) for l in open("../seed_data/seed_tasks_eval.jsonl")]
 eval_ans = [i["instances"][0]["output"] for i in eval_qs]
 
-adapter_result_path = "../gemini_results/"
-adapter_results_names = ["../gemini_results/gemini.txt","../llama_results/llama.txt"]
+adapter_result_path = "../llama_results/"
+adapter_results_names = ["../llama_results/llama_sm.txt","../llama_results/llama_md.txt"]
 cat_map = {"rel_size":["biggest", "heaviest", "fits", "interact"],\
             "can_do_it":["can_do", "can_do_size", "can_do_shape", "can_do_char", "can_do_goal"], \
             "is_a_dif": ["difference", "diff_criteria", "use_as","is_a", "types_of"], \
@@ -37,7 +37,7 @@ for l in eval_qs:
     else:
         continue
 
-with open("../gemini_results/base_em.txt","w") as outie:
+with open("../llama_results/base_sm_md_em.txt","w") as outie:
     for a in adapter_results_names:
         cat_results = {"rel_size":[],"can_do_it":[], "is_a_dif": [], "risky":[], "equip":[], "obj_facts":[], "quake":[], "instr":[]}
         mod_results = [l.strip() for l in open(a)]

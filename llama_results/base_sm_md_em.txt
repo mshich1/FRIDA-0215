@@ -1,0 +1,22 @@
+***MODEL IS ../llama_results/llama_sm.txt***
+overall accuracy: {'exact_match': 0.19166666666666668}
+rel_size accuracy: {'exact_match': 0.3125}
+can_do_it accuracy: {'exact_match': 0.19047619047619047}
+is_a_dif accuracy: {'exact_match': 0.2727272727272727}
+risky accuracy: {'exact_match': 0.16666666666666666}
+equip accuracy: {'exact_match': 0.08333333333333333}
+obj_facts accuracy: {'exact_match': 0.16666666666666666}
+quake accuracy: {'exact_match': 0.2}
+instr accuracy: {'exact_match': 0.10526315789473684}
+
+***MODEL IS ../llama_results/llama_md.txt***
+overall accuracy: {'exact_match': 0.175}
+rel_size accuracy: {'exact_match': 0.0625}
+can_do_it accuracy: {'exact_match': 0.23809523809523808}
+is_a_dif accuracy: {'exact_match': 0.22727272727272727}
+risky accuracy: {'exact_match': 0.16666666666666666}
+equip accuracy: {'exact_match': 0.0}
+obj_facts accuracy: {'exact_match': 0.4166666666666667}
+quake accuracy: {'exact_match': 0.2}
+instr accuracy: {'exact_match': 0.10526315789473684}
+
