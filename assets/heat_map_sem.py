@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import re
 
-with open("../llama_results/sem.txt") as l_in, open("../gemini_results/base_sem.txt") as b_in:
+with open("../llama_results/sem_md.txt") as l_in, open("../llama_results/base_sem_md.txt") as b_in:
     scores_l = [l for l in l_in]
     scores_b = [b for b in b_in]
     scores = scores_l + scores_b
@@ -16,9 +16,9 @@ with open("../llama_results/sem.txt") as l_in, open("../gemini_results/base_sem.
         num = float(cat_nums.group(2))
         ems[cat].append(num)
     
-    x_axis_labels = ["aFRIDA 8B: relative size","aFRIDA 8B: object function","aFRIDA 8B: differences","aFRIDA 8B: objects causing harm",\
-                     "aFRIDA 8B: specialized equipment","aFRIDA 8B: non-functional object facts","aFRIDA 8B: earthquake","aFRIDA 8B: instruction understanding",\
-                     "FRIDA 8B", "LLaMa 3.1 8B instruct"]
+    x_axis_labels = ["aFRIDA 3B: relative size","aFRIDA 3B: object function","aFRIDA 3B: differences","aFRIDA 3B: objects causing harm",\
+                     "aFRIDA 3B: specialized equipment","aFRIDA 3B: non-functional object facts","aFRIDA 3B: earthquake","aFRIDA 3B: instruction understanding",\
+                     "FRIDA 3B", "LLaMa 3.2 3B instruct"]
     y_axis_labels = ["relative size templates", "object function templates", "differences templates", "objects causing harm templates",\
                      "specialized equipment templates", "non-functional object facts templates", "earthquake templates", "instruction understanding templates", "all evaluation data"]
 
@@ -49,7 +49,7 @@ with open("../llama_results/sem.txt") as l_in, open("../gemini_results/base_sem.
             text = ax.text(j, i, f'{results[i, j]:.2f}',
                         ha="center", va="center", color="w")
 
-    ax.set_title("Embedding Vector Cosine Similarity on data subsets")
+    ax.set_title("Embedding Vector Cosine Similarity on data subsets, 3B params")
     fig.tight_layout()
     plt.show()
 

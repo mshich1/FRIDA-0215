@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import re
 
-with open("../llama_results/sem.txt") as l_in, open("../gemini_results/base_sem.txt") as b_in:
+with open("../llama_results/sem_sm.txt") as l_in, open("../gemini_results/base_sem.txt") as b_in:
     scores_l = [l for l in l_in]
     scores_b = [b for b in b_in]
     scores = scores_l + scores_b
