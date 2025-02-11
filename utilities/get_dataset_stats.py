@@ -1,7 +1,8 @@
 import json
 import mathplotlib.pyplot as plt
 import numpy as np
-
+# This script gets the max rouge score for each instruction and the instruction length
+# It then generates averages over template dataset, category dataset, and overall dataset
 cat_map = {"rel_size":["biggest", "heaviest", "fits", "interact"],\
             "can_do_it":["can_do", "can_do_size", "can_do_shape", "can_do_char", "can_do_goal"], \
             "is_a_dif": ["difference", "diff_criteria", "use_as","is_a", "types_of"], \
