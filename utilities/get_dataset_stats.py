@@ -1,5 +1,5 @@
 import json
-import mathplotlib.pyplot as plt
+# import mathplotlib.pyplot as plt
 import numpy as np
 # This script gets the max rouge score for each instruction and the instruction length
 # It then generates averages over template dataset, category dataset, and overall dataset
@@ -53,21 +53,59 @@ def put_in_cat(filename, i, c, r):
 
 with open("dataset_stats.txt","w") as stat_out:
     for f in files:
+        overall_len = []
+        overall_rouge = []
         with open(f"../gemini_results/{f}.json") as data_in:
             all_data = json.load(data_in)
             instr_len = []
             ans_len = []
             rouge_scores = []
             for q in all_data:
-                i_len = len(q["instruction"])
+                i_len = len(q["instruction"].split(" "))
                 instr_len.append(i_len)
-                ch_len = len(q["input"])
+                if q['input'] != None:
+                    ch_len = len(q["input"].split(" "))
+                else:
+                    ch_len = 0
                 ans_len.append(ch_len)
+                overall_len.append(i_len+ch_len)
                 r_score = next(iter(q["most_similar_instructions"].values()))#thank you chatGPT for this line specifically
                 rouge_scores.append(r_score)
+                overall_rouge.append(r_score)
                 put_in_cat(f,i_len, ch_len, r_score) 
             np_inst = np.array(instr_len)
             np_ans = np.array(ans_len)
-            stat_out.write(f"dataset is {f}.json")
+            np_rouge = np.array(rouge_scores)
+            stat_out.write(f"**DATASET IS {f}.json**\n")
+            stat_out.write(f'average instruction length: {np_inst.mean()}\n')
+            stat_out.write(f'median instruction length: {np.median(np_inst)}\n')
+            stat_out.write(f'average answer choice length: {np_ans.mean()}\n')
+            stat_out.write(f'median answer choice length: {np.median(np_ans)}\n')
+            stat_out.write(f'average ROUGE score: {np_rouge.mean()}\n')
+            stat_out.write(f'median ROUGE score: {np.median(np_rouge)}\n\n')
+
+    #stats for the categories
+    for n,c in cat_eval.items():
+        np_inst = np.array(c['instr_len'])
+        np_ans = np.array(c['ans_len'])
+        np_rouge = np.array(c['rouge_scores'])
+        stat_out.write(f'**CATEGORY IS {n}**\n')
+        stat_out.write(f'average instruction length: {np_inst.mean()}\n')
+        stat_out.write(f'median instruction length: {np.median(np_inst)}\n')
+        stat_out.write(f'average answer choice length: {np_ans.mean()}\n')
+        stat_out.write(f'median answer choice length: {np.median(np_ans)}\n')
+        stat_out.write(f'average ROUGE score: {np_rouge.mean()}\n')
+        stat_out.write(f'median ROUGE score: {np.median(np_rouge)}\n\n')   
+
+    #overall stats
+    np_ol = np.array(overall_len)
+    np_or = np.array(overall_rouge)
+    stat_out.write(f'overall avg instruction length: {np_ol.mean()}\n')
+    stat_out.write(f'overall median instruction length: {np.median(np_ol)}\n')
+    stat_out.write(f'overall avg ROUGE score: {np_or.mean()}\n')
+    stat_out.write(f'overall median ROUGE score: {np.median(np_or)}')
+
+
+
 
 

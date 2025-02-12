@@ -1,0 +1,276 @@
+**DATASET IS biggest.json**
+average instruction length: 9.70377541142304
+median instruction length: 9.0
+average answer choice length: 13.187802516940948
+median answer choice length: 13.0
+average ROUGE score: 0.6422320653241578
+median ROUGE score: 0.6428571428571429
+
+**DATASET IS heaviest.json**
+average instruction length: 7.107212475633529
+median instruction length: 7.0
+average answer choice length: 15.861598440545809
+median answer choice length: 16.0
+average ROUGE score: 0.648244942221162
+median ROUGE score: 0.6534536891679747
+
+**DATASET IS fits.json**
+average instruction length: 9.184505606523954
+median instruction length: 8.0
+average answer choice length: 4.939857288481142
+median answer choice length: 6.0
+average ROUGE score: 0.8469038001417977
+median ROUGE score: 0.8571428571428571
+
+**DATASET IS interact.json**
+average instruction length: 11.095625635808748
+median instruction length: 11.0
+average answer choice length: 5.030518819938963
+median answer choice length: 4.0
+average ROUGE score: 0.7430569587330511
+median ROUGE score: 0.7586206896551724
+
+**DATASET IS can_do.json**
+average instruction length: 9.026183282980867
+median instruction length: 9.0
+average answer choice length: 12.08761329305136
+median answer choice length: 11.0
+average ROUGE score: 0.7082947981237157
+median ROUGE score: 0.717948717948718
+
+**DATASET IS can_do_size.json**
+average instruction length: 13.854526958290947
+median instruction length: 14.0
+average answer choice length: 10.81586978636826
+median answer choice length: 11.0
+average ROUGE score: 0.7205276789573586
+median ROUGE score: 0.723404255319149
+
+**DATASET IS can_do_shape.json**
+average instruction length: 13.43030303030303
+median instruction length: 13.0
+average answer choice length: 11.438383838383839
+median answer choice length: 10.0
+average ROUGE score: 0.7268272840290045
+median ROUGE score: 0.7346938775510203
+
+**DATASET IS can_do_char.json**
+average instruction length: 14.154078549848943
+median instruction length: 14.0
+average answer choice length: 10.423967774420946
+median answer choice length: 10.0
+average ROUGE score: 0.7114948632220106
+median ROUGE score: 0.72
+
+**DATASET IS can_do_goal.json**
+average instruction length: 14.648946840521564
+median instruction length: 14.0
+average answer choice length: 11.156469408224673
+median answer choice length: 11.0
+average ROUGE score: 0.6497711986697751
+median ROUGE score: 0.6530612244897959
+
+**DATASET IS difference.json**
+average instruction length: 9.05923000987167
+median instruction length: 9.0
+average answer choice length: 43.63079960513327
+median answer choice length: 42.0
+average ROUGE score: 0.5538437292605485
+median ROUGE score: 0.5494505494505495
+
+**DATASET IS diff_criteria.json**
+average instruction length: 14.925661914460285
+median instruction length: 15.0
+average answer choice length: 43.318737270875765
+median answer choice length: 43.0
+average ROUGE score: 0.588933706995657
+median ROUGE score: 0.5811965811965812
+
+**DATASET IS use_as.json**
+average instruction length: 9.583751253761283
+median instruction length: 8.0
+average answer choice length: 6.0
+median answer choice length: 6.0
+average ROUGE score: 0.8957167621552738
+median ROUGE score: 0.9047619047619048
+
+**DATASET IS is_a.json**
+average instruction length: 8.140672782874617
+median instruction length: 7.0
+average answer choice length: 5.560652395514781
+median answer choice length: 6.0
+average ROUGE score: 0.9020159225613605
+median ROUGE score: 0.923076923076923
+
+**DATASET IS types_of.json**
+average instruction length: 7.244648318042813
+median instruction length: 8.0
+average answer choice length: 8.864424057084607
+median answer choice length: 10.0
+average ROUGE score: 0.7122071102900944
+median ROUGE score: 0.7222222222222222
+
+**DATASET IS injury.json**
+average instruction length: 14.748251748251748
+median instruction length: 14.0
+average answer choice length: 19.39060939060939
+median answer choice length: 20.0
+average ROUGE score: 0.6664715195556139
+median ROUGE score: 0.6756756756756757
+
+**DATASET IS danger.json**
+average instruction length: 13.679878048780488
+median instruction length: 14.0
+average answer choice length: 19.43089430894309
+median answer choice length: 20.0
+average ROUGE score: 0.6509476527133846
+median ROUGE score: 0.6508826001681143
+
+**DATASET IS damage_to_obj.json**
+average instruction length: 11.182186234817813
+median instruction length: 11.0
+average answer choice length: 16.56174089068826
+median answer choice length: 17.0
+average ROUGE score: 0.6976435002088491
+median ROUGE score: 0.7037037037037037
+
+**DATASET IS explain_use.json**
+average instruction length: 8.90681362725451
+median instruction length: 8.5
+average answer choice length: 29.336673346693388
+median answer choice length: 28.0
+average ROUGE score: 0.567127185629994
+median ROUGE score: 0.5714285714285715
+
+**DATASET IS equip_used.json**
+average instruction length: 13.268958543983823
+median instruction length: 13.0
+average answer choice length: 15.017189079878666
+median answer choice length: 15.0
+average ROUGE score: 0.6193742824590904
+median ROUGE score: 0.6274509803921569
+
+**DATASET IS equip_in_task.json**
+average instruction length: 10.970707070707071
+median instruction length: 11.0
+average answer choice length: 22.371717171717172
+median answer choice length: 22.0
+average ROUGE score: 0.5897315046659163
+median ROUGE score: 0.5866666666666667
+
+**DATASET IS obj_loc.json**
+average instruction length: 7.6361788617886175
+median instruction length: 7.0
+average answer choice length: 22.2489837398374
+median answer choice length: 22.0
+average ROUGE score: 0.7182969167580678
+median ROUGE score: 0.7333333333333333
+
+**DATASET IS objs_in_loc.json**
+average instruction length: 9.114837398373984
+median instruction length: 9.0
+average answer choice length: 14.53150406504065
+median answer choice length: 15.0
+average ROUGE score: 0.7351830100376125
+median ROUGE score: 0.7499999999999999
+
+**DATASET IS secondary_use.json**
+average instruction length: 11.578787878787878
+median instruction length: 12.0
+average answer choice length: 16.124242424242425
+median answer choice length: 16.0
+average ROUGE score: 0.6995314381382167
+median ROUGE score: 0.7080128205128204
+
+**DATASET IS earthquake.json**
+average instruction length: 11.16717635066259
+median instruction length: 11.0
+average answer choice length: 25.810397553516818
+median answer choice length: 25.0
+average ROUGE score: 0.5050811510644337
+median ROUGE score: 0.4912280701754386
+
+**DATASET IS instruct.json**
+average instruction length: 6.7131313131313135
+median instruction length: 7.0
+average answer choice length: 20.743434343434345
+median answer choice length: 20.0
+average ROUGE score: 0.6271528933843616
+median ROUGE score: 0.6181818181818182
+
+**DATASET IS followup.json**
+average instruction length: 11.138722554890219
+median instruction length: 11.0
+average answer choice length: 28.298403193612774
+median answer choice length: 28.0
+average ROUGE score: 0.671986970210197
+median ROUGE score: 0.6736171132238548
+
+**CATEGORY IS rel_size**
+average instruction length: 9.25503355704698
+median instruction length: 9.0
+average answer choice length: 9.865274670643798
+median answer choice length: 7.0
+average ROUGE score: 0.7183103784669301
+median ROUGE score: 0.7142857142857143
+
+**CATEGORY IS can_do_it**
+average instruction length: 13.022195318805489
+median instruction length: 13.0
+average answer choice length: 11.185028248587571
+median answer choice length: 10.0
+average ROUGE score: 0.7032911094418623
+median ROUGE score: 0.7142857142857143
+
+**CATEGORY IS is_a_dif**
+average instruction length: 9.786435203875657
+median instruction length: 9.0
+average answer choice length: 21.572466693580946
+median answer choice length: 10.0
+average ROUGE score: 0.7299069449145652
+median ROUGE score: 0.7222222222222222
+
+**CATEGORY IS risky**
+average instruction length: 13.209552640430541
+median instruction length: 13.0
+average answer choice length: 18.46384123780693
+median answer choice length: 19.0
+average ROUGE score: 0.6716926537341013
+median ROUGE score: 0.6774193548387097
+
+**CATEGORY IS equip**
+average instruction length: 11.042324487739334
+median instruction length: 11.0
+average answer choice length: 22.26335236815586
+median answer choice length: 21.0
+average ROUGE score: 0.59200143978167
+median ROUGE score: 0.5974025974025974
+
+**CATEGORY IS obj_facts**
+average instruction length: 9.447599729546992
+median instruction length: 9.0
+average answer choice length: 17.63184584178499
+median answer choice length: 17.0
+average ROUGE score: 0.7176336618403597
+median ROUGE score: 0.7333333333333333
+
+**CATEGORY IS quake**
+average instruction length: 11.16717635066259
+median instruction length: 11.0
+average answer choice length: 25.810397553516818
+median answer choice length: 25.0
+average ROUGE score: 0.5050811510644337
+median ROUGE score: 0.4912280701754386
+
+**CATEGORY IS instr**
+average instruction length: 8.93925702811245
+median instruction length: 10.0
+average answer choice length: 24.54367469879518
+median answer choice length: 25.0
+average ROUGE score: 0.6497049741973573
+median ROUGE score: 0.65
+
+overall avg instruction length: 39.43712574850299
+overall median instruction length: 39.0
+overall avg ROUGE score: 0.671986970210197
+overall median ROUGE score: 0.6736171132238548
