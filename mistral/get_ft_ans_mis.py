@@ -26,10 +26,10 @@ for a in adapter_model_names:
             tokenized_chat = tokenized.encode(chat, return_tensors="pt", padding=True).to("cuda")
             output = model.generate(tokenized_chat, max_new_tokens=128, pad_token_id=tokenized.eos_token_id)
             ans = tokenized.decode(output[0])
-            print(f"Answer is \n{ans}")
-            ans_matched = re.search("<\|start_header_id\|>assistant<\|end_header_id\|>([\s\S]*)<\|eot_id\|>", ans)
-            if ans_matched is None:
-                ans_matched = re.search("<\|start_header_id\|>assistant<\|end_header_id\|>([\s\S]*)", ans)
+            # print(f"Answer is \n{ans}")
+            ans_matched = re.search("<s><s>\[INST\][\s\S]*\[\/INST\]([\s\S]*)<\/s>", ans)
+            # if ans_matched is None:
+            #     ans_matched = re.search("<\|start_header_id\|>assistant<\|end_header_id\|>([\s\S]*)", ans)
             to_go = ans_matched.group(1)
             to_go = ' '.join(to_go.split('\n'))
             ans_spot.write(to_go)
