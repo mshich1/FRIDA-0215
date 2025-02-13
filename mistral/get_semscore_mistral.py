@@ -1,6 +1,6 @@
 import sys
 
-sys.path.insert(0, "/Users/mollieshichman/gemini-llama-test/llama/semscore/")
+sys.path.insert(0, "/scratch/mshich/gemini-llama-test/llama/semscore/")
 
 import os
 import json
