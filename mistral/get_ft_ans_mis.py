@@ -8,8 +8,7 @@ from tqdm import tqdm
 
 base_model_name = "mistralai/Ministral-8B-Instruct-2410" #path/to/your/model/or/name/on/hub"
 adapter_model_path = "../../"
-# "rel_size","can_do_it",
-adapter_model_names = ["is_a_dif","risky","equip","obj_facts","quake","instr","all"]
+adapter_model_names = ["rel_size","can_do_it","is_a_dif","risky","equip","obj_facts","quake","instr","all"]
 adapter_suffix = "_mistral"
 tokenized = AutoTokenizer.from_pretrained(base_model_name)
 tokenized.pad_token = tokenized.eos_token
@@ -30,7 +29,6 @@ for a in adapter_model_names:
             # print(f"Answer is \n{ans}")
             ans_matched = re.search("<s><s>\[INST\][\s\S]*\[\/INST\]([\s\S]*)<\/s>", ans)
             if ans_matched is None:
-                # print(f"Answer is \n{ans}")
                 ans_matched = re.search("<s><s>\[INST\][\s\S]*\[\/INST\]([^\[]*)", ans)
             to_go = ans_matched.group(1)
             to_go = ' '.join(to_go.split('\n'))
