@@ -3,6 +3,50 @@
 import pandas as pd
 from metrics import Metrics, Krippendorff
 
+def write_averages(list, type, out):
+    int_a = [int(i) for i in list['a']]
+    int_c = [int(i) for i in list['c']]
+    int_t = [int(i) for i in list['t']]
+    int_all = int_a + int_c + int_t
+    out.write(f"Average {type} value overall: {sum(int_all)/len(int_all)}\n")
+    out.write(f"Average {type} value Taylor: {sum(int_t)/len(int_t)}\n")
+    out.write(f"Average {type} value Claire: {sum(int_c)/len(int_c)}\n")
+    out.write(f"Average {type} value Austin: {sum(int_a)/len(int_a)}\n\n")
+
+def write_single_avgs(filename, out, name):
+    inf = []
+    reas = []
+    q_inf= []
+    with open(filename) as input:
+        for line in input:
+            vals = line.split(',')[1:]
+            if vals[0] == 'instruction' or vals[0] == 'Reasonable':
+                continue
+            if vals[-1] == '\n':
+                vals.pop()
+            if len(vals) <= 2:
+                vals.append('0')
+            ri = -1
+            ii = -1
+            if name == 'Austin':
+                ri = 0
+                ii = 1
+            else:
+                ri = 1
+                ii = 2
+            reas.append(vals[ri])
+            inf.append(vals[ii])
+            if vals[ri] == '1':
+                q_inf.append(vals[ii])
+    print(len(q_inf))
+    int_inf = [int(i) for i in inf]
+    int_q_inf = [int(i) for i in q_inf]
+    int_reas = [int(i) for i in reas]
+    out.write(f"Average inform score, all values {name}: {sum(int_inf)/len(int_inf)}\n")
+    out.write(f"Average inform score, reasonable values only {name}: {sum(int_q_inf)/len(int_q_inf)}\n")
+    out.write(f"Average reason score {name}: {sum(int_reas)/len(int_reas)}\n")
+            
+
 inf = {'a':[],'c':[],'t':[]}
 reas = {'a':[],'c':[],'t':[]}
 
@@ -61,23 +105,14 @@ with open("human_stats.txt","w") as outie:
     outie.write(f"cohen's kappa agreement a t inform: {atk}\n")
     outie.write(f"cohen's kappa agreement c t inform: {ctk}\n") 
     outie.write(f"Fleiss Kappa inform: {inf_data.fleiss_kappa()}\n\n") 
+    
+    write_averages(inf, "inform", outie)
+    write_averages(reas, "reason", outie)
+    write_single_avgs("qual_check_claire.csv", outie, 'Claire')
+    write_single_avgs("qual_check_taylor.csv", outie, 'Taylor')
+    write_single_avgs("qual_check_austin-AB.csv", outie, 'Austin')
 
-    # outie.write(f"naive kappa inform: {calc_inf.kappa()}")
-    # outie.write(f"Average Observed Agreement inform: {calc_inf.avg_Ao()}")
-    def write_averages(list, type):
-        # c_list = [i for i in list if i[0]=='c']
-        # for i in range(len(c_list)):
-        #     print(f"t[2] at index {i}: {c_list[i][2]}")
-        int_a = [int(i) for i in list['a']]
-        int_c = [int(i) for i in list['c']]
-        int_t = [int(i) for i in list['t']]
-        int_all = int_a + int_c + int_t
-        outie.write(f"Average {type} value overall: {sum(int_all)/len(int_all)}\n")
-        outie.write(f"Average {type} value Taylor: {sum(int_t)/len(int_t)}\n")
-        outie.write(f"Average {type} value Claire: {sum(int_c)/len(int_c)}\n")
-        outie.write(f"Average {type} value Austin: {sum(int_a)/len(int_a)}\n\n")
-    write_averages(inf, "inform")
-    write_averages(reas, "reason")
+   
 
 
 

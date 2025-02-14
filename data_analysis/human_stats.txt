@@ -20,3 +20,16 @@ Average reason value Taylor: 0.8846153846153846
 Average reason value Claire: 0.7307692307692307
 Average reason value Austin: 0.7884615384615384
 
+INDIVIDUAL RESULTS
+
+Average inform score, all values Claire: 0.463768115942029
+Average inform score, reasonable values only Claire: 0.5614035087719298
+Average reason score Claire: 0.8260869565217391
+
+Average inform score, all values Taylor: 0.5362318840579711
+Average inform score, reasonable values only Taylor: 0.6981132075471698
+Average reason score Taylor: 0.7681159420289855
+
+Average inform score, all values Austin: 0.717948717948718
+Average inform score, reasonable values only Austin: 0.875
+Average reason score Austin: 0.8205128205128205
