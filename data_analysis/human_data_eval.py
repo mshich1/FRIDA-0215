@@ -1,11 +1,12 @@
 # This script is to get the average reasonableness and informativeness scores
+# from disagree.agreements import BiDisagreements
+import pandas as pd
+from disagree import Metrics, Krippendorff
 
-from nltk.metrics.agreement import AnnotationTask
-inf = []
-reas = []
+inf = {'a':[],'c':[],'t':[]}
+reas = {'a':[],'c':[],'t':[]}
 
 with open("qual_check_all-AB.csv") as a, open("qual_check_all-CB.csv") as c, open("qual_check_all-TH.csv") as t:
-    counter = 0
     for a_line, c_line, t_line in zip(a,c,t):
         a_vals = a_line.split(',')[1:]
         c_vals = c_line.split(',')[1:]
@@ -27,23 +28,28 @@ with open("qual_check_all-AB.csv") as a, open("qual_check_all-CB.csv") as c, ope
         if len(t_vals) == 2:
             t_vals.append('0')
 
-        reas.append(("a",a_vals[1].strip('\n'),a_vals[0]))
-        inf.append(("a",a_vals[2].strip('\n'),a_vals[0]))
-        reas.append(("c",c_vals[1].strip('\n'),c_vals[0]))
-        inf.append(("c",c_vals[2].strip('\n'),c_vals[0]))      
-        reas.append(("t",t_vals[1].strip('\n'),t_vals[0]))
-        inf.append(("t",t_vals[2].strip('\n'),t_vals[0]))
-        counter += 1
-calc_reas = AnnotationTask(data=reas)
-calc_inf = AnnotationTask(data=inf)
+        reas['a'].append(a_vals[1].strip('\n'))
+        inf['a'].append(a_vals[2].strip('\n'))
+        reas['c'].append(c_vals[1].strip('\n'))
+        inf['c'].append(c_vals[2].strip('\n'))      
+        reas['t'].append(t_vals[1].strip('\n'))
+        inf['t'].append(t_vals[2].strip('\n'))
+inf_pd = pd.DataFrame(inf)
+reas_pd = pd.DataFrame(reas)
+inf_data = Metrics(inf_pd)
+reas_data = Metrics(reas_pd)
+inf_krip = Krippendorff(inf_pd)
+reas_krip = Krippendorff(reas_pd)
 with open("human_stats.txt","w") as outie:
-    outie.write(f"Krippendorf Alpha reason:{calc_reas.alpha()}\n")
+    rk = reas_krip.alpha(data_type="nominal")
+    outie.write(f"Krippendorf Alpha reason:{rk}\n")
     # outie.write(f"naive kappa reason: {calc_reas.kappa()}")
-    temp = calc_reas.Ao("a","c")
+    temp = reas_data.kappa('a','c')
     outie.write(f"Average Agreement a c reason: {temp}")
-    outie.write(f"Krippendorf Alpha inform:{calc_inf.alpha()}\n")
+    ik = inf_krip.alpha(data_type="nominal")
+    outie.write(f"Krippendorf Alpha inform:{ik}\n")
     # outie.write(f"naive kappa inform: {calc_inf.kappa()}")
-    outie.write(f"Average Observed Agreement inform: {calc_inf.avg_Ao()}")
+    # outie.write(f"Average Observed Agreement inform: {calc_inf.avg_Ao()}")
     def write_averages(list, type):
         # c_list = [i for i in list if i[0]=='c']
         # for i in range(len(c_list)):
