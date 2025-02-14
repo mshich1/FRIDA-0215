@@ -1,6 +1,16 @@
-Krippendorf Alpha reason:0.004721850239928549
-Average Agreement a c reason: 1.0Krippendorf Alpha inform:0.0024439522100744293
-Average Observed Agreement inform: 0.3333333333333333Average inform value overall: 0.5512820512820513
+Krippendorf Alpha reason:0.4
+cohen's kappa agreement a c reason: 0.5282258064516128
+cohen's kappa agreement a t reason: 0.37765957446808485
+cohen's kappa agreement c t reason: 0.2844036697247707
+Fleiss Kappa reason: 0.39612903225806473
+
+Krippendorf Alpha inform:0.2018272425249169
+cohen's kappa agreement a c inform: 0.17091836734693885
+cohen's kappa agreement a t inform: 0.19805194805194798
+cohen's kappa agreement c t inform: 0.3509015256588072
+Fleiss Kappa inform: 0.19667774086378706
+
+Average inform value overall: 0.5512820512820513
 Average inform value Taylor: 0.5961538461538461
 Average inform value Claire: 0.3269230769230769
 Average inform value Austin: 0.7307692307692307
