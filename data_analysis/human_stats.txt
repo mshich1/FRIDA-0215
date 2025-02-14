@@ -1,0 +1,12 @@
+Krippendorf Alpha reason:0.004721850239928549
+Average Agreement a c reason: 1.0Krippendorf Alpha inform:0.0024439522100744293
+Average Observed Agreement inform: 0.3333333333333333Average inform value overall: 0.5512820512820513
+Average inform value Taylor: 0.5961538461538461
+Average inform value Claire: 0.3269230769230769
+Average inform value Austin: 0.7307692307692307
+
+Average reason value overall: 0.8012820512820513
+Average reason value Taylor: 0.8846153846153846
+Average reason value Claire: 0.7307692307692307
+Average reason value Austin: 0.7884615384615384
+

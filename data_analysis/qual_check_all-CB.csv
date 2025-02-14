@@ -51,4 +51,3 @@ instruct,Choose the instruction related to communication. A) Plant a seed. B) Se
 instruct,Choose the instruction related to stopping something. A) Start the car. B) Stop the car. C) Drive the car. D) Accelerate the car. E) Reverse the car. Answer: B) Stop the car.,1,0
 followup,"Choose a relevant follow-up question for the instruction ""Empty the dishwasher."" A) Should I put the dishes away? B) What's the weather? C) Is the movie good? D) How long does it take? E) What's your age? Answer: A) Should I put the dishes away?",1,0
 followup,"Choose a relevant follow-up question for the instruction ""Read a book."" A) Which book should I read? B) What's the temperature? C) Should I go shopping? D) Is it raining outside? E) What's for lunch? Answer: A) Which book should I read?",1,0
-,,0.730769230769231,0.447368421052632
