@@ -1,120 +1,272 @@
-D) grill
+E) motorcycle
+
 C) house
-A) pail
+
+B) monitor
+
 A) bicycle
+
 C) windshield
+
 D) house
+
 E) drawer
+
 A) vehicle
+
 D) barrel
+
 C) boat
+
 D) stairway
+
 E) bag
+
 E) apron
+
 E) headlight
+
 E) swivel chair
+
 B) coffee table
+
 C) pail
+
 E) pail
+
 D) book
-A) crate
+
+A) crate
+
 B) dress
-A) suit
-D) painting
+
+A) suit
+
+D) painting
+
 E) cereal
+
 D) greenhouse
+
 B) barrier
+
 A) vehicle
+
 C) car
-D) box Ezko
-B) ceiling<SPECIAL_592>
-D) coffee table
+
+E) rake
+
+B) ceiling
+
+C) lighthouse
+
 A) column
-B) couch<SPECIAL_883>
-D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
-A) Curtains are able to open from side to side while shutters are able to open up or down
+
+E) water tank
+
+D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
+
+A) Curtains are able to open from side to side while shutters are able to open up or down
+
 B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
+
 D) A truck is driven on land while a boat is driven on water
+
 C) A book is made of many pieces of paper
-D) There's no difference between a broom and mop
-C) A television is used to play videos and a computer is used for many different tasks
-B) A taillinght illuminates the back while a headlight illuminates the front
+
+A) Only a broom can sweep while a mop only mops
+
+C) A television is used to play videos and a computer is used for many different tasks
+
+B) A taillight illuminates the back while a headlight illuminates the front
+
 B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
-B) tilting
+
+A) loud noises
+
 B) non-perishable food
-B) pancaking
+
+B) pancaking
+
 A) Wide area assessment
+
 E) unstable surfaces
+
 D) protect the lungs
+
 C) powers hydraulic lifts for lifting rubble
+
 B) They transport it away from the scene to dispose of it
+
 A) Provide a vantage point to identify heavily damaged areas
+
 B) pickaxe
+
 A) hose
-A) concrete saw
-D) hydraulic cutter
-A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
-A) If possible, use a helicopter to get an aerial view of the effected area.
-B) open the tailgate.
-A) drive the shovel into the dirt.
-it can
+
+D) radio
+
+D) hydraulic cutter
+
+B) Put the hard hat on your head
+
+B) divide the effected area into sectors
+
+B) open the tailgate
+
+A) step A
+
 it cannot
-it can
-it cannot
+
+A) it cannot
+
+A) it can
+
+A) it cannot
+
 A) to what page should I open it?
+
 B) Is the orange supposed to be peeled or sliced?
+
 D) What container should I pump the gas into?
+
 E) Should I zoom in on the flower?
+
 B) How tall is the fence?
+
 C) How heavy is the log?
+
 E) Where are you throwing it from?
-B) how heavy is the suitcase?
+
+A) the one on the right or left?
+
 C) can someone hold it steady while I climb?
+
 D) boat
+
 A) truck
-A) drawer
-D) sink
+
+C) road
+
+C) boat
+
 E) pallet
+
 D) rake
-B) curtains
-B) hat
+
+A) book
+
+E) hydrant
+
 A) open the book
+
 C) saw the wood
+
 D) ascend the ladder
-A) cook on the grill
+
+E) write on the note
+
 D) hold on to the suitcase
-B) move forward to the door
-D) read the book page
+
+C) turn the lamp on
+
+E) ride a bicycle
+
 A) travel to the barn
+
 D) play with the ball
-B) fry it in the pan
+
+E) turn on the television
+
 A) open
+
 A) on
+
 B) with the camera unplugged
+
 B) open
-It is not.
+
+B) It is not
+
 It is not
-It is
-It is
+
+A) It is
+
+A) It is
+
 It is not
+
 D) not well
+
 A) attached to a vehicle
+
 C) in the bathroom
+
 E) at the airport
+
 C) on a desk
+
+E) turn on the television
+
+A) open
+
+A) on
+
+B) with the camera unplugged
+
+B) open
+
+A) It is not
+
+It is not
+
+A) It is
+
+A) It is
+
+It is not
+
+D) not well
+
+A) attached to a vehicle
+
+C) in the bathroom
+
+E) at the airport
+
+C) on a desk
+
 C) basket
+
 A) barn
+
 B) barrel
+
 E) plate
-C) rake
-E) palm tree
-D) chair Ezko
+
+B) bed
+
+C) curtains
+
+D) chair
+
 A) bowl
+
 A) grill
+
 B) tomato
+
 D) truck
+
 C) desk
-you cannot
-you cannot
+
+A) you can
+
+A) you can
+
 you can
-you cannot
+
+A) you can
+
+A) you cannot
+

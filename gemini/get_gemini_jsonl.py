@@ -7,11 +7,13 @@ import json
 from tqdm import tqdm
 from ratelimit import limits, sleep_and_retry
 
-MINUTE = 60
+MINUTE = 61
 
-file_in = input("Put in the relative directory and jsonl file name that you want to send to gemini: ")
-file_out = input("Write the name of the file you want the results written to: ")
+# file_in = input("Put in the relative directory and jsonl file name that you want to send to gemini: ")
+# file_out = input("Write the name of the file you want the results written to: ")
 
+file_in = '../seed_data/seed_tasks_eval.jsonl'
+file_out = '../gemini_results/new_gem_raw.txt'
 instruct = [json.loads(l) for l in open(file_in,"r")]
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
@@ -23,16 +25,21 @@ model = genai.GenerativeModel(
         All answers should be given in one line")
 
 @sleep_and_retry
-@limits(calls=14,period=MINUTE)
+@limits(calls=15,period=MINUTE)
 def check_lim():
     return
 
 gemini_ans = []
-with open(file_out, "w") as results:
+with open(file_out, "a") as results:
+    counter = 0
     for i in tqdm(instruct):
-        task = i["instruction"]
-        choices = i["instances"][0]["input"]
-        instruction = task + "\n" + choices + "\n" + "Answer: "
-        check_lim() 
-        res = model.generate_content(instruction).text
-        results.write(f"{res}\n")
+        counter += 1
+        if counter < 118:
+            continue
+        else:
+            task = i["instruction"]
+            choices = i["instances"][0]["input"]
+            instruction = task + "\n" + choices + "\n" + "Answer: "
+            check_lim() 
+            res = model.generate_content(instruction).text
+            results.write(f"{res}\n")

@@ -52,7 +52,7 @@ A) Provide a vantage point to identify heavily damaged areas
 B) pickaxe
 A) hose
 B) megaphone
-A) crow bar
+D) hydraulic cutter
 B) Put the hard hat on your head.
 A) If possible, use a helicopter to get an aerial view of the effected area.
 B) open the tailgate.
