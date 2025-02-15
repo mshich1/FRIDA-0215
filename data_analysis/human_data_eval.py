@@ -26,14 +26,8 @@ def write_single_avgs(filename, out, name):
                 vals.pop()
             if len(vals) <= 2:
                 vals.append('0')
-            ri = -1
-            ii = -1
-            if name == 'Austin':
-                ri = 0
-                ii = 1
-            else:
-                ri = 1
-                ii = 2
+            ri = 1
+            ii = 2
             reas.append(vals[ri])
             inf.append(vals[ii])
             if vals[ri] == '1':
@@ -50,7 +44,7 @@ def write_single_avgs(filename, out, name):
 inf = {'a':[],'c':[],'t':[]}
 reas = {'a':[],'c':[],'t':[]}
 
-with open("qual_check_all-AB.csv") as a, open("qual_check_all-CB.csv") as c, open("qual_check_all-TH.csv") as t:
+with open("qual_check_all-MS.csv") as a, open("qual_check_all-CB.csv") as c, open("qual_check_all-TH.csv") as t:
     for a_line, c_line, t_line in zip(a,c,t):
         a_vals = a_line.split(',')[1:]
         c_vals = c_line.split(',')[1:]
@@ -110,7 +104,7 @@ with open("human_stats.txt","w") as outie:
     write_averages(reas, "reason", outie)
     write_single_avgs("qual_check_claire.csv", outie, 'Claire')
     write_single_avgs("qual_check_taylor.csv", outie, 'Taylor')
-    write_single_avgs("qual_check_austin-AB.csv", outie, 'Austin')
+    write_single_avgs("qual_check_austin.csv", outie, 'Austin')
 
    
 
