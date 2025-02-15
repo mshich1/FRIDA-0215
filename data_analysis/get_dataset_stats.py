@@ -12,10 +12,10 @@ cat_map = {"rel_size":["biggest", "heaviest", "fits", "interact"],\
             "quake":["earthquake"], \
             "instr":["instruct", "followup"]}
 
-cat_eval = {"rel_size":{'instr_len':[],'ans_len':[],'rouge_scores':[]},"can_do_it":{'instr_len':[],'ans_len':[],'rouge_scores':[]}, \
-            "is_a_dif": {'instr_len':[],'ans_len':[],'rouge_scores':[]}, "risky":{'instr_len':[],'ans_len':[],'rouge_scores':[]}, \
-            "equip":{'instr_len':[],'ans_len':[],'rouge_scores':[]}, "obj_facts":{'instr_len':[],'ans_len':[],'rouge_scores':[]},\
-            "quake":{'instr_len':[],'ans_len':[],'rouge_scores':[]}, "instr":{'instr_len':[],'ans_len':[],'rouge_scores':[]}}
+cat_eval = {"rel_size":{'instr_len':[],'ans_len':[],'total_len':[],'rouge_scores':[]},"can_do_it":{'instr_len':[],'ans_len':[],'total_len':[],'rouge_scores':[]}, \
+            "is_a_dif": {'instr_len':[],'ans_len':[],'total_len':[],'rouge_scores':[]}, "risky":{'instr_len':[],'ans_len':[],'total_len':[],'rouge_scores':[]}, \
+            "equip":{'instr_len':[],'ans_len':[],'total_len':[],'rouge_scores':[]}, "obj_facts":{'instr_len':[],'ans_len':[],'total_len':[],'rouge_scores':[]},\
+            "quake":{'instr_len':[],'ans_len':[],'total_len':[],'rouge_scores':[]}, "instr":{'instr_len':[],'ans_len':[],'total_len':[],'rouge_scores':[]}}
 
 files= ["biggest", "heaviest", "fits", "interact",
             "can_do", "can_do_size", "can_do_shape", "can_do_char", "can_do_goal", \
@@ -26,28 +26,29 @@ files= ["biggest", "heaviest", "fits", "interact",
             "earthquake", \
             "instruct", "followup"]
 
-def add_to_dict(n,i,c,r):
+def add_to_dict(n,i,c, t, r):
     cat_eval[n]['instr_len'].append(i)
     cat_eval[n]['ans_len'].append(c)
+    cat_eval[n]['total_len'].append(t)
     cat_eval[n]['rouge_scores'].append(r)
 
-def put_in_cat(filename, i, c, r):
+def put_in_cat(filename, i, c, t, r):
     if filename in cat_map["rel_size"]:
-        add_to_dict("rel_size",i,c,r)
+        add_to_dict("rel_size",i,c,t,r)
     elif filename in cat_map["can_do_it"]:
-        add_to_dict("can_do_it",i,c,r)
+        add_to_dict("can_do_it",i,c,t,r)
     elif filename in cat_map["is_a_dif"]:
-        add_to_dict("is_a_dif",i,c,r)
+        add_to_dict("is_a_dif",i,c,t,r)
     elif filename in cat_map["risky"]:
-        add_to_dict("risky",i,c,r)
+        add_to_dict("risky",i,c,t,r)
     elif filename in cat_map["equip"]:
-        add_to_dict("equip",i,c,r)
+        add_to_dict("equip",i,c,t,r)
     elif filename in cat_map["obj_facts"]:
-        add_to_dict("obj_facts",i,c,r)
+        add_to_dict("obj_facts",i,c,t,r)
     elif filename in cat_map["quake"]:
-        add_to_dict("quake",i,c,r)
+        add_to_dict("quake",i,c,t,r)
     elif filename in cat_map["instr"]:
-        add_to_dict("instr",i,c,r)
+        add_to_dict("instr",i,c,t,r)
     else:
         print("Freakout")
 
@@ -59,6 +60,7 @@ with open("dataset_stats.txt","w") as stat_out:
             all_data = json.load(data_in)
             instr_len = []
             ans_len = []
+            total_len = []
             rouge_scores = []
             for q in all_data:
                 i_len = len(q["instruction"].split(" "))
@@ -68,19 +70,23 @@ with open("dataset_stats.txt","w") as stat_out:
                 else:
                     ch_len = 0
                 ans_len.append(ch_len)
+                total_len.append(i_len+ch_len)
                 overall_len.append(i_len+ch_len)
                 r_score = next(iter(q["most_similar_instructions"].values()))#thank you chatGPT for this line specifically
                 rouge_scores.append(r_score)
                 overall_rouge.append(r_score)
-                put_in_cat(f,i_len, ch_len, r_score) 
+                put_in_cat(f,i_len, ch_len, i_len+ch_len, r_score) 
             np_inst = np.array(instr_len)
             np_ans = np.array(ans_len)
             np_rouge = np.array(rouge_scores)
+            np_total = np.array(total_len)
             stat_out.write(f"**DATASET IS {f}.json**\n")
             stat_out.write(f'average instruction length: {np_inst.mean()}\n')
             stat_out.write(f'median instruction length: {np.median(np_inst)}\n')
             stat_out.write(f'average answer choice length: {np_ans.mean()}\n')
             stat_out.write(f'median answer choice length: {np.median(np_ans)}\n')
+            stat_out.write(f'average total length: {np_total.mean()}\n')
+            stat_out.write(f'median total length: {np.median(np_total)}\n')            
             stat_out.write(f'average ROUGE score: {np_rouge.mean()}\n')
             stat_out.write(f'median ROUGE score: {np.median(np_rouge)}\n\n')
 
@@ -88,12 +94,15 @@ with open("dataset_stats.txt","w") as stat_out:
     for n,c in cat_eval.items():
         np_inst = np.array(c['instr_len'])
         np_ans = np.array(c['ans_len'])
+        np_total = np.array(c['total_len'])
         np_rouge = np.array(c['rouge_scores'])
         stat_out.write(f'**CATEGORY IS {n}**\n')
         stat_out.write(f'average instruction length: {np_inst.mean()}\n')
         stat_out.write(f'median instruction length: {np.median(np_inst)}\n')
         stat_out.write(f'average answer choice length: {np_ans.mean()}\n')
         stat_out.write(f'median answer choice length: {np.median(np_ans)}\n')
+        stat_out.write(f'average total length: {np_total.mean()}\n')
+        stat_out.write(f'median total length: {np.median(np_total)}\n')
         stat_out.write(f'average ROUGE score: {np_rouge.mean()}\n')
         stat_out.write(f'median ROUGE score: {np.median(np_rouge)}\n\n')   
 
