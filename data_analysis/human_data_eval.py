@@ -35,6 +35,7 @@ def write_single_avgs(filename, out, name):
     int_inf = [int(i) for i in inf]
     int_q_inf = [int(i) for i in q_inf]
     int_reas = [int(i) for i in reas]
+    outie.write(f"number examples annotated by {name}: {len(int_reas)}")
     out.write(f"Average inform score, all values {name}: {sum(int_inf)/len(int_inf)}\n")
     out.write(f"Average inform score, reasonable values only {name}: {sum(int_q_inf)/len(int_q_inf)}\n")
     out.write(f"Average reason score {name}: {sum(int_reas)/len(int_reas)}\n\n")
@@ -126,6 +127,7 @@ with open("human_stats.txt","w") as outie:
     outie.write(f"cohen's kappa agreement c t inform: {ctk}\n") 
     outie.write(f"Fleiss Kappa inform: {inf_reas_data.fleiss_kappa()}\n\n") 
     
+    outie.write(f"number of questions of all: {len(reas['c'])}")
     write_averages(inf, "inform", outie)
     write_averages(reas, "reason", outie)
     # write_averages(inf_if_reas, "inform if reason", outie)
