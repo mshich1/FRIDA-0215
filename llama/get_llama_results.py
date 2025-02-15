@@ -9,10 +9,9 @@ model_id = ["meta-llama/Llama-3.2-1B-Instruct","meta-llama/Llama-3.1-8B-Instruct
 file_in = "../seed_data/seed_tasks_eval.jsonl"
 file_out = ["../llama_results/llama_sm.txt","../llama_results/llama.txt"]
 
-pipe = transformers.pipeline("text-generation", model=model_id, model_kwargs={"torch_dtype": torch.bfloat16}, max_new_tokens=200, device = 0)
-
 instruct = [json.loads(l) for l in open(file_in,"r")]
-for f in file_out:
+for f, m in zip(file_out,model_id):
+    pipe = transformers.pipeline("text-generation", model=m, model_kwargs={"torch_dtype": torch.bfloat16}, max_new_tokens=200, device = 0)
     with(open(f, "w")) as outie:
         for i in tqdm(instruct):
             task = i["instruction"]
