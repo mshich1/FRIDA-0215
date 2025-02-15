@@ -1,12 +1,27 @@
-Krippendorf Alpha reason:0.06546080964685619
-cohen's kappa agreement a c reason: -0.10267857142857144
-cohen's kappa agreement a t reason: 0.0337837837837837
+Krippendorf Alpha reason:0.26428571428571435
 cohen's kappa agreement c t reason: 0.2844036697247707
-Fleiss Kappa reason: 0.05943152454780458
+Fleiss Kappa reason: 0.2571428571428571
 
-Krippendorf Alpha inform:0.018616518616518585
-cohen's kappa agreement a c inform: -0.018498367791077063
-cohen's kappa agreement a t inform: 0.012859767299448864
+Krippendorf Alpha inform:0.3102678571428572
 cohen's kappa agreement c t inform: 0.3509015256588072
-Fleiss Kappa inform: 0.012285012285011731
+Fleiss Kappa inform: 0.30357142857142844
+
+cohen's kappa agreement c t inform if reason: 0.5149700598802395
+Fleiss Kappa inform if reason: 0.10677083333333351
+
+Average inform value overall: 0.46153846153846156
+Average inform value Taylor: 0.5961538461538461
+Average inform value Claire: 0.3269230769230769
+
+Average reason value overall: 0.8076923076923077
+Average reason value Taylor: 0.8846153846153846
+Average reason value Claire: 0.7307692307692307
+
+Average inform score, all values Claire: 0.463768115942029
+Average inform score, reasonable values only Claire: 0.5614035087719298
+Average reason score Claire: 0.8260869565217391
+
+Average inform score, all values Taylor: 0.5362318840579711
+Average inform score, reasonable values only Taylor: 0.6981132075471698
+Average reason score Taylor: 0.7681159420289855
 
