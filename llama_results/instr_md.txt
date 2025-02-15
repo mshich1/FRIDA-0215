@@ -1,85 +1,85 @@
   A) book
   A) shovel
-  E) ball
-  B) chalk
+  A) pail
+  A) bicycle
   C) windshield
-  D) house
-  C) handle
+  B) note
+  D) drawer
   A) vehicle
-  A) box
+  D) barrel
   B) bicycle
-  C) ladder
-  B) basket
+  D) stairway
+  E) bag
   E) apron
   E) headlight
   E) swivel chair
   A) pallet
-  A) luggage
+  C) pail
   E) pail
   B) water tank
-  C) separator
-  A) awning
+  A) crate
+  A) speaker
   A) suit
   A) shutters
   E) cereal
-  D) bottle
+  A) knob
   A) opening
   A) vehicle
   A) basket
   A) document
-  B) ceiling
-  B) hydrant
+  A) newspaper
+  A) telephone
   A) column
   A) sawhorse
   D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
   A) Curtains are able to open from side to side while shutters are able to open up or down
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
-  D) A truck is driven on land while a boat is driven on water.
+  D) A truck is driven on land while a boat is driven on water
   C) A book is made of many pieces of paper
   A) Only a broom can sweep while a mop only mops
-  C) A television is used to play videos and a computer is used for many different tasks
-  A) There is no difference between a headlight and a taillight
+  A) Only a television has a screen
+  B) A taillinght illuminates the back while a headlight illuminates the front
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
   A) loud noises
   B) non-perishable food
   B) pancaking
   A) Wide area assessment
   E) unstable surfaces
-  A) protect the head
+  B) protect the torso
   C) powers hydraulic lifts for lifting rubble
   B) They transport it away from the scene to dispose of it
   A) Provide a vantage point to identify heavily damaged areas
-  D) hammer
+  A) axe
   A) hose
-  B) megaphone
+  A) megaphone
   A) crow bar
   A)
   A)
   A)
   A)
   It cannot.
-  It cannot.
-  It cannot.
+  It can.
+  It can.
   It cannot.
   A) to what page should I open it?
-  A) Is the bag too small?
-  A) is the car on already?
+  B) Is the orange supposed to be peeled or sliced?
+  D) What container should I pump the gas into?
   E) Should I zoom in on the flower?
-  B) How tall is the fence?
+  A) should I use a rope?
   A) should I be gentle with the plant?
   E) Where are you throwing it from?
-  B) how heavy is the suitcase?
-  C) can someone hold it steady while I climb?
+  A) the one on the right or left?
+  A) are the obstacles able to be navigated around?
   A) speaker
   A) truck
   A) drawer
   A) partition
   A) opening
-  A) orange
+  C) seat cushion
   A) book
   D) hydrant
   A) open the book
-  A) look through the lens
+  D) pump the gas
   A) write on the note
   E) write on the note
   A) pick up the cone
@@ -104,10 +104,10 @@
   C) on a desk
   C) basket
   A) barn
-  A)chair
-  D) plate
+  A) chair
+  E) plate
   A) video
-  A) door
+  C) curtains
   A) windshield
   A) bowl
   A) grill
@@ -116,5 +116,5 @@
   C) desk
   You can.
   You cannot.
-  You can.
+  You cannot.
   You cannot.

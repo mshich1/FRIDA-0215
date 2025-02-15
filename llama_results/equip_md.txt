@@ -1,9 +1,9 @@
   E) motorcycle
-  D) house
-  D) table lamp
+  C) house
+  E) ball
   C) poster
   C) windshield
-  D) house
+  C) cereal
   E) drawer
   C) plaque
   D) barrel
@@ -13,53 +13,53 @@
   E) apron
   E) headlight
   E) swivel chair
-  A) pallet
+  D) counter
   C) pail
   E) pail
-  D) book
-  A) crate
-  C) awning
+  B) water tank
+  C) separator
+  B) dress
   C) taillight
-  D) railing
+  C) cushion
   E) cereal
-  D) greenhouse
-  B) barrier
+  C) map
+  A) opening
   A) vehicle
-  C) car
-  A) document
-  C) broom
+  A) basket
+  B) suit
+  D) pail
   D) coffee table
-  C) plaque
-  E) water tank
-  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking E) A coat and an apron can only be worn together
-  A) Curtains are able to open from side to side while shutters are able to open up or down B) Curtains can only be opened from the bottom C) Curtains and shutters have no differences in the way theyre used D) Shutters are always meant to stay open E) Shutters are only able to be pulled open
-  B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals C) Anyone can easily use a hydrant to put out a fire D) There are no differences between a hydrant and an extinguisher E) Only extinguishers can be used by firefighters A) An extinguisher can only be used for big fires
-  A) A truck and a boat have no differences. B) A truck is only driven on the water. C) A boat only gets gas. D) A truck is driven on land while a boat is driven on water. E) A boat and truck can drive on the same terrain.
-  C) A book is made of many pieces of paper D) A sign takes longer to read than a book E) There's no difference between a sign and a book A) Only a sign is made of paper B) A book is always bigger than a sign C) A book is made of many pieces of paper D) A sign takes longer to read than a book E) There's no difference between a sign and a book
+  B) lamp
+  C) stool
+  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
+  A) Curtains are able to open from side to side while shutters are able to open up or down
+  C) Anyone can easily use a hydrant to put out a fire D) There are no differences between a hydrant and an extinguisher E) Only extinguishers can be used by firefighters A) An extinguisher can only be used for big fires B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
+  D) A truck is driven on land while a boat is driven on water.
+  C) A book is made of many pieces of paper
   A) Only a broom can sweep while a mop only mops B) A mop can only clean dry C) A broom can only clean the walls D) There's no difference between a broom and mop E) Only a mop can clean from side-to-side
-  C) A television is used to play videos and a computer is used for many different tasks.
-  B) A taillight illuminates the back while a headlight illuminates the front.
-  C) A mop and a broom both use fibers for cleaning. B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal. A) A mop and a broom both have handles. D) Only brooms can clean on carpeted surfaces. E) A mop and a broom are interchangeable.
-  A) loud noises	B) tilting	C) sirens D) general location E) weather
+  C) A television is used to play videos and a computer is used for many different tasks A) There is no difference between a television and a computer B) Only a television has a screen D) A computer is bigger than a television E) The television and computer can't be used at the same time
+  A) There is no difference between a headlight and a taillight B) A taillight illuminates the back while a headlight illuminates the front C) Both a headlight and a taillight are only used on bicycles D) Headlights are not as bright as taillights E) A taillight is not as necessary as a headlight
+  B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal. C) A mop and a broom both use fibers for cleaning. A) A mop and a broom both have handles.
+  B) tilting
   D) sand bags
   C) cracked walls
-  B) Worksite triage
-  C) ladders, D) unstable surfaces, A) animal droppings, B) cars
-  D) protect the knees
+  A) Wide area assessment
+  B) cars C) ladders E) unstable surfaces
+  D) protect the lungs
   C) powers hydraulic lifts for lifting rubble
-  B) They transport it away from the scene to dispose of it.
+  B) They transport it away from the scene to dispose of it
   A) Provide a vantage point to identify heavily damaged areas
-  C) hydraulic lift
-  A) hose	B) helmet	C) mask D) axe E) air horn
+  A) axe
+  A) hose
   C) carbon dioxide detector
-  A) crow bar	B) thermal imaging camera	C) bolt cutters D) all of the above E) none of the above
+  D) hydraulic cutter
   B) Put the hard hat on your head.
   B) divide the effected area into sectors.
   A) Wait for others to fill the truck bed.
   A) drive the shovel into the dirt.
-  it cannot.
-  it can.
-  it can.
+  It cannot.
+  It cannot.
+  it can
   It can.
   A) to what page should I open it?
   B) Is the orange supposed to be peeled or sliced?
@@ -68,28 +68,28 @@
   B) How tall is the fence?
   C) How heavy is the log?
   E) Where are you throwing it from?
-  B) how heavy is the suitcase?
+  A) the one on the right or left?
   C) can someone hold it steady while I climb?
-  A) speaker
+  C) screen
   C) table lamp
-  A) drawer
+  C) road
   C) boat
-  B) telephone
+  C) chalk
   C) seat cushion
   C) apron
-  D) hydrant
-  B) enter the doorway
-  D) read the newspaper
-  B) drive a car
+  E) hydrant
+  C) go back to the building
+  B) plug in the outlet
+  C) saw the wood
   D) look at the cup
   B) put the trash in the bag
   C) turn the lamp on
-  D) read the book page
-  B) locate the rock
-  B) exit through the opening
-  E) turn on the television
+  E) ride a bicycle
+  D) barricade the door
+  D) play with the ball
+  D) read the newspaper
   A) open
-  A) on
+  B) off
   B) with the camera unplugged
   A) closed
   It is not.
@@ -97,23 +97,23 @@
   It is not.
   It is.
   It is not.
-  C) somewhat well
+  D) not well
   A) attached to a vehicle
   C) in the bathroom
   E) at the airport
   C) on a desk
   C) basket
-  A) barn
+  C) picture
   A) chair
-  D) plate
-  C) rake
-  A) door
-  D) chair
-  A) bowl
+  D) bridge
+  B) bed
+  C) curtains
+  C) tv stand
+  B) cereal
   A) grill
-  A) coffee cup
+  B) tomato
   D) truck
-  D) chair
+  E) pencil
   You can.
   You cannot.
   You cannot.

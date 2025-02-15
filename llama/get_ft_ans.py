@@ -6,10 +6,10 @@ import os
 import re
 from tqdm import tqdm
 
-base_model_name = "meta-llama/Llama-3.1-8B-Instruct" #path/to/your/model/or/name/on/hub"
+base_model_name = "meta-llama/Llama-3.2-3B-Instruct" #path/to/your/model/or/name/on/hub"
 adapter_model_path = "../../"
 adapter_model_names = ["rel_size","can_do_it","is_a_dif","risky","equip","obj_facts","quake","instr","all"]
-adapter_suffix = ""
+adapter_suffix = "_md"
 tokenized = AutoTokenizer.from_pretrained(base_model_name)
 tokenized.pad_token = tokenized.eos_token
 

@@ -1,7 +1,7 @@
-  E) motorcycle
+  D) motorcycle
   C) house
   E) ball
-  D) jar
+  C) poster
   C) windshield
   D) house
   D) pane
@@ -17,42 +17,42 @@
   C) pail
   E) pail
   D) book
-  C) crate
-  A) speaker
+  C) separator
+  D) awning
   C) taillight
-  A) shutters
+  D) painting
   D) cereal
   D) greenhouse
   A) opening
   A) vehicle
   C) car
   D) box
-  E) cone
+  B) ceiling
   D) coffee table
   C) plaque
-  E) water tank
+  A) sawhorse
   D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
   A) Curtains are able to open from side to side while shutters are able to open up or down
-  B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
+  D) There are no differences between a hydrant and an extinguisher
   D) A truck is driven on land while a boat is driven on water
-  C D E A B
-  D) There's no difference between a broom and mop
+  C D A B E
+  A) Only a broom can sweep while a mop only mops	B) A mop can only clean dry	C) A broom can only clean the walls	D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side
   C) A television is used to play videos and a computer is used for many different tasks
   B) A taillight illuminates the back while a headlight illuminates the front
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
-  B) tilting
+  A) loud noises	B) tilting	C) sirens	D) general location	E) weather
   D) basement
   B) pancaking
   A) Wide area assessment
-  E) unstable surfaces
+  D) tornadoes
   D) protect the lungs
   C) powers hydraulic lifts for lifting rubble
   B) They transport it away from the scene to dispose of it
   E) Blow debris out of the way
-  D) hammer
+  B) pickaxe
   A) hose
   B) megaphone
-  A) crow bar
+  D) hydraulic cutter
   B
   B
   B
@@ -68,53 +68,53 @@
   B) How tall is the fence?
   C) How heavy is the log?
   E) Where are you throwing it from?
-  A) the one on the right or left?
+  B) how heavy is the suitcase?
   C) can someone hold it steady while I climb?
   D) boat
   A) truck
-  D) church
+  A) drawer
   C) boat
-  E) pallet
+  D) clothing
   E) knob
   C) apron
   E) hydrant
   C) go back to the building
-  D) read the newspaper
+  E) pump the gas
   D) ascend the ladder
   D) look at the cup
   D) hold on to the suitcase
-  D) travel to the barn
+  C) turn the lamp on
   E) ride a bicycle
   D) barricade the door
   D) play with the ball
   C) enter the doorway
-  A) open
-  A) on
+  B) close
+  B) off
   B) with the camera unplugged
   A) closed
   It is not.
   It is not.
-  It is
+  It is.
   It is
   It is not.
-  E) no idea
+  D) not well
   A) attached to a vehicle
   C) in the bathroom
   E) at the airport
   C) on a desk
   C) basket
   A) barn
-  A)chair
+  A) chair
   D) bridge
   C) rake
-  A) door
-  C) tv stand
+  C) curtains
+  A) windshield
   A) bowl
   A) grill
-  C) plate
+  A) coffee cup
   D) truck
   C) desk
   you cannot
   you cannot
-  you cannot
+  you can
   you cannot

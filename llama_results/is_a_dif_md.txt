@@ -1,36 +1,36 @@
   C) document
   C) house
-  D) table lamp
-  C) poster
+  A) pail
+  D) jar
   C) windshield
   D) house
   D) drawer
-  C) plaque
+  B) windshield
   D) pitcher
   C) boat
   D) stepladder
   D) bottle
   E) apron
-  E) headlight
+  D) headlight
   E) swivel chair
-  C) shelf
+  A) pallet
   C) pail
   E) pail
   D) book
   C) separator
-  D) rake
+  C) awning
   A) suit
-  A) shutters
+  D) railing
   E) cereal
-  D) bottle
+  A) knob
   A) opening
   A) vehicle
   C) car
-  E) rake
-  D) pail
-  A) telephone B) hydrant C) lighthouse D) coffee table E) license plate
+  D) rake
+  A) newspaper
+  D) coffee table
   C) plaque
-  D) water tank
+  E) water tank
   D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
   A) Curtains are able to open from side to side while shutters are able to open up or down
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
@@ -38,7 +38,7 @@
   C) A book is made of many pieces of paper
   A) Only a broom can sweep while a mop only mops	B) A mop can only clean dry	C) A broom can only clean the walls	D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side
   C) A television is used to play videos and a computer is used for many different tasks
-  B) A taillight illuminates the back while a headlight illuminates the front
+  B) A taillinght illuminates the back while a headlight illuminates the front
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
   A) loud noises
   D) sand bags
@@ -52,42 +52,42 @@
   C) hydraulic lift
   A) hose
   D) gloves
-  B) thermal imaging camera
-  B) Put the hard hat on your head.
+  D) hydraulic support
+  A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
   B) divide the effected area into sectors.
   A) Wait for others to fill the truck bed.
   A) drive the shovel into the dirt.
-  it cannot.
   it cannot
   it cannot
+  it can
   it cannot
   A) to what page should I open it?
   B) Is the orange supposed to be peeled or sliced?
   D) What container should I pump the gas into?
   E) Should I zoom in on the flower?
   B) How tall is the fence?
-  C) How heavy is the log?
+  D) should I put sheets on the bed first?
   E) Where are you throwing it from?
-  B) how heavy is the suitcase?
+  A) the one on the right or left?
   C) can someone hold it steady while I climb?
-  A) speaker
+  D) boat
   A) truck
-  D) barrier
-  A) partition
-  C) chalk
-  E) knob
+  A) drawer
+  C) boat
+  A) opening
+  D) knob
   C) apron
   E) hydrant
   A) open the book
-  D) read the newspaper
+  E) pump the gas
   D) ascend the ladder
   E) write on the note
-  B) put the trash in the bag
+  D) hold on to the suitcase
   D) sit in the armchair
   D) read the book page
   C) climb the ladder
   B) exit through the opening
-  D) turn on the television
+  E) turn on the television
   A) open
   A) on
   A) with the camera plugged in
@@ -104,17 +104,17 @@
   C) on a desk
   C) basket
   A) barn
-  A) chair
+  B) barrel
   D) plate
   C) rake
   C) curtains
   C) tv stand
   A) bowl
   A) grill
-  C) plate
+  B) tomato
   D) truck
-  C) desk
+  D) chair
   you can
-  you cannot.
+  you cannot
   you can
-  you cannot.
+  you cannot

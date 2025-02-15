@@ -1,19 +1,19 @@
   E) motorcycle
   C) house
-  D) table lamp
-  E) taillight
+  B) monitor
+  D) jar	E) taillight	A) bicycle	B) chalk	C) poster
   C) windshield
   D) house
   E) drawer
-  B) windshield	C) plaque	D) vcr	E) montior	A) vehicle	C
-  D) barrel
+  A) vehicle
+  D) pitcher
   C) boat
   D) stairway
   E) bag
   E) apron
-  D) headlight
+  E) headlight
   E) swivel chair
-  B) coffee table
+  A) pallet	B) coffee table	C) shelf	D) counter	E) tv stand	A
   C) pail
   E) pail
   D) book
@@ -21,12 +21,12 @@
   B) dress
   C) taillight
   D) railing
-  D) cereal
+  E) cereal
   D) greenhouse
   B) barrier
   A) vehicle
   C) car
-  D) box
+  A) document	B) suit	C) clothing	D) box	E) rake
   B) ceiling
   B) hydrant
   A) column
@@ -35,10 +35,10 @@
   A) Curtains are able to open from side to side while shutters are able to open up or down	B) Curtains can only be opened from the bottom	C) Curtains and shutters have no differences in the way theyre used	D) Shutters are always meant to stay open	E) Shutters are only able to be pulled open
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals	C) There are no differences between a hydrant and an extinguisher	E) Only extinguishers can be used by firefighters
   D) A truck is driven on land while a boat is driven on water
-  C) A book is made of many pieces of paper	B) A book is always bigger than a sign	D) There's no difference between a sign and a book	E) A sign takes longer to read than a book	A) Only a sign is made of paper
+  C) A book is made of many pieces of paper	A) Only a sign is made of paper	B) A book is always bigger than a sign	C) A book is made of many pieces of paper	D) A sign takes longer to read than a book	E) There's no difference between a sign and a book
   A) Only a broom can sweep while a mop only mops	B) A mop can only clean dry	C) A broom can only clean the walls	D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side
-  C) A television is used to play videos and a computer is used for many different tasks	D) The television and computer can't be used at the same time	B) Only a television has a screen	A) There is no difference between a television and a computer	E) A computer is bigger than a television
-  B) A taillight illuminates the back while a headlight illuminates the front
+  C) A television is used to play videos and a computer is used for many different tasks	A) There is no difference between a television and a computer	B) Only a television has a screen	C) A computer is bigger than a televsion	D) The television and computer can't be used at the same time	E) There is no difference between a television and a computer
+  B) A taillight illuminates the back while a headlight illuminates the front	A) There is no difference between a headlight and a taillight	C) Both a headlight and a taillight are only used on bicycles	D) Headlights are not as bright as taillights	E) A taillight is not as necessary as a headlight
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
   B) tilting
   B) non-perishable food
@@ -50,23 +50,23 @@
   B) They transport it away from the scene to dispose of it
   A) Provide a vantage point to identify heavily damaged areas
   C) hydraulic lift
-  A) hose
+  A) hose	B) helmet	C) mask	D) axe	E) air horn	A) none of the above	B) helmet	C) mask	D) axe	E) air horn	A) none of the above	B) helmet	C) mask	D) axe	E) air horn	A) none of the above	B) helmet	C) mask	D) axe	E) air horn	B) helmet	C) mask	D) axe	E) air horn	A) none of the above	B) helmet	C) mask	D) axe	E) air horn	B) helmet	C) mask	D) axe	E) air horn	B) helmet	C) mask	D) axe	E
   C) carbon dioxide detector
-  A) crow bar	B) thermal imaging camera	C) hammer	D) wrench	E) saw	none of the above
-  A) Use the knob at the back of your head to adjust the hat to tightly fit your head to B) Put the hard hat on your head.
+  D) hydraulic cutter
+  B) Put the hard hat on your head.
   B) divide the effected area into sectors.
   A) Wait for others to fill the truck bed.
   A) drive the shovel into the dirt.
-  it can
-  it can
-  it can
   it cannot
+  it can
+  it can
+  it can
   A) to what page should I open it?
   B) Is the orange supposed to be peeled or sliced?
   A) is the car on already?
   E) Should I zoom in on the flower?
   B) How tall is the fence?
-  C) How heavy is the log?
+  A) should I be gentle with the plant?
   E) Where are you throwing it from?
   A) the one on the right or left?
   A) are the obstacles able to be navigated around?
@@ -74,41 +74,41 @@
   A) truck
   D) church
   C) boat
-  A) opening	B) telephone	C) chalk	D) clothing	E) pallet
-  D) rake
+  A) opening	B) telephone	C) chalk	D) clothing	E) pallet	A) A) opening	B) telephone	C) chalk	D) clothing	E) pallet	A) A) opening	B) telephone	C) chalk	D) clothing	E) pallet	A) A) opening	B) telephone	C) chalk	D) clothing	E) pallet	A) A) opening	B) telephone	C) chalk	D) clothing	E) pallet	A) A) opening	B) telephone	C) chalk	D) clothing	E) pallet	A) A) opening	B) telephone	C) chalk	D) clothing	E) pallet	A) A) opening	B) telephone	C) chalk
+  E) knob
   C) apron
   E) hydrant
   A) open the book
-  B) plug in the outlet
-  B) drive a car
-  C) move toward the newspaper
-  A) pick up the cone	B) put the trash in the bag	C) read the newspaper	D) hold on to the suitcase	E) cook on the grill
-  C) turn the lamp on
-  A) close the door
+  E) pump the gas
+  A) write on the note
+  B) water the plant
+  D) hold on to the suitcase
+  A) enter the doorway
+  D) read the book page
   B) locate the rock
-  D) play with the ball
+  A) go back to the building
   E) turn on the television
-  A) open	B) close	C) Both are correct	D) neither	E) depends on the type of book	C) neither	E) depends on the type of book	A) open	B) close	C) Both are correct	D) neither	E) depends on the type of book	A) open	B) close	C) Both are correct	D) neither	E) depends on the type of book	A) open	B) close	C) Both are correct	D) neither	E) depends on the type of book	A) open	B) close	C) Both are correct	D) neither	E) depends on the type of book	A) open	B) close	C
-  A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A) on	B) off	A)
+  A) open	B) closed	C) both equally	D) neither	E) neither is correct
+  A) on	B) off	A) both	B) neither	C) depends on the car model	D) depends on the time of day	E) depends on the road conditions	C) neither	D) depends on the car model	E) depends on the time of day	B) off	A) on	C) both	D) neither	E) depends on the road conditions
   A) with the camera plugged in
-  B) open
-  It is not
-  It is not
-  It is
-  It is
-  It is not
-  C) somewhat well
+  A) closed	B) open	C) Both are fine	D) Neither is fine	E) Undetermined	C) Neither is fine	A) closed	B) open	C) Both are fine	D) Neither is fine	E) Undetermined	A) closed	B) open	C) Both are fine	D) Neither is fine	E) Undetermined	A) closed	B) open	C) Both are fine	D) Neither is fine	E) Undetermined	A) closed	B) open	C) Both are fine	D) Neither is fine	E) Undetermined	A) closed	B) open	C) Both are fine	D) Neither is fine	E) Undetermined	A) closed
+  It is not.
+  It is not.
+  It is.
+  It is.
+  It is not.
+  A) very well
   A) attached to a vehicle
   C) in the bathroom
   E) at the airport
   C) on a desk
   C) basket
-  A) barn	B) bench	C) picture	D) cereal	E) coffee	C) car	D) chair	B) tree	C) flower	D) grass	E) grass	F) grassy field	A) barn	B) bench	C) picture	D) cereal	E) coffee	C) car	D) chair	B) tree	C) flower	D) grass	E) grassy field	A) barn	B) bench	C) picture	D) cereal	E) coffee	C) car	D) chair	B) tree	C) flower	D) grass	E) grassy field	A) barn	B) bench	C) picture	D) cereal	E) coffee	C) car	D)
+  B) bench
   B) barrel
   E) plate
   C) rake
   B) drums
-  C) tv stand
+  B) shed
   A) bowl
   A) grill
   B) tomato
