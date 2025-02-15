@@ -1,120 +1,120 @@
-  C) document  A) A large book is typically bigger than a pan, a document is smaller than a book, a grill is not typically a document, and a motorcycle is not typically a document.
-  D) chalkboard  A) A shovel is usually the smallest object in a set. A) A balcony is a structure, B) A house is a building, and C) A house is a house. D) A chalkboard is a flat, smooth surface. E) A traffic light is a traffic signal.  A) A shovel is usually the smallest object in a set. A) A balcony is a structure, B) A house is a building, and C) A house is a house. D) A chalkboard is a flat, smooth surface. E) A traffic light is a traffic signal.  A) A
-  D) table lamp  A) A large pail is typically too small to be a suitable object to be a table lamp.
-  D) jar  D) a jar is the largest of the given objects in terms of size.
-  C) windshield
-  A) television  Television is a common object used for shelter.
+  A) book
+  A) shovel  A shovel is the largest object among the options.
+  D) table lamp  A table lamp is typically the largest object in a given set.
+  A) bicycle
+  B) document
+  D) house  A house is a shelter.
   C) handle
-  A) vehicle
+  D) vcr  A vcr is a device used to record video.
   D) barrel
-  C) boat
+  B) bicycle
   E) stepladder
-  E) bag A) bag A bag is typically carried over the shoulder by strap.
-  E) apron
+  B) basket
+  D) shoe  Baking bread typically requires wearing a shoe to protect your hands from flour and other ingredients.
   A) taillight
   E) swivel chair
   B) coffee table
-  A) luggage
+  E) bag
   C) hydrant
-  D) book A) A window is typically rectangular and you can read from it.
+  D) book
   A) crate
-  A) speaker
-  A) suit
-  A) shutters
+  A) speaker  A speaker is typically thin and can be worn (as a headband).
+  A) suit  A suit is a piece of clothing.
+  B) ladder
   B) stile
-  B) clock
-  B) barrier
-  A) vehicle  Explanation: A vehicle could cause damage to a silo.
-  B) note  A note is a fragile object. A) basket, C) car, E) mop are not typically fragile objects. A) basket, E) mop are not typically fragile objects. A) note is a fragile object. A) note is a fragile object. A) basket is a fragile object. A) note is a fragile object. A) note is a fragile object. A) basket is a fragile object. A) note is a fragile object. A) note is a fragile object. A) basket is a fragile object. A) note is a fragile object. A) basket is a fragile object
-  C) clothing
-  B) ceiling  A ceiling is typically made of a hard, heavy material that can cause serious injury if it falls.
+  A) knob
+  D) shirt
+  B) shade  A shade would be the most likely object to cause the most damage to a silo.
+  B) note
+  D) box
+  C) broom
   B) hydrant
   C) plaque
-  B) couch
-  A) A coat and an apron have no differences	B) A coat can only be used in the kitchen	C) An apron can only be worn outside	E) A coat and an apron can only be worn together	D) A coat can only be used to keep yourself warm and an apron can be used to protect your clothing while baking  D) A coat and an apron can only be worn together.
-  D) Shutters are always meant to stay open	E) Shutters are only able to be pulled open  Explanation: Shutters are typically used to block the wind and rain while curtains are used to block light and warmth.
-  C) Anyone can easily use a hydrant to put out a fire
+  D) counter  A heavy object on a counter could collapse and cause injury or damage.
+  E) A coat and an apron can only be worn together (although they may not be worn together)
+  C) Curtains and shutters have no differences in the way theyre used
+  D) There are no differences between a hydrant and an extinguisher.
   A) A truck and a boat have no differences.
-  C) A book is made of many pieces of paper	D) A sign is made of paper	E) There's no difference between a sign and a book	A) Only a sign is made of paper	B) A book is always bigger than a sign	C) A book is made of many pieces of paper	D) A sign takes longer to read than a book	E) There's no difference between a sign and a book	A) Only a sign is made of paper	B) A book is always bigger than a sign	C) A book is made of many pieces of paper	D) A sign is made of paper	E) There's no difference
-  A) Only a broom can sweep while a mop only mops  A) A broom is a cleaning tool typically used for sweeping, while a mop is used for cleaning.
-  D) A computer is bigger than a television	E) The television and computer can't be used at the same time
-  D) Headlights are not as bright as taillights	E) A taillight is not as necessary as a headlight A) There is no difference between a headlight and a taillight	B) A taillinght illuminates the back while a headlight illuminates the front C) Both a headlight and a taillight are only used on bicycles E) Headlights are not as bright as taillights  B) A taillight illuminates the back while a headlight illuminates the front A) There is no difference between a headlight and a taillight B)
+  E) There's no difference between a sign and a book
+  D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side
+  E) The television and computer can't be used at the same time
+  A) There is no difference between a headlight and a taillight	B) A taillinght illuminates the back while a headlight illuminates the front	C) Both a headlight and a taillight are only used on bicycles	D) Headlights are not as bright as taillights	E) A taillight is not as necessary as a headlight  A) A) There is no difference between a headlight and a taillight	B) A taillinght illuminates the back while a headlight illuminates the front	C) Both a headlight and a taillight are only used on bicycles	D
   B) A mop and a broom both have handles.
   B) tilting
-  E) sand bags
+  E) sand bags.
   C) cracked walls
   A) Wide area assessment
   D) tornadoes
   C) protect the hands
-  C) powers hydraulic lifts for lifting rubble
-  C) They lift it up for workers on high levels to reach	D) They transport it away from the scene to dispose of it	E) They use it to power their hydraulic systems	A) They crush it into finer pieces	B) They transport it away from the scene to dispose of it	C) They lift it up for workers on high levels to reach	D) They remove debris from tight spaces	A) They crush it into finer pieces	B) They transport it away from the scene to dispose of it	C) They lift it up for workers on high levels to reach	D) The remove debris from tight spaces	A) They crush it into finer pieces
-  D) Blow debris out of the way
+  C) powers hydraulic lifts for lifting rubble The correct answer is C. Hydraulic lifts are typically used to lift heavy objects, making it easier to rescue individuals trapped in rubble.
+  D) The remove debris from tight spaces
+  E) Blow debris out of the way
   A) axe
-  A) hose	B) helmet	C) mask	D) axe	E) air horn A) A) hose	B) helmet	C) mask	D) axe	E) air horn A) A) hose	B) helmet	C) mask	D) axe	E) air horn A) A) hose	B) helmet	C) mask	D) axe	E) air horn A) A) hose	B) helmet	C) mask	D) axe	E) air horn A) A) hose	B) helmet	C) mask	D) axe	E) air horn A) A) hose	B) helmet	C) mask	D) axe	E)
-  C) carbon dioxide detector
-  A) crow bar
-  A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
-  B) divide the effected area into sectors
+  A) hose	B) helmet	C) mask	D) axe	E) air horn  Hoses are commonly used to deliver water. A) helmet	B) mask	C) hose	D) axe	E) air horn  A) hose	B) helmet	C) mask	D) axe	E) air horn  A) hose	B) helmet	C) mask	D) axe	E) air horn  A) hose	B) helmet	C) mask	D) axe	E) air horn  A) hose	B) helmet	C) mask	D) axe	E) air horn  A) hose	B) helmet	C) mask	D) axe	E) air horn  
+  B) megaphone
+  C)concrete saw
+  B) Put the hard hat on your head.
+  B) divide the effected area into sectors.
   B) open the tailgate
-  B) use the handle to lever the shovel contents up.
-  it can
-  it can
+  B) use the handle to lever the shovel contents up
   it cannot
   it cannot
-  C) should I use a rope?
-  A) is the bag too small	B) is the orange supposed to be peeled or sliced	C) should I get a bucket of water first	D) should I put sheets on the bed first	E) how tall is the fence?
+  it cannot
+  it cannot
+  A) to the page that is usually the title of a book.
+  C) should I get a bucket of water first?
   D) What container should I pump the gas into?
-  C) should I write with a pen?
-  A) should I use a rope	D) is there an obstacle in front of the armchair	E) does the truck see me without its lights on	C) should I use a rope	B) how tall is the fence	D) is there an obstacle in front of the armchair	A) should I use a rope  A) should I use a rope	B) how tall is the fence	D) is there an obstacle in front of the armchair	A) should I use a rope	C) does the truck see me without its lights on	B) how tall is the fence	D) is there an obstacle in front of the armchair	A
+  C) should I write with a pen.
+  A) a rope	D) is there a barrier in front of the door	E) does the truck have a roof	B) how high is the fence	C) is there an obstacle in front of the armchair  D) is there a barrier in front of the door=E) does the truck have a roof=C) is there an obstacle in front of the armchair=B) how high is the fence	A) should I use a rope=D) is there a barrier in front of the door  A) should I use a rope	B) how high is the fence	A) is there an obstacle in front of the armchair	D)
   C) How heavy is the log?
-  D) where the ladder is secured to something
-  B) how heavy is the suitcase?
+  D) Where are you throwing it from?
+  B) how heavy is the suitcase.
   C) can someone hold it steady while I climb.
-  A) speaker  A speaker is typically the heaviest object in a given set of objects.
-  A) truck  A truck is typically much heavier than a table or lamp.
-  C) road  A) A heavy object would likely be a road.
-  A) partition  A partition is a heavy object.
-  B) telephone
-  B) rice cooker
-  A) book  A book is heavy and could cause serious injury if hit with enough force.
-  A) shade  A heavy object falling on a person's head could cause serious injury.
-  A) open the book
-  A) look through the lens
+  A) speaker
+  B) table lamp
+  A) drawer	B) vase	C) road	E) barrier	D) chair	A) desk	J) book	S) plate	T) chair	B) pillow	L) rug	M) bookcase	O) chair	A) vase	B) vase	C) chair	D) book	E) bookcase	L) pillow	A) desk	B) vase	C) chair	D) book	E) plate	M) chair	A) desk	B) book	C) vase	D) chair	E) pillow	L) bookcase	A) vase	B) chair	C) book	D) desk	E) plate	M) chair	B) vase	C) book	D) chair	E) pillow	L)
+  C) boat  A boat is typically the heaviest object in a given set of objects.
+  D) clothing
+  A) orange	B) rice cooker	C) seat cushion	D) rake	E) knob  A) orange would cause the worst injury if it cut someone.
+  C) apron
+  A) shade
+  C) go back to the building  This choice is a good fit for a "doorway".
+  D) read the newspaper
   D) ascend the ladder
-  A) cook on the grill	C) move toward the newspaper	E) write on the note	D) look at the cup	A) cook on the grill	B) water the plant	C) move toward the newspaper	D) look at the cup	E) write on the note	D) look at the cup	A) cook on the grill	B) water the plant	C) move toward the newspaper	D) look at the cup	E) write on the note	D) look at the cup	A) cook on the grill	B) water the plant	C) move toward the newspaper	D) look at the cup	E) write on the note	D) look at the
-  D) hold on to the suitcase  A) to pick up the cone B) to put the trash in the bag C) to read the newspaper E) to cook on the grill  D) to hold on to the suitcase  (D) holding a suitcase is a common activity that involves both navigating and carrying.
-  D) travel to the barn
-  B) point at the flower
+  D) look at the cup  The correct answer is D. The action of looking at a cup requires a fine-grained movement.
+  D) hold on to the suitcase  Explanation: You need to hold onto something to navigate. This is a common instruction in carrying.
+  C) turn the lamp on
+  D) read the book page
   D) barricade the door
-  D) play with the ball  D) Exit through the opening is an exit, while A) go back to the building is a stay, B) exit through the opening is an exit, C) move forward to the door is a direction, and E) travel to the barn is a location.
-  A) water the plant
+  C) move forward to the door
+  B) fry it in the pan  Frying pan is an inanimate object, and it would not be effective if it were turned on. Therefore, the correct answer is B) fry it in the pan.
   A) open
-  A) on
+  B) off
   B) with the camera unplugged
   A) closed
   It is a video.
-  It is clothing.
+  It is.
   It is luggage.
   It is a light source.
   It is a light source.
-  B) well	C) somewhat well	D) not well	E) no idea A) very well	B) well	C) somewhat well	D) not well	E) no idea A) very well	B) well	C) somewhat well	D) not well	E) no idea B) well	C) somewhat well	D) not well	E) no idea B) well	C) somewhat well	D) not well	E) no idea B) well	C) somewhat well	D) not well	E) no idea B) well	C) somewhat well	D) not well	E) no idea B) well	C) somewhat well	D
-  D) in a fish tank
+  D) not well(E) no idea
+  C) in the kitchen
   C) in the bathroom
-  D) in a classroom
-  C) on a desk
-  D) dvd player
+  C) under the fireplace
+  C) on a desk  A telephone is typically something you would find on a desk.
+  A) shutters
   D) cereal
-  A) chair
-  A) pail  A pail is a typical object found in a restaurant.
-  A) video
-  B) drums
+  B) barrel
+  A) pail
+  A) video  A video can be used as a barrier.
+  C) curtains
   C) tv stand
   A) bowl
-  D) book  A) A) grill	B) bowl	C) bicycle	D) donkey	E) book  A) A) grill=B) bowl=C) bicycle=D) donkey	E) book  A) A) grill=B) bowl=C) bicycle=D) donkey	E) book  A) A) grill=B) bowl=C) bicycle=D) donkey	E) book  A) A) grill=B) bowl=C) bicycle=D) donkey	E) book  A) A) grill=B) bowl=C) bicycle=D) donkey	E) book  A) A) grill=B) bowl=C)
-  A) coffee cup
-  D) truck
-  C) desk
-  you can
+  D) book  A) A cooking surface is not typically a B) bicycle or E) book. C) A bicycle is a vehicle, and D) a donkey is a domesticated animal. A) A grill is a cooking surface.
+  A) A coffee cup
+  A) silo
+  C) desk  A) A) dvd player is a writing surface. D) chair is a seating item. E) pencil is a writing instrument.
+  you cannot
   you cannot
   you cannot
   you cannot

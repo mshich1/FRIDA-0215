@@ -1,11 +1,11 @@
   E) motorcycle
   C) house
-  A) pail
+  B) monitor
   D) jar
   C) windshield
   D) house
   E) drawer
-  A) vehicle
+  B) windshield
   D) barrel
   C) boat
   D) stairway
@@ -13,12 +13,12 @@
   E) apron
   E) headlight
   E) swivel chair
-  B) coffee table
+  A) pallet
   C) pail
   E) pail
   D) book
   A) crate
-  B) dress
+  C) awning
   C) taillight
   B) ladder
   E) cereal
@@ -26,7 +26,7 @@
   B) barrier
   D) jug
   C) car
-  E) rake
+  D) box
   B) ceiling
   D) coffee table
   A) column
@@ -48,47 +48,47 @@
   D) protect the lungs
   C) powers hydraulic lifts for lifting rubble
   B) They transport it away from the scene to dispose of it.
-  A) Provide a vantage point to identify heavily damaged areas.
+  B) Move large vehicles to disaster area
   B) pickaxe
   A) hose
   C) carbon dioxide detector
-  A) crow bar
+  D) hydraulic cutter
   B) Put the hard hat on your head.
   B) divide the effected area into sectors.
   B) open the tailgate.
   A) drive the shovel into the dirt.
-  It can.
-  It cannot.
-  it can
   it cannot.
+  it cannot
+  it can
+  It cannot.
   A) to what page should I open it?
-  C) should I get a knife first?
+  B) Is the orange supposed to be peeled or sliced?
   D) What container should I pump the gas into?
   E) Should I zoom in on the flower?
   B) How tall is the fence?
   C) How heavy is the log?
   E) Where are you throwing it from?
-  A) the one on the right or left?
-  B) is the office not safe to be in?
+  B) how heavy is the suitcase?
+  C) can someone hold it steady while I climb?
   D) boat
   A) truck
   D) church
   D) sink
   E) pallet
   D) rake
-  D) image
+  A) book
   E) hydrant
   A) open the book
   C) saw the wood
   D) ascend the ladder
-  B) water the plant
+  D) write on the note
   D) hold on to the suitcase
   C) turn the lamp on
-  A) close the door
+  E) ride a bicycle
   D) barricade the door
   D) play with the ball
   E) turn on the television
-  A) open
+  A) open	B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A) open B) close A
   A) on
   B) with the camera unplugged
   B) open
@@ -105,7 +105,7 @@
   C) basket
   A) barn
   B) barrel
-  C) pallet jack
+  D) plate
   C) rake
   C) curtains
   D) chair

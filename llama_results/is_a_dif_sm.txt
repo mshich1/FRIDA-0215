@@ -1,103 +1,103 @@
-  C) document A) book	B) pan	C) grill	D) motorcycle	E) bicycle	F) car	G) tree	H) flower	I) book	J) chair	K) fish	L) cow	M) horse	N) dog	O) cat	P) bird	Q) monkey	R) tiger	S) elephant	T) whale	U) fish	V) tree	W) house	X) car(Y) truck(Z) plane(U) horse(T) cow(X) dog(Y) monkey(Z) elephant(W) whale(X) tree(T) house(U) car(V) truck(W) plane(X) elephant(Y) whale(Z)
-  A) shovel	B) balcony	C) house	D) chalkboard	E) traffic light
+  A) book	B) pan	C) document	D) grill	E) bicycle	F) chair	G) spoon	H) plate	I) book	J) book	K) pan	L) grill	M) bicycle	N) plate	O) spoon	P) chair	Q) book	R) pan	S) grill	T) bicycle	U) plate	V) spoon	W) chair	X) book	Y) pan	Z) grill	A) B	C) D	E) F	G) H	I) J	K)L) N	O	P	Q	R	S	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	U
+  A) shovel	B) balcony	C) house	D) chalkboard	E) traffic light  The best answer is D
   A) pail	B) monitor	C) partition	D) table lamp	E) chair
-  D) jar
-  A) gazebo	B) document	C) windshield	D) shoe	E) bag  The correct answer is A) gazebo.
-  A) television	B) note	C) cereal	D) house	E) orange	F) pencil	G) chair	H) book	I) pen	J) pencil stool	K) shoe	L) sock	M) shoebox	N) chairbox	O) chair P) shoebox	Q) pencil stool	R) shoebox	s) chairbox	t) sockbox	u) pencilbox	v) chairbox	w) shoeboxbox	x) pencilbox	y) chairboxbox	z) shoeboxboxbox	a) chairboxboxbox	b) noteboxbox	c) cerealboxbox	d) houseboxbox	e) orangeboxbox	f) pencilboxbox	g
-  A) wall	B) light source	C) handle	D) pane	E) drawer  The correct answer is A) wall.
-  A) vehicle	B) windshield	C) plaque	D) vcr	E) montior  The correct answer is A) vehicle.
-  A) box	B) cabinet	C) crate	D) barrel	E) pitcher  The correct answer is D) barrel. A barrel typically holds liquids for a long period of time.
-  A) car	B) bicycle	C) boat	D) truck	E) motorcycle  The correct answer is A) car. A car can travel across water, whereas a bicycle, boat, and truck cannot.
-  A) stile The best answer is A
+  D) jar	A) bicycle	B) chalk	C) poster	D) lamp	E) chair	F) book	G) picture	H) plate	I) glass	J) spoon	K) ruler	L) pipe	M) screw	N) screwdriver	O) toothbrush	P) nail	Q) nail polish	R) hairbrush	S) hair tie	T) brush U) comb	V) toothpaste	W) soap	X) soap suds	Y) soap water	Z) soap shampoos	A) bicycle	B) chalk	C) poster	D) jar	E) taillight	F) lamp	G) chair	H) plate	I) glass	J) spoon	K) ruler
+  A) gazebo	B) document	C) windshield	D) shoe	E) bag  The best answer is D
+  D) house	A) television	B) note	C) cereal	D) orange	E) pencil	F) pencil
+  C) handle A) wall	B) light source	C) pane	D) drawer	E) table
+  A) vehicle	B) windshield	C) plaque	D) vcr	E) montior  The correct answer is A) vehicle. A vehicle can occupy space.
+  D) barrel
+  A) car	B) bicycle	C) boat	D) truck	E) motorcycle  The correct answer is A) car.
+  D) stairway
   D) bottle
   E) apron
-  A) taillight
-  A) armchair
-  B) coffee table
+  E) headlight
+  D) stool
+  D) counter	E) tv stand
   C) pail
   C) hydrant
-  C) barrel D) book
-  A) crate	B) table lamp	C) separator	D) plug	E) shelf
+  C) barrel
+  A) crate	B) table lamp	C) separator	D) plug	E) chair  The correct answer is D) plug. A table lamp is a type of object that can contain things, while a crate is a container, a table is a piece of furniture, a separator is a device that separates two things, and a plug is an electrical device that connects two things.
   A) speaker
-  A) suit	B) box	C) taillight	D) sink	E) sawhorse
+  A) suit
   A) shutters
   A) cabinet
-  A) knob
-  D) shirt	E) light source	A) opening	B) barrier	C) movie	D) book
-  A) vehicle
-  D) flashlight
-  D) box
-  A) newspaper	B) ceiling	C) broom	D) pail	E) cone  The correct answer is D) pail. A pail is a heavy, large container that can cause injury if it falls.
-  A) telephone	B) hydrant	C) lighthouse	E) license plate	D) shoe	E) car	D) book	F) chair	G) lamp	H) chair	I) chair	J) chair	K) chair	L) chair	M) chair	N) chair	O) chair	P) chair	Q) chair	R) chair	S) chair	T) chair	U) chair	V) chair	W) chair	X) chair	Y) chair	Z) chair	A) telephone	B) hydrant	C) lighthouse	E) license plate	D) shoe	E) car	F) book	G) lamp	H) chair	I) chair	J) chair	K) chair	L)
-  A) column	B) lamp	C) plaque	D) bowl	E) mop  A) column	B) lamp	C) plaque	D) bowl	E) mop  A) B) lamp	C) plaque	D) bowl	E) mop  A) B) lamp	C) plaque	D) bowl	E) mop  B) lamp	C) plaque	D) bowl	E) mop  B) lamp	C) plaque	D) bowl	E) mop  B) lamp	C) plaque	D) bowl	E) mop  B) lamp	C) plaque	D) bowl	E) mop  B) lamp	C) plaque	D) bowl	E) mop  B
-  A) sawhorse
-  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
-  A) Curtains are able to open from side to side while shutters are able to open up or down	C) Curtains can only be opened from the bottom	E) Shutters are always meant to stay open	D) Shutters are only able to be pulled open
-  A) An extinguisher can only be used for big fires	B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals	C) Anyone can easily use a hydrant to put out a fire	D) There are no differences between a hydrant and an extinguisher	E) Only extinguishers can be used by firefighters
-  A) A truck and a boat have no differences.
-  D) A sign takes longer to read than a book	E) There's no difference between a sign and a book
-  A) Only a broom can sweep while a mop only mops	C) A mop can only clean the walls	E) Only a mop can only clean from side-to-side	D) There's no difference between a broom and mop	B) A broom and mop are the same
+  D) greenhouse
+  C) movie
+  A) vehicle  Explanation: A vehicle is the most likely object to cause significant damage to a silo due to its size, weight, and potential to cause structural damage or collapse.
+  A) basket	B) note	C) car	D) flashlight	E) mop  Explanation: A basket is the most likely to cause damage to a boat as it is a heavy and bulky object that could easily damage the boat's structure. A note is a small and lightweight object that is unlikely to cause significant damage. A car is a large and heavy object that could cause significant damage to a boat. A flashlight is a small and lightweight object that is unlikely to cause significant damage. A mop is a small and lightweight object that is unlikely to cause significant damage.
+  A) document	B) suit	C) clothing	D) rake	E) shoe  Explanation: A) document and B) suit are both made of fabric, which can easily tear or rip, causing damage. A) document and B) suit are both fragile and can easily be damaged. C) clothing and D) rake are both non-structural and less likely to cause significant damage. E) shoe is not typically made of fabric.
+  A) newspaper	B) ceiling	C) broom	D) pail	E) cone  Explanation: A) newspaper	B) ceiling	C) broom	D) pail	E) cone  Explanation: A) Newspaper is the most dangerous as it can cause serious injury or even death. A ceiling can collapse, but a newspaper is less likely to cause injury. A broom can be used to knock people over, but it's not as dangerous as a falling newspaper. A pail can be heavy and cause injury, but it's less likely to be as deadly as a falling newspaper. A cone can be used as a projectile, but
+  D) coffee table
+  A) column	B) lamp	C) plaque	D) bowl	E) sponge	F) shoe	G) chair	H) table	I) pillow	J) curtain	K) rug	L) carpet	M) rug	N) mat	O) cushion	P) pillowcase	Q) cushioncase	R) cushion cover	S) cushion pad	T) cushion pad U) cushioning	V) cushioning material	W) cushioning pad X) cushioning pad Y) cushioning cover Z) cushioning cover
+  A) sawhorse	B) couch	C) stool	D) counter	E) table	F) chair	G) bookshelf	H) rug	I) carpet	J) carpetcase	K) carpet mat	L) matte	m) rug matnap	Let the floor be the answer.
+  A) A coat and an apron have no differences	B) A coat can only be used in the kitchen	C) An apron can only be worn outside	D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking	E) A coat and an apron can only be worn together  The correct answer is D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking.
+  A) Curtains are able to open from side to side while shutters are able to open up or down	B) Curtains can only be opened from the bottom	C) Curtains and shutters have no differences in the way theyre used	D) Shutters are always meant to stay open	E) Shutters are only able to be pulled open
+  D) There are no differences between a hydrant and an extinguisher. Both are used to put out fires.
+  D) A truck is driven on land while a boat is driven on water
+  D) A sign takes longer to read than a book	E) There's no difference between a sign and a book	A) Only a sign is made of paper	B) A book is always bigger than a sign	C) A book is made of many pieces of paper	D) A sign takes longer to read than a book
+  D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side
   A) There is no difference between a television and a computer	B) Only a television has a screen	C) A television is used to play videos and a computer is used for many different tasks	E) The television and computer can't be used at the same time	D) A computer is bigger than a television
-  D) Headlights are not as bright as taillights
-  D) Only brooms can clean on carpeted surfaces.
-  A) loud noises	B) tilting	C) sirens	D) general location	E) weather
-  D) basement	E) sand bags	A) folding chair	B) non-perishable food	C) vase	D) spare light bulbs
-  C) cracked walls
-  B) Worksite triage A) Wide area assessment B) Worksite triage C) Search for missing persons D) Assess damage to buildings E) Rescue personnel survey the area
-  A) animal droppings	B) cars	C) ladders	E) unstable surfaces	D) earthquakes
-  A) protect the head
+  B) A taillinght illuminates the back while a headlight illuminates the front	C) Both a headlight and a taillight are only used on bicycles	D) Headlights are not as bright as taillights	E) A taillight is not as necessary as a headlight
+  B) A mop and a broom both use liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
+  A) loud noises	B) tilting	C) sirens	D) general location	E) weather  The best answer is A
+  D) basement	E) sand bags	A) folding chair	B) non-perishable food	C) vase	D) water purification tablets
+  A) drop off
+  A) Wide area assessment B) Worksite triage
+  D) tornadoes	E) unstable surfaces	A) animal droppings	B) cars	C) ladders	D) fallen buildings
+  C) protect the hands
   C) powers hydraulic lifts for lifting rubble
   C) They lift it up for workers on high levels to reach
   D) Blow debris out of the way
-  A) axe	B) pickaxe	C) hydraulic lift	D) hard hat	E) hammer  A) A) axe	B) pickaxe	C) hydraulic lift	D) hard hat	E) hammer  The best answer is A
-  A) hose	B) helmet	C) mask	D) axe	E) air horn  The correct answer is B) helmet. Hoses are typically used for delivering water to firefighters to extinguish fires and put out fires. Helmets are worn to protect firefighters from falling debris or falling objects. Masks are used to protect firefighters' faces and eyes from dust, ash, and other hazards. Axes and air horns are not typically used for delivering water.
-  D) radio	E) gloves	C) carbon dioxide detector	A) concrete saw	B) megaphone	C) gloves	D) oxygen tank	E) thermometer	F) fire extinguisher	G) first aid kit	H) flashlight	I) flashlight	J) oxygen tank	K) fire extinguisher	L) oxygen tank	M) flashlight	N) fire extinguisher	O) concrete saw	P) megaphone	Q) gloves	R) oxygen tank	S) fire extinguisher	T) flashlight	U) oxygen tank	V) megaphone	W) flashlight	X) oxygen tank	Y) fire extinguisher	Z) flashlight	A) concrete saw	B) megaphone	C) oxygen tank
-  A) crow bar	B) thermal imaging camera	C) excavator	D) jackhammer	E) bulldozer	F) plunger	G) wrecking ball	H) wrecking bar	I) excavator	J) bulldozer	k) jackhammer	l) plunger	m) wrecking ball	n) excavator	o) bulldozer	p) wrecking bar	q) jackhammer	r) plunger	s) wrecking ball	t) excavator	u) bulldozer	v) wrecking bar	w) jackhammer	x) plunger	y) wrecking ball	z) excavator	x) bulldozer	a) crow bar	B) thermal
-  B) Put the hard hat on your head.
-  B) divide the effected area into sectors.
+  A) axe	B) pickaxe	C) hydraulic lift	D) hard hat	E) none of the above
+  A) hose	B) helmet	C) mask	D) axe	E) air horn  The correct answer is D) axe.
+  A) concrete saw	B) megaphone	C) carbon dioxide detector	D) gloves	E) flashlight  The correct answer is B) megaphone. A megaphone is often used to amplify sound, allowing rescuers to locate and communicate with trapped individuals.
+  D) hydraulic cutter
+  B) Put the hard hat on your head. A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
+  B) divide the effected area into sectors. A) If possible, use a helicopter to get an aerial view of the effected area.
   B) open the tailgate.
   B) use the handle to lever the shovel contents up.
   it can
-  Can
+  it can
   it can
   it can
   A) to what page should I open it.
   A) is the bag too small. B) Is the orange supposed to be peeled or sliced. C) should I get a bucket of water first. D) should I put sheets on the bed first. E) how tall is the fence.
-  A) is the car on already. B) does the truck see me without its lights on. C) should I get a bucket of water first? D) What container should I pump the gas into? E) should I use both hands to climb?
-  A) what language is this.	B) is the cup supposed to be filled with something?	C) should I write with a pen?	D) is the alley lit?	E) Should I zoom in on the flower?
+  A) is the car on already. B) does the truck see me without its lights on. C) should I get a bucket of water first. D) What container should I pump the gas into. E) should I use both hands to climb.
+  A) what language is this.	B) is the cup supposed to be filled with something.	C) should I write with a pen?	D) is the alley lit.	E) Should I zoom in on the flower.
   A) should I use a rope.
-  A) should I be gentle with the plant. B) does the lamp have a lightbulb. C) How heavy is the log. D) is the doorway to the bedroom or the kitchen. E) is the bedroom or the kitchen.
+  A) should I be gentle with the plant. B) does the lamp have a lightbulb. C) How heavy is the log. D) is the doorway to the bedroom or the kitchen. E) is the bedroom or the kitchen?
   A) does the gas come out fast.
   A) the one on the right or left.
   A) are the obstacles able to be navigated around.
-  D) boat	A) speaker	B) dress	C) screen	D) document	E) chair	F) table	G) carpet	H) bed	I) pillow	J) blanket	K) curtain	L) sofa	M) curtain	N) rug	O) lamp	P) vase	Q) basket	R) picture frame	S) desk	T) chair U) table	V) rug W) blanket	X) pillow	Y) lamp	Z) vase	B) chair	A) speaker	B) boat	C) screen	D) boat	E) dress	F) dress	G) dress	H) screen	I) screen	J) carpet	K) carpet	L) carpet	M) carpet	N) carpet	O
-  A) truck	B) table lamp	C) rail	D) table	E) lamp The best answer is D
-  D) church	A) drawer	B) vase	C) road	D) barrel	E) chair	F) table	G) couch	H) bed	I) book	J) shoe	K) bag	L) sock	M) glove	N) glove o) sock	p) shoe	q) chair	r) table	s) book	t) bag	u) shoe	v) chair	w) table	x) glove	y) shoe	z) bag	a) chair	b) vase	c) road	d) church	e) barrel	f) table	g) couch	h) bed	i) book	j) shoe	k) bag	l) sock	m) glove	n) chair	o) table	p)
-  A) partition	B) awning	C) boat	D) sink	E) door  The correct answer is D) sink. A sink is typically the heaviest object in a given set of objects.
-  A) opening	B) telephone	C) chalk	D) clothing	E) piano
-  A) orange	B) rice cooker	C) seat cushion	D) rake	E) knob  B) rice cooker	A) orange	C) seat cushion	D) rake	E) knob The best answer is D
-  D) image
-  C) shirt	D) map	E) hydrant	A) shade	B) hat	C) shirt	D) map	E) hydrant	A) shade	B) hat	C) shirt	D) map	E) hydrant	A) shade	B) hat	C) shirt	D) map	E) hydrant	A) shade	B) hat	C) shirt	D) map	E) hydrant	A) shade	B) hat	C) shirt	D) map	E) hydrant	A) shade	B) hat	C) shirt	D) map	E) hydrant	A) shade	B) hat	C) shirt	D) map	E) hydrant	A) shade	B) hat
+  A) speaker
+  A) truck	B) table lamp	C) rail	D) table	E) lamp
+  D) church	A) drawer	B) vase	C) road	D) barrier	E) tree	F) chair	G) table	H) tablecloth	I) carpet	J) carpetcase	K) pillow	L) pillowcase	M) pillowcasebox	N) bookbox	O) book	P) bookshelf	Q) bookstand	R) bookstandbox	S) bookboxbox	S) bookboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxboxbox
+  A) partition	B) awning	C) boat	D) sink	E) chair	F) table	G) pen	H) paper	I) book	J) pencil	K) chair	B) awning	C) boat	D) sink	E) door	F) pen	G) paper	H) table	I) book	J) pencil	K) chair	B) awning	C) boat	D) sink	E) door	F] G) pencil	K] chair	B] awning	C] boat	D] sink	E] door	F] G] pencil	K] chair	B] awning	C] boat	D] sink	E] door	F] G] pencil	K] chair
+  A) opening  Explanation: An opening would cause the worst injury if it tripped someone. An opening is a sharp, pointed object that can cause severe cuts and puncture wounds. In contrast, a telephone, chalk, or pallet are all relatively soft and less likely to cause serious injury.
+  A) orange	B) rice cooker	C) seat cushion	D) rake	E) spoon  A) orange	B) rice cooker	C) seat cushion	D) rake	E) spoon  The best answer is D
+  A) book	B) curtains	C) apron	D) image	E) paper
+  A) shade	B) hat	C) shirt	D) map	E) hydrant  A) shade B) hat C) shirt D) map E) hydrant  The best answer is A
   A) open the book
   A) look through the lens
   A) write on the note
-  A) cook on the grill	B) water the plant	C) move toward the newspaper	D) look at the cup	E) write on the note
-  A) pick up the cone	B) put the trash in the bag	C) read the newspaper	E) cook on the grill	D) hold on to the suitcase  The best answer is A
+  A) cook on the grill
+  A) pick up the cone	B) put the trash in the bag	C) read the newspaper	E) cook on the grill	D) hold on to the suitcase  The best answer is D
   A) enter the doorway
   A) close the door
   A) travel to the barn
   A) go back to the building
-  A) water the plant	B) fry it in the pan	C) enter the doorway	D) read the newspaper	E) turn on the television	S) use the computer
+  C) enter the doorway
   A) open
-  A) on
+  A) on	B) off
   A) with the camera plugged in
   A) closed
-  It is A) It is
-  It is A) shoe
-  It is A) suitcase
   It is
+  It is A) shoe clothing
+  It is A) suitcase
   It is A) It is
-  A) very well
+  It is A) window B) light source C) window D) light
+  B) well	C) somewhat well	D) not well	E) no idea
   A) attached to a vehicle
   C) in the bathroom
   A) in the gym
@@ -106,15 +106,15 @@
   A) barn
   A) chair
   A) pail	B) luggage	C) pallet jack	D) bridge	E) plate
-  A) video
+  A) video	B) bed	C) rake	D) bottle	E) faucet  Correct answer: D) bottle
   A) door
   A) windshield
-  D) suit
-  A) grill	B) bowl	C) bicycle	D) donkey	E) book	F) fish	G) chair	H) shoe	I) house	J) car	K) tree	L) dog	M) cat	N) bird	O) catfish	P) bicycle	Q) book	R) fish	S) house	T) car	U) dog	V) cat W) tree	X) house Y) car Z) catfish
-  A) coffee cup	B) tomato	C) plate	D) sink	E) curtains
-  D) truck
+  A) bowl	B) cereal	C) clothing	D) suit	E) bottle  The correct answer is D) suit. A plate is a flat, solid object, while a bowl is a cup-shaped container, clothing is a garment, cereal is a food item, and a bottle is a container.
+  A) grill	B) bowl	C) bicycle	D) donkey	E) book	F) chair	G) plane	H) car	I) boat	J) house	K) tree	L) tree	m) treehouse	n) carouse	o) houseouse	p) houseboat	q) carouse	r) carouse	s) carouseu	t) carouseu	v) carouseu	w) carouseu	x) carouseu	y) carouseu	z) carouseu	a) carouseu	b) carouseu	c) carouseu	d) carouseu	e) carouseu	f) carouseu	g)
+  A) coffee cup	B) tomato	C) plate	D) sink	E) curtains	F) chair	G) lamp	H) table	I) rug	J) book	K) pen	L) pen	M) paper	N) pencil	O) scissors	P) stapler	Q) ruler	R) ruler	S) brush	T) bottle	U) bottle	V) glass	W) glass	X) yarn	Y) yarn	Z) cloth	A) cloth	B) cloth	C) cloth	D) cloth	E) cloth	F) cloth	G) cloth	H) cloth	I) cloth	J) cloth	K) cloth	L) cloth	M) cloth	N) cloth	O) cloth	P) cloth
+  A) silo
   A) dvd player
   you can
-  you can
+  you cannot
   you can
   you can

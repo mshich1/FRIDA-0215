@@ -13,32 +13,32 @@
   E) apron
   E) headlight
   E) swivel chair
-  A) pallet
+  B) coffee table
   C) pail
-  C) hydrant
+  E) pail
   D) book
   A) crate
   B) dress
   A) suit
-  E) railing
+  D) painting
   E) cereal
   D) greenhouse
   B) barrier
-  D) jug
+  A) vehicle
   C) car
-  D) box
+  E) rake
   B) ceiling
-  C) lighthouse
+  B) hydrant
   A) column
   E) water tank
   D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking.
   A) Curtains are able to open from side to side while shutters are able to open up or down
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
-  D) A truck is driven on land while a boat is driven on water.
-  B) A book is always bigger than a sign
-  D) There's no difference between a broom and mop
-  B) Only a television has a screen
-  B) A taillight illuminates the back while a headlight illuminates the front.
+  D) A truck is driven on land while a boat is driven on water
+  C) A book is made of many pieces of paper
+  B) A mop can only clean dry
+  C) A television is used to play videos and a computer is used for many different tasks.
+  B) A taillinght illuminates the back while a headlight illuminates the front
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
   B) tilting
   B) non-perishable food
@@ -52,17 +52,17 @@
   B) pickaxe
   A) hose
   C) carbon dioxide detector
-  A) crow bar
+  D) hydraulic cutter
   A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
-  B) divide the effected area into sectors.
+  A) If possible, use a helicopter to get an aerial view of the effected area.
   B) open the tailgate.
   A) drive the shovel into the dirt.
-  it can fit.
-  it can fit inside a barrel.
   it can.
-  it can fit inside.
+  it can fit in a barrel.
+  it can.
+  it can fit in a drawer.
   A) to what page should I open it?
-  B) Is the orange supposed to be peeled or sliced?
+  C) should I get a bucket of water first?
   D) What container should I pump the gas into?
   E) Should I zoom in on the flower?
   B) How tall is the fence?
@@ -76,17 +76,17 @@
   C) boat
   E) pallet
   D) rake
-  A) book
+  B) curtains
   E) hydrant
   A) open the book
   C) saw the wood
-  D) ascend the ladder
+  B) drive a car
   E) write on the note
   D) hold on to the suitcase
   C) turn the lamp on
   E) ride a bicycle
   C) climb the ladder
-  D) play with the ball
+  E) travel to the barn
   E) turn on the television
   A) open
   A) on
@@ -96,7 +96,7 @@
   It is.
   It is.
   It is.
-  It is not.
+  It is.
   A) very well
   A) attached to a vehicle
   C) in the bathroom
@@ -108,11 +108,11 @@
   E) plate
   C) rake
   C) curtains
-  D) chair
+  B) shed
   A) bowl
   A) grill
-  B) tomato
-  A) silo
+  C) plate
+  C) wheel
   C) desk
   you can.
   you can use a bottle as a basket.

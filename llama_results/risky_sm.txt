@@ -6,115 +6,115 @@
   D) house	E) orange
   C) handle
   A) vehicle
-  D) barrel
+  C) crate
   C) boat
   E) stepladder
   C) bucket
   C) hat
-  E) headlight
+  A) taillight
   E) swivel chair
-  B) coffee table
-  C) pail
+  D) counter
+  A) luggage D) suitcase C) pail E) bag
   C) hydrant
-  C) barrel
+  B) water tank
   C) separator
   C) awning
-  C) taillight
-  C) cushion
-  C) bicycle
-  B) clock
+  A) suit
+  D) painting
+  D) floor
+  D) greenhouse
   D) shirt
-  B) shade
+  A) vehicle	B) shade	C) orange	E) video	D) jug
   C) car
   D) box
   D) pail
   C) lighthouse
   C) plaque
   E) water tank
-  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
-  C) Curtains and shutters have no differences in the way they're used
-  A) An extinguisher can only be used for big fires	B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals	C) Anyone can use a hydrant to put out a fire	D) There are no differences between a hydrant and an extinguisher	E) Only extinguishers can be used by firefighters
-  E) A boat and truck can drive on the same terrain
-  C) A book is made of many pieces of paper
-  E) Only a mop can clean from side-to-side
+  C) An apron can only be worn outside
+  D) Shutters are always meant to stay open	E) Shutters are only able to be pulled open
+  E) Only extinguishers can be used by firefighters
+  D) A truck is driven on land while a boat is driven on water
+  D) A sign takes longer to read than a book
+  A) Only a broom can sweep while a mop only mops	C) A broom can only clean the walls D) There's no difference between a broom and mop	E) Only a mop can clean from side-to-side
   D) A computer is bigger than a television	E) The television and computer can't be used at the same time
-  E) A taillight is not as necessary as a headlight
-  A) A mop and a broom both have handles.
+  D) Headlights are not as bright as taillights	E) A taillight is not as necessary as a headlight
+  D) Only brooms can clean on carpeted surfaces.
   C) sirens
-  D) basement	E) sand bags
-  B) pancaking
+  D) basement  If a basement is the safest place to be during an earthquake, it provides a solid floor to fall on if it collapses. The best answer is D) basement.
+  B) pancaking	C) cracked walls
   B) Worksite triage
-  C) ladders
-  D) protect the lungs	E) protect the knees
+  E) unstable surfaces
+  D) protect the lungs
   E) finds individuals trapped in rubble
-  C) They lift it up for workers on high levels to reach
+  D) The remove debris from tight spaces
   E) Blow debris out of the way
-  A) axe
-  A) hose	B) helmet	C) mask	E) air horn D) axe B) helmet C) mask E) air horn
-  B) megaphone
-  B) thermal imaging camera
+  B) pickaxe	C) hydraulic lift
+  D) axe	E) air horn A) hose	B) helmet	C) mask D) axe	E) air horn A) helmet	B) mask C) mask	E) axe D) axe B) helmet C) mask D) axe E) air horn A) hose B) helmet C) mask D) axe E) air horn B) helmet C) mask D) axe E) air horn C) mask D) axe B) helmet E) air horn C) mask D) axe B) helmet 
+  C) carbon dioxide detector
+  C) concrete saw
   B) Put the hard hat on your head.
   B) divide the effected area into sectors.
-  B) open the tailgate
+  B) open the tailgate.
   B) use the handle to lever the shovel contents up.
   it can
   it can
+  it cannot
   it can
-  it can
-  D) is the bag too small.
-  C) should I get a bucket of water first?
+  E) how heavy is that cone?
+  D) should I put sheets on the bed first?
   D) What container should I pump the gas into?
-  A) language is this.
-  E) does the truck see me without its lights on?
+  E) should I zoom in on the flower.
+  D) should I use my body to barricade the door?
   C) How heavy is the log?
-  C) does the vehicle need to be driven?
-  D) should I wear gloves?
-  C) can someone hold it steady while I climb?
-  D) boat
-  A) truck	B) table lamp	C) rail	E) lamp	D) table lamp
-  D) church	E) barrier	C) road	B) vase	A) drawer	D) church	E) barrier	C) road	D) church	E) barrier	C) road	B) vase	D) barrier	E) church	A) drawer	D) vase	E) barrier	C) road	D) church	E) barrier	C) road	B) vase	D) church	E) barrier	C) road	D) church	E) barrier	C) vase	D) drawer	E) barrier	C) road	B) vase	D) church	E) barrier	C) road	D) church	E) barrier	C) vase	D) drawer	E) barrier	C) road	B) vase	D)
-  A) partition
-  D) clothing
-  C) seat cushion
-  C) apron
+  D) is the ladder secured to something	E) Where are you throwing it from?
+  C) what language is this?
+  D) should I break it with an object?
+  D) boat	E) document
+  C) rail
+  C) road
+  C) boat
+  C) chalk	D) clothing	E) pallet	B) telephone	A) opening
+  A) orange	B) rice cooker	C) seat cushion D) rake	E) knob B) rice cooker	C) seat cushion D) rake	E) knob C) seat cushion D) rake	E) knob B) rice cooker	C) seat cushion D) rake	E) knob C) seat cushion D) rake	E) knob B) rice cooker	C) seat cushion D) rake	E) knob C) seat cushion D) rake	E) seat cushion B) rice cooker	C) seat cushion D) rake	E) seat cushion C) seat cushion D)
+  B) curtains	C) apron	D) note	E) book	A) book	B) curtains	C) apron	D) note	E) book	B) curtains	C) apron	D) note	E) book	B) curtains	C) apron	D) note	E) book	B) curtains	C) apron	D) note	E) book	B) curtains	C) apron	D) note	E) book	B) curtains	C) apron	D) note	E) book	B) curtains	C) apron	D) note	E) book	B) curtains	C) apron	D) note	E) book	B) curtains	C) apron	D
   E) hydrant
-  A) open the book
+  D) sail a boat
   D) read the newspaper
-  A) write on the note
-  C) move toward the newspaper
+  D) ascend the ladder
+  A) cook on the grill B) water the plant C) move toward the newspaper D) look at the cup E) write on the note
   D) hold on to the suitcase
   C) turn the lamp on
-  C) sleep in the bed
-  C) climb the ladder
-  D) play with the ball
-  C) enter the doorway
+  D)read the book page
+  D) barricade the door
+  E) travel to the barn	C) move forward to the door
+  E) turn on the television
   B) close
-  B) off
+  A) on
   B) with the camera unplugged
-  A) open
+  A) closed
   It is
   It is "It is"
-  It is "It is"
+  It is.
   It is
   It is
-  E) no idea
+  C) somewhat well
   D) in a fish tank
-  B) under the bed
-  D) in a classroom
-  D) attached to the kitchen stove
+  C) in the bathroom
+  D) in a classroom	E) at the airport
+  C) on a desk
   D) dvd player
-  A) barn	B) bench	C) picture	E) coffee	D) cereal
-  D) shoe The correct answer is D) shoe.
-  C) pallet jack
-  D) bottle
-  C) curtains
-  C) tv stand
-  D) suit The suit is a common item that can be used as a plate.
-  B) bowl
-  B) tomato
-  D) truck
-  D) chair
-  you cannot
+  D) cereal
+  D) shoe
+  D) bridge
+  C) rake
+  C) curtains The correct answer is C) curtains.
+  E) speaker
+  D) suit
+  C) bicycle
+  C) plate
+  A) silo
+  C) desk
   you can
   you can
-  you cannot
+  you can
+  you can

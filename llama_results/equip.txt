@@ -1,11 +1,11 @@
   E) motorcycle
   C) house
-  A) pail
-  A) bicycle
+  C) partition
+  C) poster
   C) windshield
   D) house
-  D) drawer
-  B) windshield C) plaque D) vcr E) montior A) vehicle
+  E) drawer
+  A) vehicle B) windshield C) plaque D) vcr E) montior
   D) barrel
   C) boat
   D) stairway
@@ -13,80 +13,80 @@
   E) apron
   E) headlight
   E) swivel chair
-  A) pallet
-  E) bag
+  B) coffee table
+  C) pail
   E) pail
   D) book
   A) crate
   C) awning
-  A) suit
+  C) taillight
   A) shutters
   E) cereal
   D) greenhouse
-  A) opening B) barrier C) movie D) shirt E) light source A) opening B) barrier C) movie D) shirt E) light source A) opening B) barrier C) movie D) shirt E) light source A) opening B) barrier C) movie D) shirt E) light source A) opening B) barrier C) movie D) shirt E) light source A) opening B) barrier C) movie D) shirt E) light source A) opening B) barrier C) movie D) shirt E) light source A) opening B) barrier C) movie D) shirt E) light source
+  B) barrier
   A) vehicle
   C) car
-  B) suit C) clothing D) box E) rake A) document
+  A) document B) suit C) clothing D) box E) rake A) document
   B) ceiling
   D) coffee table
   A) column
   E) water tank
-  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
+  D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking.
   A) Curtains are able to open from side to side while shutters are able to open up or down
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals.
   D) A truck is driven on land while a boat is driven on water.
   A) Only a sign is made of paper C) A book is made of many pieces of paper
   A) Only a broom can sweep while a mop only mops
-  C) A television is used to play videos and a computer is used for many different tasks
-  B) A taillight illuminates the back while a headlight illuminates the front.
+  C) A television is used to play videos and a computer is used for many different tasks.
+  B) A taillinght illuminates the back while a headlight illuminates the front.
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
   B) tilting, A) loud noises, C) sirens, D) general location, E) weather
   B) non-perishable food
   B) pancaking
-  A) Wide area assessment B) Worksite triage
-  D) tornadoes E) unstable surfaces A) animal droppings B) cars C) ladders
+  A) Wide area assessment
+  A) animal droppings B) cars C) ladders D) tornadoes E) unstable surfaces
   D) protect the lungs
   C) powers hydraulic lifts for lifting rubble
   B) They transport it away from the scene to dispose of it.
-  A) Provide a vantage point to identify heavily damaged areas
+  A) Provide a vantage point to identify heavily damaged areas.
   B) pickaxe
   A) hose
   C) carbon dioxide detector
-  A) crow bar
-  A) Use the knob at the back of your head to adjust the hat to tightly fit your head. B) Put the hard hat on your head.
+  D) hydraulic cutter
+  B) Put the hard hat on your head.
   A) If possible, use a helicopter to get an aerial view of the effected area. B) divide the effected area into sectors.
-  A) Wait for others to fill the truck bed. B) open the tailgate.
+  A) Wait for others to fill the truck bed. B) open the tailgate. A) Wait for others to fill the truck bed.
   A) drive the shovel into the dirt.
-  it can.
+  it can (in a very small bag)
   It cannot.
-  it can (small cup) it cannot (large cup) it can (small cup) it can.
   it can
+  It can.
   A) to what page should I open it?
-  B) Is the orange supposed to be peeled or sliced?
+  A) is the bag too small?
   D) What container should I pump the gas into?
   A) what language is this?
-  A) should I use a rope?
+  B) How tall is the fence?
   C) How heavy is the log?
   E) Where are you throwing it from?
-  A) the one on the right or left?
-  B) is the office not safe to be in?
+  B) how heavy is the suitcase?
+  C) can someone hold it steady while I climb?
   D) boat
   A) truck
   D) church
   D) sink
-  A) opening
-  D) rake
+  A) opening B) telephone C) chalk D) clothing E) pallet C) chalk
+  A) orange
   A) book
   A) shade
   A) open the book
   C) saw the wood
   D) ascend the ladder
-  A) cook on the grill
+  D) write on the note
   D) hold on to the suitcase
   C) turn the lamp on
-  A) close the door
-  B) locate the rock
-  D) play with the ball
+  D)read the book page
+  A) travel to the barn
+  A) go back to the building D) play with the ball
   D) read the newspaper
   A) open
   A) on

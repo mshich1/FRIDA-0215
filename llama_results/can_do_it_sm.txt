@@ -1,26 +1,26 @@
-  C) document
+  C) document  Explanation: A) book  In a set of objects, a book is typically the largest.
   D) chalkboard
   C) partition
   D) jar
   C) windshield
   D) house
-  C) handle
-  A) vehicle
+  D) pane
+  C) plaque
   D) barrel
   C) boat
   C) ladder
   B) basket
-  E) apron
-  E) headlight
-  E) swivel chair
-  A) pallet
-  A) luggage
+  D) shoe
+  A) taillight
+  C) chair
+  C) shelf
+  C) pail
   C) hydrant
-  A) window
-  A) crate	B) table lamp	C) separator	D) plug	E) lamp  A) crate
+  D) book
+  A) crate
   A) speaker
   A) suit
-  A) shutters
+  D) painting
   B) stile
   C) map
   C) movie
@@ -29,92 +29,92 @@
   C) clothing
   D) pail
   C) lighthouse
-  C) plaque
-  C) stool
-  C) An apron can only be worn outside A) A coat and an apron have no differences B) A coat can only be used in the kitchen C) An apron can only be worn outside D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking E) A coat and an apron can only be worn together
-  C) Curtains and shutters have no differences in the way they're used.
-  A) B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals.
-  C) A boat only gets gas while a truck is driven on land
-  C) A book is made of many pieces of paper
-  B) A mop only mops while a broom only sweeps
-  C) A television is used to play videos and a computer is used for many different tasks.
-  C) Both a headlight and a taillight are only used on bicycles  The correct answer is C) Both a headlight and a taillight are only used on bicycles.
+  B) lamp
+  A) sawhorse
+  A) A coat and an apron have no differences	B) A coat can only be used in the kitchen	C) An apron can only be worn outside	D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking	E) A coat and an apron can only be worn together  The correct answer is E) A coat and an apron can only be worn together.
+  C) Curtains and shutters have no differences in the way theyre used
+  D) There are no differences between a hydrant and an extinguisher.
+  E) A boat and truck can drive on the same terrain
+  E) There's no difference between a sign and a book.
+  D) There's no difference between a broom and mop.
+  B) Only a television has a screen.
+  B) A taillinght illuminates the back while a headlight illuminates the front
   C) A mop and a broom both use fibers for cleaning.
-  C) sirens
-  E) sand bags
+  C) siren
+  D) basement
   C) cracked walls
   A) Wide area assessment
-  D) tornadoes
+  E) unstable surfaces
   A) protect the head
-  C) powers hydraulic lifts for lifting rubble
+  C) powers hydraulic lifts for lifting rubble The best answer is C
   C) They lift it up for workers on high levels to reach
-  A) Provide a vantage point to identify heavily damaged areas D) Warn victims about aftershocks E) Blow debris out of the way C) Move large vehicles to disaster area B) Blow away debris
-  A) axe	B) pickaxe	C) hydraulic lift	D) hard hat	E) hammer
-  C) mask
+  C) Blow away debris The best answer is C
+  C) hydraulic lift
+  A) hose	B) helmet	C) mask	D) axe	E) air horn
   C) carbon dioxide detector
-  C) thermal imaging camera
-  B) Put the hard hat on your head.
-  B) divide the effected area into sectors.
+  A) crow bar	B) thermal imaging camera	C) concrete saw	E) hydraulic support	D) drill press  The correct answer is A) crow bar.
+  A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
+  A) If possible, use a helicopter to get an aerial view of the effected area.
   B) open the tailgate
-  B) use the handle to lever the shovel contents up.
-  it cannot
-  it cannot
+  A) drive the shovel into the dirt.
+  Can it
   it cannot
   it can
+  it cannot
   A) to what page should I open it.
   C) should I get a bucket of water first
-  A) is the car on already	B) does the truck see me without its lights on	C) should I get a bucket of water first	D) What container should I pump the gas into	E) should I use both hands to climb	S) Where should I get the gas from?
-  D) is the alley lit?
-  C) is an obstacle in front of the armchair.
+  D) What container should I pump the gas into.
+  B) is the cup supposed to be filled with something.
+  A) should I use a rope	B) How tall is the fence	C) is there an obstacle in front of the armchair	D) should I use my body to barricade the door	E) does the truck see me without its lights on	S) is the door locked?
   C) How heavy is the log?
-  C) does the vehicle need to be driven D) is the ladder secured to something E) Where are you throwing it from
-  C) what language is this
+  C) does the vehicle need to be driven
+  B) how heavy is the suitcase?
   C) can someone hold it steady while I climb
-  A) speaker
-  A) truck
-  A) drawer	B) vase	C) road	D) church	E) barrier
+  A) speaker	B) dress	C) screen	E) document	D) boat
+  A) truck	B) table lamp	C) rail	D) table	E) lamp
+  A) drawer	B) vase	C) road	D) church	E) barrier  C) road is the correct answer.
   C) boat
   C) chalk
-  D) rake
-  B) curtains
+  A) orange	B) rice cooker	C) seat cushion	E) knob	D) rake
+  C) apron
   D) map
   D) sail a boat
-  D) read the newspaper
+  A) look through the lens
   D) ascend the ladder
   C) move toward the newspaper
-  A) pick up the cone
+  D) hold on to the suitcase
   C) turn the lamp on
-  C) sleep in the bed
-  C) climb the ladder
-  B) exit through the opening
+  D) read the book page
+  D) barricade the door
+  C) move forward to the door
   E) turn on the television
-  B) close
+  A) open
   A) on
-  A) with the camera plugged in
+  B) with the camera unplugged
   B) open
   It is
   It is.
-  It is not
-  It is a light source.
   It is
+  It is a light source.
+  It is a light source.
   C) somewhat well
-  A) attached to a vehicle
+  C) in the kitchen
   C) in the bathroom
   C) under the fireplace
   C) on a desk
-  C) basket
-  D) cereal
+  A) shutters
+  B) bench
   D) shoe
-  A) pail
-  A) video
+  C) pallet jack
+  D) bottle
   C) curtains
   C) tv stand
-  B) cereal
-  C) bicycle
-  C) plate
-  C) wheel
+  A) bowl
+  D) donkey
+  D) sink
+  D) truck
   C) desk
-  you cannot
-  you can
   you can
   you cannot
+  you cannot
+  you can

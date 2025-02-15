@@ -3,9 +3,9 @@
   B) monitor
   A) bicycle
   C) windshield
-  D) house
+  D) house.
   E) drawer
-  B) windshield
+  C) plaque
   D) barrel
   C) boat
   D) stairway
@@ -20,7 +20,7 @@
   A) crate
   B) dress
   A) suit
-  B) ladder
+  C) cushion
   E) cereal
   C) map
   B) barrier
@@ -28,17 +28,17 @@
   C) car
   E) rake
   B) ceiling
-  D) coffee table
-  A) column
+  C) lighthouse
+  B) lamp
   E) water tank
   D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking.
   A) Curtains are able to open from side to side while shutters are able to open up or down.
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals.
   D) A boat and truck can drive on the same terrain.
-  E) There's no difference between a sign and a book.
+  C) A book is made of many pieces of paper.
   D) There's no difference between a broom and mop
-  B) Only a television has a screen
-  B) A taillinght illuminates the back while a headlight illuminates the front
+  C) A television is used to play videos and a computer is used for many different tasks
+  B) A taillight illuminates the back while a headlight illuminates the front
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
   B) tilting
   B) non-perishable food
@@ -52,9 +52,9 @@
   B) pickaxe
   A) hose
   C) carbon dioxide detector
-  A) crow bar
+  C)conrete saw
   A) Use the knob at the back of your head to adjust the hat to tightly fit your head. B) Put the hard hat on your head.
-  A) If possible, use a helicopter to get an aerial view of the effected area. B) divide the effected area into sectors.
+  A) If possible, use a helicopter to get an aerial view of the effected area. B) divide the effected area into sectors. Answer: A) If possible, use a helicopter to get an aerial view of the effected area. B) divide the effected area into sectors.
   A) Wait for others to fill the truck bed. B) open the tailgate.
   A) drive the shovel into the dirt.
   it can.
@@ -65,33 +65,33 @@
   B) Is the orange supposed to be peeled or sliced?
   D) What container should I pump the gas into?
   E) Should I zoom in on the flower?
-  B) How tall is the fence?
+  A) should I use a rope?
   C) How heavy is the log?
   E) Where are you throwing it from?
-  A) the one on the right or left?
+  B) how heavy is the suitcase?
   C) can someone hold it steady while I climb?
   A) speaker
-  A) truck
-  B) vase
+  A) truck	B) table lamp	C) rail	D) table	E) lamp
+  D) church
   C) boat
-  C) chalk
+  E) pallet
   D) rake
   A) book
   B) hat
   A) open the book
   C) saw the wood
-  B) drive a car
+  A) write on the note
   C) move toward the newspaper
-  A) pick up the cone
+  D) hold on to the suitcase
   C) turn the lamp on
   E) ride a bicycle
-  B) locate the rock
-  E) travel to the barn
-  A) water the plant
+  A) travel to the barn
+  A) go back to the building
+  E) turn on the television
   A) open	B) close
   A) on
   B) with the camera unplugged
-  A) closed	B) open
+  B) open
   It is not.
   It is not.
   It is.
@@ -103,18 +103,18 @@
   E) at the airport
   C) on a desk
   C) basket
-  B) bench
+  A) barn
   B) barrel
   E) plate
   C) rake
   C) curtains
-  C) tv stand
+  B) shed
   A) bowl
   A) grill
   B) tomato
   D) truck
   C) desk
   you can.
-  you can use a bottle as a basket.
+  you cannot.
   you can use a table as a desk.
   you cannot.

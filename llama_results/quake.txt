@@ -1,11 +1,11 @@
   E) motorcycle
   C) house
-  C) partition
-  C) poster
+  D) table lamp
+  D) jar
   C) windshield
   D) house
   E) drawer
-  A) vehicle
+  C) plaque
   D) barrel
   C) boat
   D) stairway
@@ -14,26 +14,26 @@
   E) headlight
   E) swivel chair
   B) coffee table
-  E) bag
+  C) pail
   E) pail
   D) book
   A) crate
-  C) awning
-  A) suit
+  A) speaker
+  C) taillight
   A) shutters
   D) floor
   D) greenhouse
   A) opening
   D) jug
-  A) basket
-  E) rake
-  A) newspaper
+  C) car
+  D) box
+  B) ceiling
   D) coffee table
   A) column
   E) water tank
   D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
   A) Curtains are able to open from side to side while shutters are able to open up or down
-  D) There are no differences between a hydrant and an extinguisher
+  B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
   D) A truck is driven on land while a boat is driven on water
   C) A book is made of many pieces of paper
   D) There's no difference between a broom and mop
@@ -52,29 +52,29 @@
   A) axe
   A) hose
   C) carbon dioxide detector
-  B) thermal imaging camera
+  D) hydraulic cutter
   A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
   B) divide the effected area into sectors.
-  B) open the tailgate.
+  A) Wait for others to fill the truck bed.
   A) drive the shovel into the dirt.
   it can
   it cannot
   it can
   it cannot
   A) to what page should I open it?
-  B) Is the orange supposed to be peeled or sliced?
+  C) should I get a bucket of water first?
   D) What container should I pump the gas into?
-  E) Should I zoom in on the flower?
+  D) is the alley lit?
   B) How tall is the fence?
   C) How heavy is the log?
   E) Where are you throwing it from?
-  B) how heavy is the suitcase?
+  A) the one on the right or left?
   C) can someone hold it steady while I climb?
   D) boat
   D) table
-  C) road
+  D) church
   C) boat
-  E) pallet
+  D) clothing
   D) rake
   A) book
   A) shade
@@ -85,36 +85,36 @@
   D) hold on to the suitcase
   C) turn the lamp on
   A) close the door
-  A) travel to the barn
+  B) locate the rock
   D) play with the ball
-  E) turn on the television
+  C) enter the doorway
   A) open
   A) on
-  A) with the camera plugged in
-  A) closed
+  B) with the camera unplugged
+  B) open
   It is not.
   It is not.
   It is.
   It is.
   It is not.
-  D) no idea
+  C) somewhat well
   A) attached to a vehicle
   C) in the bathroom
   E) at the airport
   C) on a desk
   C) basket
-  D) cereal
-  C) headlight
-  C) pallet jack
+  A) barn
+  A)chair
+  E) plate
   C) rake
   C) curtains
   D) chair
   A) bowl
   A) grill
   A) coffee cup
-  A) silo
+  D) truck
   C) desk
   You can.
-  You cannot.
+  you cannot
   you can
-  You cannot.
+  you cannot

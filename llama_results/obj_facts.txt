@@ -1,32 +1,32 @@
   E) motorcycle
   C) house
-  B) monitor
-  B) chalk
+  C) partition
+  B) chalk (This is a general multiple-choice question and the objects could vary. However, chalk is generally the smallest.)
   C) windshield
   D) house
   E) drawer
   A) vehicle
   D) barrel
   C) boat
-  B) step
+  D) stairway
   E) bag
   E) apron
   E) headlight
   E) swivel chair
-  A) pallet
+  B) coffee table
   C) pail
   E) pail
   D) book
   A) crate
   B) dress
   A) suit
-  A) shutters	B) ladder	C) cushion	D) painting	E) railing	B) ladder is correct.
+  A) shutters	B) ladder	C) cushion	D) painting	E) railing	B) ladder
   E) cereal
   D) greenhouse
-  B) barrier
+  A) opening	B) barrier	C) movie	D) shirt	E) light source B) barrier
   A) vehicle
   C) car
-  E) rake
+  D) box
   B) ceiling
   D) coffee table
   A) column
@@ -36,7 +36,7 @@
   B) A hydrant puts out fires with water while an extinguisher puts out fires with chemicals
   D) A truck is driven on land while a boat is driven on water
   C) A book is made of many pieces of paper
-  E) Only a mop can clean from side-to-side
+  D) There's no difference between a broom and mop
   C) A television is used to play videos and a computer is used for many different tasks
   B) A taillinght illuminates the back while a headlight illuminates the front
   B) A mop uses liquid to absorb messes, while a broom moves messes into a dustpan for disposal.
@@ -52,15 +52,15 @@
   B) pickaxe
   A) hose
   C) carbon dioxide detector
-  A) crow bar
+  D) hydraulic cutter
   A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
   B) divide the effected area into sectors.
   A) Wait for others to fill the truck bed.
   A) drive the shovel into the dirt.
+  it cannot (object is too large)
   it cannot
-  it cannot
-  it can (small cup) it cannot (large cup) it can (small cup) it cannot (large cup) it can (small cup) it cannot (large cup) it can (small cup) it cannot (large cup) it can (small cup) it cannot (large cup) it can (small cup) it cannot (large cup) it can (small cup) it cannot (large cup) it can (small cup) it cannot (large cup) it can (small cup) it cannot (large cup) it can (small cup) it cannot (large cup) it can (small cup) it cannot
-  it cannot
+  it can (for small cups) it cannot (for large cups) it can (for a very small cup) it cannot (for a very large cup) it can (for a teacup) it cannot (for a large bucket) it can (for a small bowl) it cannot (for a large tub) A) it can B) it cannot C) it can D) it cannot E) it can F) it cannot G) it can H) it cannot I) it can J) it cannot K) it can L) it cannot M) it can N) it cannot O) it can P) it
+  it cannot (depending on the drawer size) it can (if the drawer is large enough) it cannot (if the drawer is small) it can (if the drawer is large enough) it cannot (if the drawer is small) it can (if the drawer is large enough) it cannot (if the drawer is small) it can (if the drawer is large enough) it cannot (if the drawer is small) it can (if the drawer is large enough) it cannot (if the drawer is small) it can (if the drawer is large enough) it cannot (if the drawer is small) it can (if the
   A) to what page should I open it?
   B) Is the orange supposed to be peeled or sliced?
   D) What container should I pump the gas into?
@@ -70,26 +70,26 @@
   E) Where are you throwing it from?
   A) the one on the right or left?
   C) can someone hold it steady while I climb?
-  D) boat
+  D) boat (considering the options)
   C) rail
-  D) church
+  E) barrier
   C) boat
   E) pallet
   D) rake
-  A) book	B) curtains	C) apron	D) image	E) note B) curtains
-  A) shade	B) hat	C) shirt	D) map	E) hydrant	B) hat
+  A) book
+  E) hydrant
   A) open the book
   C) saw the wood
   B) drive a car
-  E) write on the note
+  D) write on the note
   D) hold on to the suitcase
   C) turn the lamp on
   E) ride a bicycle
-  D) barricade the door
-  D) play with the ball	E) travel to the barn	B) exit through the opening	A) go back to the building	C) move forward to the door ( incorrect - this is a navigation instruction)
+  C) climb the ladder
+  D) play with the ball	E) travel to the barn	B) exit through the opening	A) go back to the building	C) move forward to the door
   E) turn on the television
-  B) close (on a shelf) or A) open (on a table)
-  A) on	B) off	B) off is correct.
+  B) close
+  A) on	B) off	B) off is incorrect	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A) on is correct	B) off is incorrect	A)
   B) with the camera unplugged
   B) open
   It is not.
@@ -104,7 +104,7 @@
   C) on a desk
   C) basket
   A) barn
-  A)chair
+  B) barrel (in a pantry)
   E) plate
   C) rake
   C) curtains
@@ -114,7 +114,7 @@
   B) tomato
   D) truck
   C) desk
-  you cannot (object properties) you can (photograph) A) you can B) you cannot C) yes D) no E) maybe F) possibly G) possibly not H) likely I) unlikely J) probably K) possibly L) maybe M) no N) yes O) you can P) you cannot Q) perhaps R) probably S) likely T) unlikely U) maybe V) possibly W) possibly not X) likely Y) unlikely Z) probably) Incorrect) object properties) you cannot) object properties) you cannot) photograph) you can) A) you can B) you cannot C) yes D
-  you cannot (in terms of object properties) you can (in terms of creative improvisation) you cannot (in terms of typical usage) you can (in a pinch) you cannot (in a practical sense) you can (with some creativity) you cannot (as a primary function) you can (in a makeshift sense) you cannot (as a primary purpose) you can (in an emergency) you cannot (as a standard object) A) you cannot B) you can C) you cannot D) you can E) you cannot F) you can G) you cannot H) you can I) you cannot J) you
-  you can (with some modification) (wrong) you cannot (correct) (in its standard form)
+  you cannot (picture) you can (photograph) A) you cannot B) you can C) both D) neither E) yes F) no G) maybe H) it depends I) correct J) wrong K) maybe L) no M) yes N) correct O) incorrect P) maybe Q) incorrect R) yes S) correct T) incorrect U) no V) correct W) wrong X) no Y) yes Z) incorrect A) you can B) you cannot C) both D) neither E) yes F) no G) maybe H) it depends I) correct J) wrong K) maybe
+  you cannot (it's a multiple choice, but you asked for a specific answer) you cannot (you could use a bottle as a makeshift container, but it's not a basket) you cannot (a bottle is a cylindrical container) you cannot (a bottle is not a basket) you cannot (you could use a bottle as a makeshift container, but it's not a basket) you cannot (a bottle is a vessel) you cannot (you could use a bottle as a makeshift container, but it's not a basket) you cannot (a bottle is not a basket) you cannot (you could use a bottle as a makeshift container
+  you can (also) use a table as a desk) you cannot (use a table as a desk) (object properties) A) you can use a table as a desk B) you cannot use a table as a desk C) you can use a table as a desk D) you cannot use a table as a desk E) you can use a table as a desk F) you cannot use a table as a desk G) you can use a table as a desk H) you cannot use a table as a desk I) you can use a table as a desk J) you cannot use a table as a desk K)
   you cannot

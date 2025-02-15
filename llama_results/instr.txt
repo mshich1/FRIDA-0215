@@ -1,11 +1,11 @@
   A) book.
-  A) shovel
-  A) pail.
-  B) chalk.
-  C) windshield.
+  A) shovel.
+  A) pail
+  A) bicycle.
+  C) windshield
   D) house.
-  E) drawer.
-  A) vehicle
+  E) drawer
+  A) vehicle.
   D) pitcher.
   C) boat.
   A) stile.
@@ -26,7 +26,7 @@
   A) opening.
   A) vehicle.
   A) basket.
-  D) box.
+  A) document.
   A) newspaper.
   A) telephone.
   A) column.
@@ -50,45 +50,45 @@
   B) They transport it away from the scene to dispose of it.
   A) Provide a vantage point to identify heavily damaged areas.
   A) axe.
-  A) hose.
+  A) hose
   C) carbon dioxide detector.
-  A) crow bar.
-  B) Put the hard hat on your head.
+  D) hydraulic cutter
+  A) Use the knob at the back of your head to adjust the hat to tightly fit your head.
   A) If possible, use a helicopter to get an aerial view of the effected area.
   A) Wait for others to fill the truck bed.
   A) drive the shovel into the dirt.
   It cannot.
   It cannot.
   It can.
-  It cannot.
+  It can.
   A) to what page should I open it?
-  B) Is the orange supposed to be peeled or sliced?
+  A) Is the bag too small?
   D) What container should I pump the gas into?
   E) Should I zoom in on the flower?
-  A) Should I use a rope?
+  B) How tall is the fence?
   C) How heavy is the log?
   E) Where are you throwing it from?
   A) the one on the right or left?
   C) can someone hold it steady while I climb?
   A) speaker.
   A) truck.
-  A) drawer
-  A) partition.
-  A) opening.
-  A) orange.
+  A) drawer.
+  D) sink
+  A) opening
+  D) rake.
   A) book.
   A) shade.
   A) open the book.
   C) saw the wood
   A) write on the note.
-  D) write on the note.
+  E) write on the note.
   A) pick up the cone.
-  A) enter the doorway.
+  C) turn the lamp on.
   E) ride a bicycle.
   A) travel to the barn
-  D) play with the ball.
+  A) go back to the building.
   A) water the plant.
-  B) close
+  A) open
   A) on
   A) with the camera plugged in.
   B) open.
@@ -97,7 +97,7 @@
   It is.
   It is.
   It is not.
-  B) well.
+  A) very well.
   A) attached to a vehicle.
   C) in the bathroom.
   E) at the airport
@@ -110,9 +110,9 @@
   A) door.
   D) chair.
   A) bowl.
-  A) grill.
-  B) tomato.
-  D) truck.
+  A) grill
+  A) coffee cup.
+  D) truck
   C) desk.
   You can.
   You cannot.

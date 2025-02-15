@@ -1,119 +1,119 @@
   E) motorcycle
   C) house
   E) ball
-  E) taillight
+  D) jar
   A) gazebo
   D) house
   E) drawer
-  A) vehicle
+  B) windshield
   C) crate
   C) boat
   E) stepladder
   E) bag
   E) apron
-  A) taillight
+  E) headlight
   E) swivel chair
-  B) coffee table
+  C) shelf
   E) bag
   C) hydrant
-  C) barrel
-  B) table lamp
-  A) speaker
-  C) taillight
+  B) water tank
+  A) crate
+  C) awning
+  E) sawhorse
   E) railing
   C) bicycle
   C) map
-  E) light source
-  B) shade
+  C) movie
+  C) orange
   C) car
-  C) clothing
+  B) suit
   C) broom
   C) lighthouse
   C) plaque
   E) water tank
-  A) A coat and an apron have no differences	B) A coat can only be used in the kitchen	C) An apron can only be worn outside	E) A coat and an apron can only be worn together	D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking
-  B) Curtains can only be opened from the bottom
+  A) A coat and an apron have no differences	B) A coat can only be used in the kitchen	C) An apron can only be worn outside	D) A coat can be used to keep yourself warm and an apron can be used to protect your clothing while baking	E) A coat and an apron can only be worn together
+  C) Curtains and shutters have no differences in the way they are used
   E) Only extinguishers can be used by firefighters
   E) A boat and truck can drive on the same terrain.
   E) There's no difference between a sign and a book
-  A) Only a broom can sweep while a mop only mops
-  D) A computer is bigger than a television
-  A) A taillight illuminates the back while a headlight illuminates the front
+  E) Only a mop can clean from side-to-side
+  E) The television and computer can't be used at the same time
+  B) A taillight illuminates the back while a headlight illuminates the front
   E) A mop and a broom are interchangable.
-  C) sirens
+  B) tilting
   E) sand bags
-  B) pancaking
-  A) Wide area assessment
+  A) drop off
+  B) Worksite triage
   E) unstable surfaces
-  B) protect the torso
+  C) protect the hands
   E) finds individuals trapped in rubble
   C) They lift it up for workers on high levels to reach
   E) Blow debris out of the way
   C) hydraulic lift
   B) helmet
   C) carbon dioxide detector
-  B) thermal imaging camera
+  C)concrete saw
   B) Put the hard hat on your head.
-  B) divide the effected area into sectors.
+  A) If possible, use a helicopter to get an aerial view of the affected area.
   B) open the tailgate
   B) use the handle to lever the shovel contents up.
   it can
   it can
   it can
   it can
-  B) should I point with my finger.
-  B) Is the orange supposed to be peeled or sliced?
-  B) does the truck see me without its lights on.
-  B) is the cup supposed to be filled with something.
+  A) to what page should I open it.
+  E) how tall is the fence
+  A) is the car on already.	B) does the truck see me without its lights on.	C) should I get a bucket of water first.	D) What container should I pump the gas into.	E) should I use both hands to climb.
+  E) Should I zoom in on the flower.
   B) How tall is the fence.
-  E) is the doorway to the bedroom or the kitchen.
+  A) does the lamp have a lightbulb	B) does the bed have sheets?	C) is the door to the bedroom or the kitchen?	D) should I put on pants first?	E) is the bed or the table?
   E) Where are you throwing it from?
   B) how heavy is the suitcase.
-  A) are the obstacles able to be navigated around	B) is the office not safe to be in	C) can someone hold it steady while I climb	D) should I break it with an object	E) is the bag too small
+  C) can someone hold it steady while I climb.
   D) boat
   C) rail
   E) barrier
   C) boat
-  B) telephone
-  B) rice cooker
+  E) pallet
+  C) seat cushion
   C) apron
-  B) hat
+  E) hydrant
   B) enter the doorway
   B) plug in the outlet
-  B) drive a car
-  B) water the plant
+  D) ascend the ladder
+  C) move toward the newspaper
   B) put the trash in the bag
   C) turn the lamp on
   E) ride a bicycle
-  B) locate the rock
+  A) travel to the barn
   B) exit through the opening
   E) turn on the television
   A) open
   A) on
   A) with the camera plugged in
   A) closed
+  It is
   It is.
   It is.
   It is.
   It is.
-  It is.
-  A) very well	B) well	C) somewhat well	D) not well	E) no idea
-  C) in the kitchen
+  B) well	C) somewhat well
+  A) attached to a vehicle
   C) in the bathroom
   E) at the airport
   C) on a desk
   B) bicycle
   A) barn
-  B) barrel
-  B) luggage
-  C) rake
+  A) chair
+  C) pallet jack
+  E) faucet
   C) curtains
   C) tv stand
-  B) cereal
-  B) bowl
-  C) plate
-  B) mirror
-  C) desk
+  C) clothing
+  A) grill
+  B) tomato
+  A) silo
+  B) hat
   you can
   you can
   you can
