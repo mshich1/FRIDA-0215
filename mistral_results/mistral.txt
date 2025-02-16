@@ -52,7 +52,7 @@ A) Provide a vantage point to identify heavily damaged areas
 B) pickaxe
 A) hose
 C) carbon dioxide detector
-C) cutting torch
+D) hydraulic cutter
 B) Put the hard hat on your head.
 step B
 B) open the tailgate.
