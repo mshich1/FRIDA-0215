@@ -9,6 +9,7 @@ eval_ans = [i["instances"][0]["output"] for i in eval_qs]
 adapter_result_path = "../llama_results/"
 adapter_results_names = ["rel_size","can_do_it","is_a_dif","risky","equip","obj_facts","quake","instr","all"]
 adapter_suffix = ['_sm','_md','']
+model_names = ['meta-llama/Llama-3.2-1B-Instruct','meta-llama/Llama-3.2-3B-Instruct','meta-llama/Llama-3.1-8B-Instruct']
 cat_map = {"rel_size":["biggest", "heaviest", "fits", "interact"],\
             "can_do_it":["can_do", "can_do_size", "can_do_shape", "can_do_char", "can_do_goal"], \
             "is_a_dif": ["difference", "diff_criteria", "use_as","is_a", "types_of"], \
@@ -76,7 +77,7 @@ for l in eval_qs:
 #         outie.write("\n")
 
 with open("../llama_results/sem.txt","w") as outie:
-    for s in adapter_suffix:
+    for s,mod in zip(adapter_suffix,model_names):
         outie.write(f"~~~MODEL FAMILY IS LLAMA {s}~~~\n")   
         for a in adapter_results_names:
             cat_results = {"rel_size":[],"can_do_it":[], "is_a_dif": [], "risky":[], "equip":[], "obj_facts":[], "quake":[], "instr":[]}
@@ -102,7 +103,7 @@ with open("../llama_results/sem.txt","w") as outie:
                     cat_results["instr"].append(m)
                 else:
                     continue
-            em = EmbeddingModelWrapper(model_path="meta-llama/Llama-3.2-3B-Instruct")
+            em = EmbeddingModelWrapper(model_path=mod)
             all_sem = mean(em.get_similarities(em.get_embeddings(mod_results),em.get_embeddings(eval_ans)))
             accs = {}
             for k, v in cat_results.items():
