@@ -35,7 +35,7 @@ with open(file_out, "a") as results:
     for i in tqdm(instruct):
         counter += 1
         print(counter)
-        if counter < 0:
+        if counter < 60:
             continue
         task = i["instruction"]
         choices = i["instances"][0]["input"]
