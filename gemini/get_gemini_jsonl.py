@@ -7,7 +7,7 @@ import json
 from tqdm import tqdm
 from ratelimit import limits, sleep_and_retry
 
-MINUTE = 61
+MINUTE = 65
 
 # file_in = input("Put in the relative directory and jsonl file name that you want to send to gemini: ")
 # file_out = input("Write the name of the file you want the results written to: ")
@@ -34,12 +34,12 @@ with open(file_out, "a") as results:
     counter = 0
     for i in tqdm(instruct):
         counter += 1
-        if counter < 118:
+        print(counter)
+        if counter < 0:
             continue
-        else:
-            task = i["instruction"]
-            choices = i["instances"][0]["input"]
-            instruction = task + "\n" + choices + "\n" + "Answer: "
-            check_lim() 
-            res = model.generate_content(instruction).text
-            results.write(f"{res}\n")
+        task = i["instruction"]
+        choices = i["instances"][0]["input"]
+        instruction = task + "\n" + choices + "\n" + "Answer: "
+        check_lim() 
+        res = model.generate_content(instruction).text
+        results.write(f"{res}")
