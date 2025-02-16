@@ -98,12 +98,12 @@ quake accuracy: {'exact_match': 0.6}
 instr accuracy: {'exact_match': 0.3157894736842105}
 
 ***MODEL IS mistral***
-overall accuracy: {'exact_match': 0.6416666666666667}
+overall accuracy: {'exact_match': 0.65}
 rel_size accuracy: {'exact_match': 0.75}
 can_do_it accuracy: {'exact_match': 0.9047619047619048}
 is_a_dif accuracy: {'exact_match': 0.5909090909090909}
 risky accuracy: {'exact_match': 0.6666666666666666}
-equip accuracy: {'exact_match': 0.5833333333333334}
+equip accuracy: {'exact_match': 0.6666666666666666}
 obj_facts accuracy: {'exact_match': 0.5833333333333334}
 quake accuracy: {'exact_match': 0.8}
 instr accuracy: {'exact_match': 0.3684210526315789}
