@@ -1,0 +1,44 @@
+***MODEL IS ../llama_results/llama_sm.txt***
+overall average sem score: 0.8380480450888474
+rel_size average sem score: 0.7720522824674845
+can_do_it average sem score: 0.8158493354206994
+is_a_dif average sem score: 0.9287789193066683
+risky average sem score: 0.7475328370928764
+equip average sem score: 0.7912799815336863
+obj_facts average sem score: 0.8901140739520391
+quake average sem score: 0.7924488425254822
+instr average sem score: 0.8817679380115709
+
+***MODEL IS ../llama_results/llama_md.txt***
+overall average sem score: 0.798914185911417
+rel_size average sem score: 0.7196503710001707
+can_do_it average sem score: 0.7752942613192967
+is_a_dif average sem score: 0.905791082165458
+risky average sem score: 0.6970309714476267
+equip average sem score: 0.7003814379374186
+obj_facts average sem score: 0.8318251979847749
+quake average sem score: 0.7832972168922424
+instr average sem score: 0.8768484027762162
+
+***MODEL IS ../llama_results/llama.txt***
+overall average sem score: 0.9087902372082074
+rel_size average sem score: 0.8208221197128296
+can_do_it average sem score: 0.9819299607049852
+is_a_dif average sem score: 0.9028029523112557
+risky average sem score: 0.9015531291564306
+equip average sem score: 0.9281677057345709
+obj_facts average sem score: 0.9148132254679998
+quake average sem score: 0.9949791669845581
+instr average sem score: 0.8833527784598502
+
+***MODEL IS ../gemini_results/new_gem_raw.txt***
+overall average sem score: 0.9392458875974019
+rel_size average sem score: 0.9120164699852467
+can_do_it average sem score: 0.9999999829701015
+is_a_dif average sem score: 0.9029777510599657
+risky average sem score: 1.0000000248352687
+equip average sem score: 0.8448323210080465
+obj_facts average sem score: 0.984315867225329
+quake average sem score: 0.8575677275657654
+instr average sem score: 0.9572144809522127
+
