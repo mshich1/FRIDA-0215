@@ -9,10 +9,13 @@
 
 **LlaMa:** The code for getting answers from the fine-tuned and base models LLaMa models, as well as Gemini, and evaluating the responses
 
-**LLaMa_Results:** All results for all FRIDA models. sm refers to FRIDA 1B, md refers to FRIDA 3B, no marking refers to 8B. 
+**LLaMa_Results:** All results for all LLaMa based FRIDA models. sm refers to FRIDA 1B, md refers to FRIDA 3B, no marking refers to 8B. 
 The name refers to the ablation model in question. em means exact match, sm means semscore.
 
 **Mistral:** The code for getting answers from the fine-tuned and base Ministral 8B model and evaluating the responses
+
+**Mistral_Results:** All results for the Mistral based FRIDA model. 
+The name refers to the ablation model in question. em means exact match, sem means semscore.
 
 ## Walk through of the pipeline
 ### Part 1: Creating the seed sentences
