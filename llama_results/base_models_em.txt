@@ -1,0 +1,44 @@
+***MODEL IS ../llama_results/llama_sm.txt***
+overall accuracy: {'exact_match': 0.225}
+rel_size accuracy: {'exact_match': 0.3125}
+can_do_it accuracy: {'exact_match': 0.2857142857142857}
+is_a_dif accuracy: {'exact_match': 0.2727272727272727}
+risky accuracy: {'exact_match': 0.08333333333333333}
+equip accuracy: {'exact_match': 0.16666666666666666}
+obj_facts accuracy: {'exact_match': 0.4166666666666667}
+quake accuracy: {'exact_match': 0.0}
+instr accuracy: {'exact_match': 0.10526315789473684}
+
+***MODEL IS ../llama_results/llama_md.txt***
+overall accuracy: {'exact_match': 0.18333333333333332}
+rel_size accuracy: {'exact_match': 0.0625}
+can_do_it accuracy: {'exact_match': 0.2857142857142857}
+is_a_dif accuracy: {'exact_match': 0.22727272727272727}
+risky accuracy: {'exact_match': 0.16666666666666666}
+equip accuracy: {'exact_match': 0.0}
+obj_facts accuracy: {'exact_match': 0.4166666666666667}
+quake accuracy: {'exact_match': 0.2}
+instr accuracy: {'exact_match': 0.10526315789473684}
+
+***MODEL IS ../llama_results/llama.txt***
+overall accuracy: {'exact_match': 0.525}
+rel_size accuracy: {'exact_match': 0.3125}
+can_do_it accuracy: {'exact_match': 0.8571428571428571}
+is_a_dif accuracy: {'exact_match': 0.36363636363636365}
+risky accuracy: {'exact_match': 0.5}
+equip accuracy: {'exact_match': 0.6666666666666666}
+obj_facts accuracy: {'exact_match': 0.6666666666666666}
+quake accuracy: {'exact_match': 0.8}
+instr accuracy: {'exact_match': 0.3157894736842105}
+
+***MODEL IS ../gemini_results/new_gem_raw.txt***
+overall accuracy: {'exact_match': 0.725}
+rel_size accuracy: {'exact_match': 0.625}
+can_do_it accuracy: {'exact_match': 1.0}
+is_a_dif accuracy: {'exact_match': 0.5454545454545454}
+risky accuracy: {'exact_match': 1.0}
+equip accuracy: {'exact_match': 0.5833333333333334}
+obj_facts accuracy: {'exact_match': 0.9166666666666666}
+quake accuracy: {'exact_match': 0.6}
+instr accuracy: {'exact_match': 0.5789473684210527}
+
